@@ -4,8 +4,7 @@ project:
   render:
     - "*.qmd"
     - "blog/**/*.qmd"     # Recursively catches blog/index.qmd and blog/posts/*.qmd
-    - "brain/wiki/concepts/*.md"  # Explicitly invite the clean concept notes
-    - "brain/wiki/entities/*.md"  # Explicitly invite the clean entity notes
+    - "!brain"            # Explicitly invite the clean concept notes
     - "!.obsidian/"       # Strictly excludes the Obsidian configuration tracking folder
     - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
 
@@ -20,7 +19,7 @@ website:
     type: dark              # Injects the "data-bs-theme=dark" context
     search: true            # Compiles the "d-flex" search box on the right side
     left:
-      - href: index.qmd
+      - href: knowledge/index.qmd
         text: LLM-wiki
       - href: about.qmd
         text: "What it is"
