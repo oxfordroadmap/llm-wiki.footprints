@@ -1,0 +1,315 @@
+---
+title: "Orchestrating the Twin Transition in Multinational Corporations"
+subtitle: "Technology Roadmapping for Green and Digital Global Business Services"
+author: "Han-Teng Liao & Karen Ang"
+date: "2026-06-11"
+format:
+  revealjs:
+    theme: beige
+    css: ICE_2026-306.css
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    show-slide-number: speaker
+---
+
+## 🌱 Section I: Introduction
+
+### Structural Realignment & Digital Resonance
+
+* **Digital Resonance**: Transitioning from traditional labor arbitrage to high-tech capability.
+* **Living Laboratories**: GBS units as testing hubs for green and digital transformation.
+* **Beyond Cost Centers**: Strategic upgrading to navigate a volatile multipolar economy.
+
+<aside class="notes">
+Welcome everyone. Today we examine the orchestration of the Twin Transition through Global Business Services. GBS units are no longer merely transactional outsourcing operations; they have emerged as vital living laboratories that bridge the technical execution of AI and sustainability initiatives inside multinational corporations.
+</aside>
+
+---
+
+## 📚 Section II: Literature Review
+
+### Ecosystem Gaps & The Maturity Trap
+
+* **Data Integration**: Evolving from localized data hubs to distributed networks.
+* **The Maturity Trap**: AI infrastructure retrofitted onto fragmented legacy architectures.
+* **Socio-Technical Lens**: Balancing technical automation with human capability.
+
+<aside class="notes">
+Our literature review tracks how centralization has given way to complex digital orchestration. However, many organizations fall into a maturity trap. Without process normalization, advanced AI models act as a multiplier of inefficiency when layered on top of non-standardized legacy setups.
+</aside>
+
+---
+
+## 🧩 Section III: Methodology
+
+### Dual-Horizon Mixed-Methods Framework
+
+* **Science Mapping**: Bibliometric analysis of 979 items to identify regimes.
+* **Prospective Design**: Applying the ITU ICT-Centric Toolkit for roadmaps.
+* **MLP Transition Lens**: Tracking niche innovations vs. macro-landscape pressures.
+
+<aside class="notes">
+We deploy a mixed-methods design that connects retrospective science mapping with prospective service design. By reviewing three decades of literature using a Multi-Level Perspective, we classify stable industrial regimes and locate emerging niche innovations that can alter global value chain operations.
+</aside>
+
+---
+
+## 🧩 Section III: Methodology
+
+### The ITU Ecosystem Canvas Alignment
+
+| Tool Components | Goals in Twin Transition Governance |
+| :--- | :--- |
+| **Stakeholder Engagement** | Capture common regime needs and value positions. |
+| **Ecosystem Canvas** | Align niche actors around shared operational manifestos. |
+| **Sector Development** | Monitor cross-sectoral supply chain and talent flows. |
+
+<aside class="notes">
+The ITU innovation toolkit provides the structured diagnostic canvases required for this study. By treating GBS hubs as socio-technical interfaces, we track how policy goals, clean tech scale-ups, and workforce development progress from isolated niches into permanent, consolidated industry regulations.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Bibliometric Baseline & Specialized Keywords
+
+| Bibliometric Indicator | Dataset Metrics (1993–2026) |
+| :--- | :--- |
+| **Total Documents ($N$)** | 979 core database publications |
+| **Annual Growth Rate** | 7.23% continuous literature expansion |
+| **Unique Author Keywords** | 2,630 specialized thematic descriptors |
+| **International Co-authorship** | 20.63% cross-border research links |
+
+<aside class="notes">
+Our database baseline of 979 documents confirms a mature, highly collaborative field. Crucially, the high volume of unique author keywords signals that the academic conversation is shifting from broad definitions to practitioner-defined, specialized technical methodologies.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Conceptual Network Topology
+
+![Fig 1: Conceptual network: keyword co-occurrence visualization](fig1_placeholder.png){width=100%}
+
+::: {.small}
+* **Red Cluster**: Legacy BPO operations, labor offshoring, and transaction risk.
+* **Green & Yellow Clusters**: Central connectors for ICT and digital economy.
+* **Peripheral Anchors**: CSR and governance metrics showing initial connections.
+:::
+
+<aside class="notes">
+The keyword network maps a clear structural path. While the traditional BPO cluster remains deeply anchored in cost-arbitrage risk, the green and yellow optimization clusters act as structural bridges, pulling old administrative frameworks toward modern ecosystem intelligence.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Factorial Mapping & The Policy Gap
+
+![Fig 2: Factorial Analysis MCA Map](fig2_placeholder.png){width=100%}
+
+::: {.small}
+* **High-Density Core**: Alignment of cloud computing and process automation.
+* **Structural Hole**: Isolation of public administration and policy clusters.
+* **Conceptual Inertia**: Risk-mitigation metrics overshadowing green ICT tools.
+:::
+
+<aside class="notes">
+Our multiple correspondence analysis uncovers an engineering core focused heavily on cloud execution. However, we detected a severe structural hole: public administration and strategic environmental governance are statistically decoupled from the central technical execution core, creating a noticeable execution policy gap.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Thematic Evolution Materialization
+
+![Fig 3: Longitudinal Thematic Evolution Map](fig3_placeholder.png){width=100%}
+
+::: {.small}
+* **Early Era (1993–2010)**: Task centralization and basic cost-cutting focus.
+* **Middle Era (2011–2020)**: Maturation into global shared services structures.
+* **Modern Horizon (2021–2026)**: Transformation toward Sustainable Intelligence models.
+:::
+
+<aside class="notes">
+Tracing evolutionary pathways across over three decades reveals a clear mutation. The historical emphasis on simple task centralization has fractured, reorganizing into broader themes of digital transformation, machine learning, and corporate social responsibility tracking mechanisms.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Strategic Map: Niche Trajectories
+
+* **Motor Themes**: Capability-driven GBS, lean orchestration models.
+* **Basic Themes**: Machine learning, robotic process automation, IT management.
+* **Niche Quadrant**: ESG metrics, blockchain networks, employee wellness frameworks.
+
+<aside class="notes">
+Our strategic map visualizes current niche trajectories. While RPA and standard digital workflows are now basic requirements, topics like ESG tracking and workforce wellness are positioned as high-density niche elements, indicating they are poised to become core regime rules.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### Global Research Network & Nodes
+
+* **Trans-Pacific Trajectories**: High research links between major economies.
+* **Decoupling Realities**: Academic collaboration stays highly integrated.
+* **Distributed Network**: Shifting from single-site spokes to multi-hub setups.
+
+<aside class="notes">
+The social network analysis proves that international collaboration has remained integrated despite macroeconomic friction. Rather than experiencing total decoupling, GBS research centers are establishing distributed nodes to maintain knowledge continuity across borders.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### 2026 GBS Landscape: Ecosystem Maturity
+
+| Country Hub | Centers | Workforce | Strategic Core Specialization (2026) |
+| :--- | :--- | :--- | :--- |
+| **Poland** | ~2,000 | 488,700+ | AI-Native Workflows, Fintech platforms |
+| **Portugal** | ~270 | 93,000+ | Green Tech; Software Centers of Excellence |
+| **Malaysia** | ~750+ | 250,000+ | GBS 5.0; high-value APAC digital gateway |
+
+<aside class="notes">
+As detailed in Table 1, the 2026 landscape highlights specific national pathways. Poland, Portugal, and Malaysia collectively employ nearly one million professionals. Each country uses tailored digital status frameworks to elevate their hubs from simple transactional processing centers.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings
+
+### The "Middle Power" Airlock Gateways
+
+* **Avoiding Development Traps**: Bypassing middle-income constraints through high talent.
+* **Geopolitical Cushioning**: Insulating value chains from U.S.-China bifurcation.
+* **Living Laboratories**: Deploying real-world automated compliance workflows.
+
+<aside class="notes">
+These regional hubs act as critical middle-power airlocks. By supplying high-value technical services, they protect corporate value chains from geopolitical cloud fractures, showing that location competitiveness relies on local ecosystem readiness rather than cheap labor.
+</aside>
+
+---
+
+## 💡 Section V: Discussion
+
+### The Operational Airlock Mechanism
+
+* **Landscape Mediation**: Translating macro climate regulations into reality.
+* **Process Normalization**: Standardizing raw data inputs before AI deployment.
+* **Regime Upgrade**: Converting corporate policy targets into active workflows.
+
+<aside class="notes">
+Our main theoretical contribution identifies the GBS unit as an operational airlock. When a multinational corporation is hit by landscape shocks like carbon adjustment taxes, the GBS unit processes and standardizes that pressure, building it directly into corporate workflows.
+</aside>
+
+---
+
+## 💡 Section V: Discussion
+
+### Stakeholder Engagement Alignment
+
+![Fig 4: Operational ITU Stakeholder Canvas](fig4_placeholder.png){width=100%}
+
+::: {.small}
+* **Policy Thread**: Translating environmental directives into standards.
+* **Talent Thread**: Coordinating university programs with tech targets.
+* **Reward Thread**: Linking green financial systems to audit checks.
+:::
+
+<aside class="notes">
+By organizing our bibliometric clusters using the ITU toolkit, we mapped four core stakeholder engagement threads. This setup moves teams away from static reporting, establishing shared design models where governments, tech companies, and universities cooperate smoothly.
+</aside>
+
+---
+
+## 💡 Section V: Discussion
+
+### Deep-Dive: Policy & Talent Threads
+
+* **Compliance Integration**: Connecting carbon tax rules directly to global corporate accounting.
+* **Ecosystem Sourcing**: Replacing simple headcount hiring with capability development.
+* **High-Value Functions**: Shifting regional roles to advanced research and engineering.
+
+<aside class="notes">
+The policy and talent threads show that tracking compliance parameters is becoming an essential part of daily operations. GBS networks exploit this change to capture high-value work, moving local workforces into complex engineering and product design spaces.
+</aside>
+
+---
+
+## 💡 Section V: Discussion
+
+### Deep-Dive: Reward & Experimentation
+
+* **Green RegTech Integration**: Using automated checks to guide sustainable supply actions.
+* **Democratizing Innovation**: Creating sandbox spaces for AI process tests.
+* **Cultural Resilience**: Protecting employee well-being amid technical transitions.
+
+<aside class="notes">
+The reward and experimentation threads focus on continuous improvement. By integrating automated regulatory tools with shared spaces for testing AI workflows, organizations can experiment safely, protecting baseline operational stability while upgrading workflows.
+</aside>
+
+---
+
+## 🏁 Section VI: Conclusion
+
+### Core Strategic Implications
+
+* **Socio-Technical Governance**: Moving beyond isolated technology metrics.
+* **Mandatory Process Hygiene**: Normalization is an absolute requirement for AI tools.
+* **Value Redefinition**: Positioning sustainability criteria at the core of performance.
+
+<aside class="notes">
+In conclusion, managing the Twin Transition requires treating GBS hubs as integrated socio-technical systems. Leaders must look past simple technology metrics and realize that process normalization is the vital foundation for AI and green reporting systems.
+</aside>
+
+---
+
+## 🏁 Section VI: Conclusion
+
+### Human-Centric Industry 5.0 Goals
+
+* **Simultaneous Investment**: Balancing technology investments with workforce talent development.
+* **Co-dependent Workflows**: Designing software tools and human work together.
+* **Mitigating Disruption**: Using targeted training models to manage automation risk.
+
+<aside class="notes">
+Adopting an Industry 5.0 vision means realizing that human talent and AI deployment are co-dependent. Algorithmic workflows and human jobs must be designed together from the start, protecting organizational knowledge while optimizing performance.
+</aside>
+
+---
+
+## 🏁 Section VI: Conclusion
+
+### Future Research Frameworks
+
+* **Supply Chain Control Towers**: Expanding GBS roles into material tracing.
+* **Product Digital Passports**: Integrating automated lifecycle audits.
+* **Ecosystem Metrology Verification**: Testing data spaces across cross-border nodes.
+
+<aside class="notes">
+Our future research will explore expanding GBS control towers into advanced manufacturing supply chains. We plan to test how federated data networks can connect factory-floor metrology with high-level reporting platforms, establishing clear tracking verification.
+</aside>
+
+---
+
+## 🏁 Section VI: Conclusion
+
+### Strategic Resilience Architecture
+
+* **Navigating Multi-Polarity**: Building distributed ecosystem governance models.
+* **Sustainable Intelligence**: Setting a new global standard for modern operations.
+* **Collaborative Inquiry**: Thank you. We welcome your questions and partnerships.
+
+<aside class="notes">
+Redefining GBS as a primary governance mechanism is essential for maintaining global resilience. By aligning technical talent with sustainable intelligence, organizations can safely navigate multi-polar strains. Thank you, and I look forward to your questions.
+</aside>
