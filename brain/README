@@ -13,7 +13,7 @@ quarto create project website .
 ```
 What to expect: Quarto will scan the directory, see your existing setup, and generate its boilerplate configuration files. It will explicitly create or attempt to overwrite _quarto.yml, index.qmd, about.qmd, styles.css, and .gitignore.
 
-### Step 2 Extra: Use Git to Revert Overwritten Configurations
+### Step 2 Extra: Use Git to Monitor Overwritten Configurations
 
 Because Quarto's default templates will update the specific path exclusions needed to shield your private brain/ graph and .obsidian configurations, use Git immediately to inspect.
 
@@ -28,4 +28,81 @@ Creating project at Q:\__writing__\_LLM_wiki_\LLM-wiki-quarto:
   - Created styles.css
 ```
 
+## Step 3: Quarto Publication via Github Workflows
 
+(... the green **`✓ DNS check successful`** or Github Page ...)
+
+### 1. Enable Workflow Permissions on GitHub
+
+Grant your repository's automated runner permission to write the compiled web assets back to your repository:
+
+1. Click the repo **Settings** gear tab.
+2. Look at the left sidebar, scroll down to **Actions**, and click **General**.
+3. Scroll down to the bottom section named **Workflow permissions**.
+4. Select **"Read and write permissions"**, then click **Save**.
+
+### 2. Create the GitHub Action Workflow File
+
+Create a nested system folder path: `.github/workflows/`.
+
+Run these quick setup commands in your PowerShell terminal:
+
+```powershell
+# Create the standard hidden GitHub automated actions folder structure
+mkdir -p .github/workflows
+
+# Create the deployment workflow file configuration
+New-Item -Path ".github\workflows" -Name "publish.yml" -ItemType "file"
+
+```
+
+Open that brand-new **`.github/workflows/publish.yml`** file in your code editor and paste this configuration block:
+
+```yaml
+name: Quarto Publish and Deploy
+
+on:
+  push:
+    branches: [ main ] # Triggers the build automatically whenever you push to main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write # <--- CRITICAL: Permission to verify the runner
+      
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto 
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site  # This is where Quarto puts the HTML
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4   
+
+```
+
+---
+
+### 3. Commit and Fire It Off
+
+Commit it, and push it up to execute the automation:
+
+```powershell
+git add .
+git commit -m "Add automated GitHub Actions publishing pipeline"
+git push origin main
+
+```
