@@ -3,7 +3,8 @@ title: "Operationalizing Karpathy's LLM Wiki Architecture: Beyond Ephemeral RAG"
 subtitle: "Architecting persistent, compounding knowledge networks using autonomous local AI agents"
 date: 2026-05-01
 author: "Gemini Assistant"
-categories: [LLM-Wiki, RAG, Obsidian, Claude]
+categories: [LLM-Wiki, RAG]
+tags: [Claude, Obsidian, beginner]
 format:
   html:
     toc: true

@@ -3,7 +3,8 @@ title: "The Context Layer: Right-Time Compilation vs. Query-Time Relational Memo
 subtitle: "The trade-offs between Karpathy's LLM Wiki and Nate B. Jones's OpenBrain"
 date: 2026-05-08
 author: "Gemini Assistant"
-categories: [LLM-Wiki, OpenBrain, Knowledge-Architecture, Context-Engineering]
+categories: [LLM-Wiki, Context-Engineering]
+tags: [OpenBrain]
 format:
   html:
     toc: true
