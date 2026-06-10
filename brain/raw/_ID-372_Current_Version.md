@@ -9,14 +9,17 @@ keywords:
   - Socio-Technical Systems
   - Industry 5.0
   - RegTech
+  - industrial data space
+  - international data space
 version: "17"
 tags:
   - SS04
   - Trustworthy_Autonomous_AI
+"":
 ---
 Trustworthy Smart Fabs via Professional Proxies: Scaling Safe and Sustainable by Design (SSbD) through Industrial Data Spaces
 
-  
+**Note**. Industrial Data Spaces equals International Data Spaces, an industrial standard maintained and advocated by the **International Data Spaces Association**, or IDSA
 
 Han-Teng Liao*  
 _Independent Researcher_Penang, Malaysia  

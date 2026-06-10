@@ -14,9 +14,9 @@ tags:
   - INN
   - INNOVATION
 ---
-# Orchestrating the Twin Transition in Multinational Corporations: Technology Roadmapping for Green and Digital Global Business Services
-
   > version: 52d
+
+Orchestrating the Twin Transition in Multinational Corporations: Technology Roadmapping for Green and Digital Global Business Services
 
 Han-Teng Liao  
 _Independent Researcher_

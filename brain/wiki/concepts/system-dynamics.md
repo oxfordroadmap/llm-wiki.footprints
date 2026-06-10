@@ -1,0 +1,37 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[[sources/_id-372_current_version]]"]
+tags: [method]
+aliases:
+  - "SD"
+  - "Causal Loop Diagrams"
+---
+
+
+# System Dynamics
+
+## Definition
+System Dynamics is a methodology for modeling the feedback loops and complex interactions within a system over time. It allows researchers and practitioners to simulate how policy changes and structural interdependencies influence system outcomes, particularly in complex socio-technical environments.
+
+## Key Characteristics
+- **Feedback Loop Analysis**: Focuses on identifying and mapping reinforcing and balancing loops within systems.
+- **Dynamic Modeling**: Models the behavior of systems over time rather than providing a static snapshot.
+- **Socio-Technical Integration**: Capable of synthesizing diverse inputs—such as manufacturing data, environmental metrics, and financial reporting—into a unified logical framework.
+- **Visual Mapping**: Utilizes Causal Loop Diagrams (CLDs) to visualize causal relationships and leverage points within the system.
+
+## Applications
+- **Manufacturing Compliance**: Analyzing the macro feedback mechanisms governing factory-floor compliance and operational efficiency.
+- **Policy Simulation**: Evaluating the long-term impact of regulatory interventions on sustainability and financial performance.
+- **Socio-Technical Analysis**: Mapping the interactions between human actors, technological processes, and environmental impact.
+
+## Related Concepts
+- [[concepts/multi-criteria-decision-analysis|Multi-Criteria Decision Analysis]]
+- [[concepts/regtech|RegTech]]
+
+## Related Entities
+None
+
+## Mentions in Source
+- "The structural logic of the system is analysed by synthesizing the document-driven requirements into System Dynamics Causal Loop Diagrams (CLDs)." — [[sources/_id-372_current_version|_id-372_current_version]]

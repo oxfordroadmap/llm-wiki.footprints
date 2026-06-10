@@ -1,0 +1,124 @@
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+## Entities
+
+- [[entities/siemens|siemens]] - type: entity
+- [[entities/bosch|bosch]] `aliases: Robert Bosch GmbH, Bosch Group` - type: entity
+- [[entities/nxp-semiconductors|nxp-semiconductors]] `aliases: NXP, NXP Semiconductors N.V.` - type: entity
+- [[entities/science-based-targets-initiative|science-based-targets-initiative]] `aliases: SBTi, Science Based Targets initiative` - type: entity
+- [[entities/chang-yi-kao|chang-yi-kao]] `aliases: Chang-Yi Kao, Eden Kao` - type: entity
+- [[entities/international-data-spaces-association|international-data-spaces-association]] `aliases: IDSA, International Data Spaces Association` - type: entity
+- [[entities/web-of-science|web-of-science]] `aliases: WoS, Web of Science database` - type: entity
+- [[entities/osf_dataset-semi_ssbd|osf_dataset-semi_ssbd]] `aliases: OSF Dataset, Semi_SSbD Dataset` - type: entity
+- [[entities/scopus|scopus]] `aliases: Scopus database` - type: entity
+- [[entities/cadde|cadde]] `aliases: Cross-domain Architecture for Data Exchange, CADDE` - type: entity
+- [[entities/soochow-university|soochow-university]] `aliases: Soochow University, SCU` - type: entity
+- [[entities/supply-online-360|supply-online-360]] `aliases: Supply Online 360, TSMC Supply Online 360` - type: entity
+- [[entities/tsmc|tsmc]] `aliases: Taiwan Semiconductor Manufacturing Company, TSMC` - type: entity
+- [[entities/ieee-international-roadmap-for-devices-and-systems|ieee-international-roadmap-for-devices-and-systems]] `aliases: IEEE IRDS, International Roadmap for Devices and Systems, IRDS, ieee-irds, ESSF` - type: entity
+- [[entities/pope-leo-xiv|pope-leo-xiv]] `aliases: Leo XIV` - type: entity
+- [[entities/ice-2026|ice-2026]] `aliases: International Conference on Engineering, Technology and Innovation 2026, ICE 2026` - type: entity
+- [[entities/european-commission|european-commission]] `aliases: EC, European Commission` - type: entity
+- [[entities/jensen-huang|jensen-huang]] `aliases: Jensen Huang, Jen-Hsun Huang` - type: entity
+- [[entities/taipower|taipower]] `aliases: Taiwan Power Company, Taipower` - type: entity
+- [[entities/nvidia|nvidia]] `aliases: NVIDIA, NVIDIA Corporation` - type: entity
+- [[entities/esmc-dresden-fab|esmc-dresden-fab]] `aliases: ESMC, European Semiconductor Manufacturing Company` - type: entity
+- [[entities/corporate-supply-chain-due-diligence-directive|corporate-supply-chain-due-diligence-directive]] `aliases: CSDDD, Corporate Sustainability Due Diligence Directive, Corporate Supply Chain Due Diligence Directive, CSDDD, Corporate Sustainability Due Diligence Directive` - type: entity
+- [[entities/asml|asml]] `aliases: ASML, ASML Netherlands Bv` - type: entity
+- [[entities/workiva|workiva]] `aliases: Workiva, Workiva Platform` - type: entity
+- [[entities/auditboard|auditboard]] `aliases: AuditBoard, AuditBoard GRC` - type: entity
+- [[entities/sap-ariba|sap-ariba]] `aliases: Ariba` - type: entity
+- [[entities/integritynext|integritynext]] `aliases: IntegrityNext platform, IN` - type: entity
+- [[entities/infineon-technologies-sdn-bhd|infineon-technologies-sdn-bhd]] `aliases: Infineon Technologies Sdn. Bhd., Infineon, Infineon Technologies, Infineon Technologies Sdn. Bhd., Infineon` - type: entity
+- [[entities/interuniversity-microelectronics-centre-imec|interuniversity-microelectronics-centre-imec]] `aliases: IMEC, Interuniversity Microelectronics Centre` - type: entity
+- [[entities/ecovadis|ecovadis]] `aliases: EcoVadis, EcoVadis Rating Platform` - type: entity
+- [[entities/karen-ang|karen-ang]] `aliases: Karen Ang, Ang, Karen` - type: entity
+- [[entities/han-teng-liao|han-teng-liao]] `aliases: Han-Teng Liao, Liao` - type: entity
+- [[entities/investpenang|investpenang]] `aliases: InvestPenang, Penang Investment Agency` - type: entity
+- [[entities/portugal|portugal]] `aliases: Portugal, Green Tech Center of Excellence` - type: entity
+- [[entities/itu|itu]] `aliases: International Telecommunication Union, ITU` - type: entity
+- [[entities/penang|penang]] `aliases: Penang, Silicon Valley of the East` - type: entity
+- [[entities/aicep|aicep]] `aliases: Agência para o Investimento e Comércio Externo de Portugal, AICEP` - type: entity
+- [[entities/mdec|mdec]] `aliases: Malaysia Digital Economy Corporation, Malaysia Digital` - type: entity
+- [[entities/absl|absl]] `aliases: Association of Business Service Leaders, ABSL, ABS, Association of Business Service Leaders, ABSL` - type: entity
+- [[entities/malaysia|malaysia]] `aliases: Malaysia, MY` - type: entity
+- [[entities/global-business-services|global-business-services]] `aliases: GBS` - type: entity
+- [[entities/poland|poland]] `aliases: Republic of Poland, Polska` - type: entity
+
+## Concepts
+
+- [[concepts/innovation-ecosystems|innovation-ecosystems]] `aliases: innovation ecosystem, regional innovation systems` - type: concept
+- [[concepts/digital-circular-economy|digital-circular-economy]] `aliases: DCE, Digital Circular Economy` - type: concept
+- [[concepts/environmental-sustainability-of-the-semiconductor-facilities|environmental-sustainability-of-the-semiconductor-facilities]] - Environmental sustainability of semiconductor facilities refers to the integration of green manufact
+- [[concepts/planetary-boundaries|planetary-boundaries]] `aliases: Planetary Boundaries Framework, PB` - type: concept
+- [[concepts/statistical-process-control|statistical-process-control]] `aliases: SPC, Statistical Process Control` - type: concept
+- [[concepts/esg-compliance|esg-compliance]] `aliases: Environmental Social and Governance Compliance, ESG` - type: concept
+- [[concepts/technology-roadmapping|technology-roadmapping]] `aliases: TRM, Technology Roadmap` - type: concept
+- [[concepts/non-beneficial-process-chemical-usage|non-beneficial-process-chemical-usage]] `aliases: Chemical Waste, Idle Purge Waste` - type: concept
+- [[concepts/mandate-execute-verify-mev-lifecycle|mandate-execute-verify-mev-lifecycle]] `aliases: MEV, Mandate-Execute-Verify loop` - type: concept
+- [[concepts/soft-sensor|soft-sensor]] `aliases: Virtual Sensor, Inferential Sensor` - type: concept
+- [[concepts/six-layer-ssbd-reference-architecture|six-layer-ssbd-reference-architecture]] `aliases: 6-Layer Semiconductor SSbD architecture, Six-Layer SSbD` - type: concept
+- [[concepts/relay-race-framework|relay-race-framework]] `aliases: Agentic Relay Race, 5-step framework` - type: concept
+- [[concepts/zero-trust-socio-technical-orchestration|zero-trust-socio-technical-orchestration]] `aliases: Zero-Trust Socio-Technical Orchestration, Zero-trust compliance fabric` - type: concept
+- [[concepts/total-available-conservation-opportunity|total-available-conservation-opportunity]] `aliases: TACO, Total Available Conservation Opportunity Matrix` - type: concept
+- [[concepts/system-dynamics|system-dynamics]] `aliases: SD, Causal Loop Diagrams` - type: concept
+- [[concepts/international-data-spaces|international-data-spaces]] `aliases: IDS, International Data Spaces Association standard` - type: concept
+- [[concepts/standards-through-supply-chain-pathway|standards-through-supply-chain-pathway]] `aliases: Standards through Supply Chain, SSCP, Supply Chain Standard Pathway` - type: concept
+- [[concepts/bibliometric-analysis|bibliometric-analysis]] `aliases: Science Mapping, Bibliometrics` - type: concept
+- [[concepts/structural-hole|structural-hole]] `aliases: Structural Hole, Network structural hole` - type: concept
+- [[concepts/grid-to-core-pathway|grid-to-core-pathway]] `aliases: Grid to Core integration, G2C Pathway` - type: concept
+- [[concepts/outside-system-connectivity|outside-system-connectivity]] `aliases: OSC, Outside System Connectivity` - type: concept
+- [[concepts/sustainability-standards|sustainability-standards]] `aliases: Green standards, International Sustainability Standards` - type: concept
+- [[concepts/life-cycle-assessment|life-cycle-assessment]] `aliases: LCA` - type: concept
+- [[concepts/robotic-process-automation|robotic-process-automation]] `aliases: RPA` - type: concept
+- [[concepts/machine-learning|machine-learning]] `aliases: ML` - type: concept
+- [[concepts/gbs-5-0|gbs-5-0]] `aliases: GBS5.0, GBS 5.0 framework` - type: concept
+- [[concepts/digital-resonance|digital-resonance]] `aliases: Digital Resonance` - type: concept
+- [[concepts/ict-centric-innovation-ecosystem-toolkit|ict-centric-innovation-ecosystem-toolkit]] `aliases: ITU Toolkit, ICT-centric innovation ecosystem toolkit` - type: concept
+- [[concepts/multi-level-perspective|multi-level-perspective]] `aliases: MLP, Multi-Level Perspective` - type: concept
+- [[concepts/open-policy-agent|open-policy-agent]] `aliases: OPA` - type: concept
+- [[concepts/multi-criteria-decision-analysis|multi-criteria-decision-analysis]] `aliases: MCDA` - type: concept
+- [[concepts/policy-as-code|policy-as-code]] `aliases: PaC, Policy as Code` - type: concept
+- [[concepts/virtual-metrology|virtual-metrology]] `aliases: VM, Virtual Metrology` - type: concept
+- [[concepts/trusted-execution-environment-tee|trusted-execution-environment-tee]] `aliases: TEE, Trusted Execution Environment` - type: concept
+- [[concepts/data-sovereignty-paradox|data-sovereignty-paradox]] `aliases: Data Sovereignty Paradox, DSP` - type: concept
+- [[concepts/professional-proxies|professional-proxies]] `aliases: Professional Proxies, Agentic Workflows` - type: concept
+- [[concepts/safe-and-sustainable-by-design|safe-and-sustainable-by-design]] `aliases: SSbD, Safe and Sustainable by Design, safe-and-sustainable-by-design-ssbd, Safe and Sustainable by Design (SSbD)` - type: concept
+- [[concepts/key-value-cache-memory-consumption|key-value-cache-memory-consumption]] `aliases: KV cache, Key-Value cache memory consumption` - type: concept
+- [[concepts/memory-wall|memory-wall]] `aliases: Memory Wall, Memory bandwidth bottleneck` - type: concept
+- [[concepts/energy-communities|energy-communities]] `aliases: Energy sharing communities, EC` - type: concept
+- [[concepts/triple-bottom-line|triple-bottom-line]] `aliases: TBL, Triple Bottom Line Accounting` - type: concept
+- [[concepts/grid-paradox|grid-paradox]] `aliases: Grid Paradox, Infrastructure Scaling Tension` - type: concept
+- [[concepts/regenerative-accounting|regenerative-accounting]] `aliases: Regenerative Accounting, RA` - type: concept
+- [[concepts/jevons-paradox|jevons-paradox]] `aliases: Jevons Paradox, Rebound Effect` - type: concept
+- [[concepts/twin-transition|twin-transition]] `aliases: Green and Digital Transformation, Twin Transition, Green Tech, Green and Digital Transformation, Twin Transition` - type: concept
+- [[concepts/systemic-volatility-indicator|systemic-volatility-indicator]] `aliases: SVI, Systemic Volatility Indicator` - type: concept
+- [[concepts/electrons-to-tokens|electrons-to-tokens]] `aliases: Electrons to tokens, E2T, Tokenomics` - type: concept
+- [[concepts/regenerative-socio-technical-framework|regenerative-socio-technical-framework]] `aliases: RST framework, Regenerative Socio-Technical Roadmap` - type: concept
+- [[concepts/federated-machine-learning|federated-machine-learning]] `aliases: Federated Learning, FL` - type: concept
+- [[concepts/digital-product-passports|digital-product-passports]] `aliases: DPP, Digital Product Passport` - type: concept
+- [[concepts/scope-3|scope-3]] `aliases: Scope 3 emissions, Indirect value chain emissions, Scope 3 Emissions, Scope 3 emissions, Indirect value chain emissions` - type: concept
+- [[concepts/circular-economy|circular-economy]] `aliases: Circular Engineering` - type: concept
+- [[concepts/regtech|regtech]] `aliases: Regulatory Technology, Regulatory Tech` - type: concept
+- [[concepts/governance-risk-and-compliance-grc|governance-risk-and-compliance-grc]] `aliases: GRC, Governance, Risk, and Compliance, Governance, Risk, and Compliance, GRC, Governance, Risk, and Compliance` - type: concept
+- [[concepts/carbon-border-adjustment-mechanism-cbam|carbon-border-adjustment-mechanism-cbam]] `aliases: CBAM, Carbon Border Adjustment Mechanism` - type: concept
+- [[concepts/sustainable-intelligence|sustainable-intelligence]] `aliases: Sustainable Intelligence, Sustainable Intelligence model` - type: concept
+- [[concepts/operational-airlock|operational-airlock]] `aliases: Operational airlock, GBS airlock` - type: concept
+- [[concepts/maturity-trap|maturity-trap]] `aliases: Maturity Trap` - type: concept
+- [[concepts/system-of-systems|system-of-systems]] `aliases: SoS, System-of-Systems` - type: concept
+- [[concepts/innovation-management|innovation-management]] `aliases: Innovation Management, IM` - type: concept
+- [[concepts/digitalization-paradox|digitalization-paradox]] `aliases: Digitalization paradox` - type: concept
+- [[concepts/middle-income-trap|middle-income-trap]] `aliases: Middle-income development challenge` - type: concept
+- [[concepts/industry-5-0|industry-5-0]] `aliases: Ind 5.0, Human-Centric Industry` - type: concept
+- [[concepts/socio-technical-systems|socio-technical-systems]] `aliases: STS` - type: concept
+
+## Sources
+
+- [[sources/_id-372_current_version|_id-372_current_version]] `aliases: ID-372: Smart Fabs and Professional Proxies, Scaling SSbD through Industrial Data Spaces`
+- [[sources/_id-401_current_version|_id-401_current_version]] `aliases: Regenerative Socio-Technical Roadmap for AI Infrastructure, RST Roadmap 2026`
+- [[sources/_id-286_current_version|_id-286_current_version]] `aliases: SSbD Semiconductor Review, Twin Transition Semiconductor Study`
+- [[sources/_id-306_current_version|_id-306_current_version]] `aliases: Orchestrating the Twin Transition in Multinational Corporations, Technology Roadmapping for Green and Digital GBS`

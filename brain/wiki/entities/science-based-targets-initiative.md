@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[[sources/_id-372_current_version]]"]
+tags: [organization]
+aliases:
+  - "SBTi"
+  - "Science Based Targets initiative"
+---
+
+
+# Science Based Targets initiative
+
+## Basic Information
+- Type: organization
+- Source: [[sources/_id-372_current_version|_id-372_current_version]]
+
+## Description
+The Science Based Targets initiative (SBTi) provides rigorous tools and scientific guidance for companies to set greenhouse gas (GHG) reduction targets aligned with a 1.5°C climate trajectory. By acting as a source of "scientific truth," the initiative enables industrial agents to align their operations with global climate goals. Within the context of industrial transformation, firms utilize SBTi frameworks to move from aspirational goals to technically verifiable outcomes. These targets are increasingly integrated into the workflows of [[concepts/professional-proxies|Professional Proxies]] to ensure that corporate actions remain [[concepts/safe-and-sustainable-by-design|Safe and Sustainable by Design]].
+
+## Related Entities
+- No related entities
+
+## Related Concepts
+- [[concepts/professional-proxies|Professional Proxies]]
+- [[concepts/safe-and-sustainable-by-design|Safe and Sustainable by Design]]
+
+## Mentions in Source
+- Because these ITU standards are increasingly aligned with the Science Based Targets initiative (SBTi)—which provides the rigorous tools and guidance for companies to set greenhouse gas (GHG) reduction targets in line with a 1.5°C climate trajectory—they serve as the definitive 'scientific truth' for industrial agents. — [[sources/_id-372_current_version|_id-372_current_version]]

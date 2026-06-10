@@ -1,0 +1,29 @@
+---
+title: "karen-ang"
+date: "2026-06-10"
+tags:
+  - person
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: [""[[sources/_ID-401_Current_Version]]"", ""[[sources/_ID-306_Current_Version]]"", ""[[sources/_ID-286_Current_Version]]"", ""[[sources/_ID-372_Current_Version]]""]
+aliases: ["Karen Ang", "Ang", "Karen"]
+---
+
+
+
+
+
+## Related Entities
+- [Han-Teng Liao](entities/han-teng-liao)
+- [Chang-Yi Kao](entities/chang-yi-kao)
+- [infineon-technologies-sdn-bhd](entities/infineon-technologies-sdn-bhd)
+
+
+## Related Concepts
+- [Innovation ecosystems](concepts/innovation-ecosystems)
+- [Socio-technical systems](concepts/socio-technical-systems)
+- [Twin Transition](concepts/twin-transition)
+- [RegTech](concepts/regtech)
+- [Safe and Sustainable by Design](concepts/safe-and-sustainable-by-design)
+- [Virtual Metrology](concepts/virtual-metrology)

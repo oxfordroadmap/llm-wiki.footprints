@@ -4,7 +4,8 @@ project:
   render:
     - "*.qmd"
     - "blog/**/*.qmd"     # Recursively catches blog/index.qmd and blog/posts/*.qmd
-    - "!brain/"           # Strictly excludes your private Obsidian data graveyard and wiki
+    - "brain/wiki/concepts/*.md"  # Explicitly invite the clean concept notes
+    - "brain/wiki/entities/*.md"  # Explicitly invite the clean entity notes
     - "!.obsidian/"       # Strictly excludes the Obsidian configuration tracking folder
     - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
 

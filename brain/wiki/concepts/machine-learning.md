@@ -1,0 +1,38 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[[sources/_id-306_current_version]]"]
+tags: [technology]
+aliases:
+  - "ML"
+---
+
+
+# Machine Learning
+
+## Definition
+Machine Learning is an advanced computational intelligence technique integrated into GBS (Global Business Services) to enable predictive analytics and autonomous workflow optimization. It serves as a fundamental pillar in the transition toward 'Sustainable Intelligence' by facilitating AI-native workflows that enhance operational efficiency and decision-making for ESG (Environmental, Social, and Governance) requirements.
+
+## Key Characteristics
+- **Predictive Analytics:** Enables data-driven forecasting to support proactive decision-making.
+- **Autonomous Optimization:** Facilitates the automation of complex workflows within business service environments.
+- **Strategic Enabler:** Functions as a 'motor theme' driving the digital transformation of modern global business services.
+- **Dual Role:** Operates simultaneously as an operational tool and a strategic component in the context of the green digital Twin Transition.
+
+## Applications
+- **Workflow Automation:** Enhancing efficiency in Global Business Services through autonomous task processing.
+- **ESG Compliance:** Utilizing AI-native workflows to monitor and optimize performance against sustainability requirements.
+- **Twin Transition:** Acting as a core technology for aligning digital transformation with sustainability objectives within multinational corporations.
+
+## Related Concepts
+- [[concepts/robotic-process-automation|Robotic Process Automation]]
+- [[concepts/sustainable-intelligence|Sustainable Intelligence]]
+- [[concepts/twin-transition|Twin Transition]]
+- [[concepts/gbs-5-0|GBS 5.0]]
+
+## Related Entities
+None
+
+## Mentions in Source
+- "Notably, RPA and machine learning appear in proximity to both optimization-oriented and digital economy clusters, confirming their dual role as operational tools and strategic enablers of the green digital Twin Transition." — [[sources/_id-306_current_version|_id-306_current_version]]

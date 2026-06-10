@@ -17,9 +17,9 @@ tags:
   - SS08
   - Digital_Circular_Economy
 ---
-# From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries
-
   > version: 48
+
+From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries
 
 Han-Teng Liao*  
 _Independent Researcher_

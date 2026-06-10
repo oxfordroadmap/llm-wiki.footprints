@@ -1,0 +1,8 @@
+# This target isolates the filter strictly to the brain directory hierarchy
+freeze: auto
+
+format:
+  html:
+    toc: true
+    filters:
+      - wikilinks.lua   # Quarto applies this ONLY to files in this folder tree
