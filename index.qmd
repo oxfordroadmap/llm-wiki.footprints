@@ -1,0 +1,11 @@
+---
+title: "LLM-wiki-quarto"
+---
+
+This proof of concept orchestrates a two-tier knowledge repository. 
+1. The public Quarto workspace acts as an outward-facing research hub, compiling curated socio-technical content into a clean, responsive web interface. 
+2. The private LLM-wiki functions as an isolated local vault (managed via Markdown/Obsidian). 
+
+By keeping sensitive datasets, raw research notes, and intellectual properties decoupled from the public compilation root, the architecture guarantees robust security while enabling seamless, automated web publishing.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

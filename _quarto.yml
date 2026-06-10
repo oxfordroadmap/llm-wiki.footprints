@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "blog/**/*.qmd"     # Recursively catches blog/index.qmd and blog/posts/*.qmd
+    - "!brain/"           # Strictly excludes your private Obsidian data graveyard and wiki
+    - "!.obsidian/"       # Strictly excludes the Obsidian configuration tracking folder
+    - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
+
+website:
+  title: "LLM-wiki-quarto"
+  description: "Socio-Technical Research Hub: A human-supervised knowledge base and agentic portfolio."
+  # site-url: "https://username.github.io/repository"
+
+  # This section generates targeted navbar styles
+  navbar:
+    background: dark        # Injects the "bg-dark" class
+    type: dark              # Injects the "data-bs-theme=dark" context
+    search: true            # Compiles the "d-flex" search box on the right side
+    left:
+      - href: index.qmd
+        text: LLM-wiki
+      - href: about.qmd
+        text: "What it is"
+      - href: blog/index.qmd
+        text: "Notes"
+
+format:
+  html:
+    theme:
+      light:
+        - zephyr
+        - style-shared.scss
+        - brand
+      dark:
+        - zephyr 
+        - style-shared.scss
+        - style-zephyr-dark.scss
+        - brand    
+    css: styles.css
+    toc: true
+
+
+

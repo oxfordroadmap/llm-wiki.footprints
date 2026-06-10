@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Force standard dark mode color tokens while retaining layout structures
+$body-bg: #121212;
+$body-color: #e0e0e0;
+$card-bg: #1e1e1e;
+$text-muted: #a0a0a0;
+
+// Navbar variables
+$navbar-dark-bg: #1a1a1a;
+$navbar-dark-color: rgba(255, 255, 255, 0.55);
+$navbar-dark-active-color: #fff;
+
+// Light-on-dark link color tracking
+$link-color: #3a86ff;
+
+/*-- scss:rules --*/
+
+// Force all major headings and explicit title classes to high-contrast white
+h1, h2, h3, h4, h5, h6, .title, .subtitle {
+  color: #ffffff !important;
+}
+
+// Ensure your blog index grid card headers also stand out cleanly
+header h1.title, .modal-title, .card-titl {
+  color: #ffffff;
+}

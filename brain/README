@@ -1,0 +1,31 @@
+# PUBLIC Quarto and PRIVATE Knowledge Graph
+
+
+## Step 1: Obsidian Setup
+
+
+## Step 2: Quarto Setup
+
+Run the creation command directly inside your root workspace directory. Use the --no-run-runtime flag to prevent it from stalling on environment checks, and specify the website type:
+
+```bash
+quarto create project website .
+```
+What to expect: Quarto will scan the directory, see your existing setup, and generate its boilerplate configuration files. It will explicitly create or attempt to overwrite _quarto.yml, index.qmd, about.qmd, styles.css, and .gitignore.
+
+### Step 2 Extra: Use Git to Revert Overwritten Configurations
+
+Because Quarto's default templates will update the specific path exclusions needed to shield your private brain/ graph and .obsidian configurations, use Git immediately to inspect.
+
+```bash
+PS Q:\__writing__\_LLM_wiki_\LLM-wiki-quarto> quarto create project website .
+? Title (website) » LLM-wiki-quarto
+Creating project at Q:\__writing__\_LLM_wiki_\LLM-wiki-quarto:
+  - Created _quarto.yml
+  - Created .gitignore
+  - Created index.qmd
+  - Created about.qmd
+  - Created styles.css
+```
+
+

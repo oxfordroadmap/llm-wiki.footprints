@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+// Global Typography Scaling (Applies to both light and dark modes)
+$font-size-base: 1.15rem;   // Enlarges body text globally (~18.4px)
+$h1-font-size: 2.75rem;     // Clean, proportional heading tiers
+$h2-font-size: 2.25rem;
+$h3-font-size: 1.75rem;
+
+/*-- scss:rules --*/
+
+// Target the actual container and scale the underlying switch element
+.quarto-navbar-tools, 
+.navbar-brand-container {
+  display: flex;
+  align-items: center;
+}
+
+// Target Quarto's native checkbox wrapper switch
+.quarto-color-scheme-toggle {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  transform: scale(2); /* Transfrom scale blows up the switch uniformly without shifting text */
+  transform-origin: center left; /* Keeps it locked inline relative to your text */
+  margin-left: 2.5rem !important; /* Adds clear breathing room so it doesn't crowd the title */
+  margin-right: 2rem !important; /* Adds clear breathing room so it doesn't crowd the title */
+  padding: 0.25rem !important;
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+/* --- Safely Swap Search & Toggle on the Far Right Edge --- */
+
+/* 3. Make the Search icon second-to-last */
+#quarto-search {
+  order: 98 !important;
+  margin-left: auto !important;   /* Safely absorbs the gap to push everything past your menu pages */
+  margin-right: 0.75rem !important; /* Creates a clean, crisp gap right before the toggle pill */
+}
+
+/* 4. Make the Theme Switch absolute last */
+.quarto-navbar-tools {
+  order: 99 !important;
+  margin-left: 0 !important;      /* Drops default margins so it anchors tightly to the right edge */
+  margin-right: 0 !important;
+}
