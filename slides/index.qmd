@@ -1,0 +1,16 @@
+---
+title: "Presentation Hub"
+subtitle: "Curated Slide Decks, Portfolios, and Research Summaries"
+page-layout: full
+listing:
+  contents: decks # Directs Quarto to look inside the slides/ folder
+  type: grid      # Changes display style to a modern card grid
+  sort: "date desc" # Shows newest decks first
+  categories: true # Enables clickable filter tags on the right sidebar
+  sort-ui: true    # Gives users a dropdown to sort by date/title
+  filter-ui: true  # Adds a live search bar above your grid
+  fields: [image, date, title, subtitle, author, categories]
+---
+
+Welcome to the repository for our presentation decks. Use the search bar or the category sidebar below to filter through the topics.
+

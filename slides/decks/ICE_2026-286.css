@@ -1,0 +1,4 @@
+.reveal ul, .reveal ol {
+  font-size: 0.8em;   /* shrink list text */
+  line-height: 1.1;   /* tighter spacing */
+}

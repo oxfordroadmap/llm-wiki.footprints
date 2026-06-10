@@ -1,0 +1,326 @@
+---
+title: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
+subtitle: "Implications for Safe and Sustainable by Design (SSbD)"
+author: "Karen Ang & Han-Teng Liao"
+date: "2026-06-11"
+format:
+  revealjs:
+    theme: beige
+    css: ICE_2026-286.css
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    show-slide-number: speaker
+---
+
+::: {.subtitle style="font-size: 0.45em; line-height: 1.4; margin-top: 2em; color: #a0a0a0;"}
+*Presented at ICE 2026 — Main Session: Technology (TEC 3)*<br/>
+**Karen Ang** (Infineon Technologies) & **Han-Teng Liao** (Independent Researcher)
+:::
+
+---
+
+## Section I: Introduction
+
+### The Semiconductor Twin Transition
+
+* **Precision Scaling**: Rapidly advancing sub-5 nm processing nodes.
+* **Sustainability Mandates**: Regulatory pressure from EU CBAM and CSDDD.
+* **Systemic Volatility**: Geopolitical friction and historical supply chain disruptions.
+
+<aside class="notes">
+Welcome everyone. Today we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
+</aside>
+
+---
+
+## Section I: Introduction
+
+### Evolving GRC Landscapes & SSbD
+
+* **GRC**: Governance, Risk, and Compliance alignment strategies.
+* **SSbD Framework**: Safe and Sustainable by Design material lifecycle safety.
+* **UN SDGs**: Integrating Goal 9 (Innovation) and Goal 12 (Responsible Production).
+
+<aside class="notes">
+To navigate this volatility, firms are turning to Governance, Risk, and Compliance strategies. The European Union's Safe and Sustainable by Design framework is driving this shift. It forces companies to move from basic administrative accounting to science-based, empirical proof of sustainability throughout the product lifecycle.
+</aside>
+
+---
+
+## Section I: Introduction
+
+### Current RegTech Service Ecosystem
+
+| Platform | Core Functionality | Standards Alignment | CBAM Relevance |
+| :--- | :--- | :--- | :--- |
+| **EcoVadis** | Supplier ESG ratings | GRI, ISO 26000, SBTi | Strong procurement |
+| **IntegrityNext** | Compliance automation | SAP Ariba integration | Risk detection |
+| **Workiva** | Audit-ready compliance | CSRD, ESRS, GRI | Disclosure potential |
+| **AuditBoard** | Risk management | SOC 2, ISO, NIST | Governance audit |
+| **SAP Ariba** | Procurement | ISO | Procurement readiness |
+
+*Note: Data from Table I.*
+
+<aside class="notes">
+As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data.
+</aside>
+
+---
+
+## Section II: Literature Review
+
+### Ecosystem Gaps & The SoS Challenge
+
+* **Industry 3.5 to 4.0**: Phased migrations over abrupt transitions.
+* **Green Digital Transformation**: Linking natural, business, and digital assets.
+* **System of Systems (SoS)**: Integrating fragmented technical disciplines.
+
+<aside class="notes">
+Our literature review highlights a massive architectural gap. While models for phased industrial migrations exist, process-level data does not propagate down to regulatory platforms. We argue that metrology, AI analytics, and ESG compliance must be treated as interdependent services within a unified System of Systems framework.
+</aside>
+
+---
+
+## Section III: Methodology
+
+### Scoping Review & Query Design
+
+| Domain | Rationale | Records (WoS/Scopus) |
+| :--- | :--- | :--- |
+| **1. Supply Chain & Emissions** | Scope 3, neutrality, resilience | 121 / 237 |
+| **2. Policy & RegTech Platforms** | ITU, IEEE, ISO, CBAM, SaaS | 52 / 260 |
+| **3. Federated Governance** | Data spaces, interoperability | 45 / 285 |
+| **4. Metrology & AI** | Machine learning, in-situ sensors | 99 / 265 |
+| **5. Foundation Models** | Multimodal, safe intelligence | 35 / 14 |
+| **6. Circular Economy** | LCA, zero-waste engineering | 17 / 47 |
+
+*Note: Data from Table II.*
+
+<aside class="notes">
+To find a solution, we executed a scoping review in March 2026 across Web of Science and Scopus. As detailed in Table 2, we mapped six distinct domains spanning technical metrology, federated data spaces, and ESG platforms to understand how these systems currently interact or fail to interact.
+</aside>
+
+---
+
+## Section III: Methodology
+
+### Dataset Overview & Comparative Metrics
+
+| Category / Metric | Web of Science | Scopus |
+| :--- | :--- | :--- |
+| Total Documents ($N$) | 363 | 1102 |
+| Source Publications | 202 | 649 |
+| Annual Growth Rate | 4.22% | 6.28% |
+| Document Average Age | 4.86 years | 8.19 years |
+| Conference Papers | 6 | 540 |
+| Articles | 318 | 452 |
+
+*Note: Data from Table III.*
+
+<aside class="notes">
+Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science provided a highly curated academic sample with strong keyword depth. Scopus captured active, industrial knowledge cycles, contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity.
+</aside>
+
+---
+
+## Section IV: Findings
+
+### Institutional Affiliation Gaps
+
+| Web of Science (Academic Focus) | Scopus (Industrial Focus) |
+| :--- | :--- |
+| National Tsing Hua University ($N=13$) | Infineon Technologies Ag ($N=26$) |
+| Chinese Academy of Sciences ($N=12$) | IMEC ($N=24$) |
+| University of Texas System ($N=10$) | Chinese Academy of Sciences ($N=16$) |
+| National Taipei University ($N=9$) | Samsung Electronics ($N=15$) |
+| State University of Florida ($N=8$) | ASML Netherlands Bv ($N=14$) |
+
+*Note: Data from Table IV.*
+
+<aside class="notes">
+Our institutional mapping in Table 4 exposed a severe structural hole. Academic networks in Web of Science focus heavily on fundamental modeling. Meanwhile, Scopus is dominated by corporate heavyweights like Infineon, IMEC, and ASML. There is an absence of formal mechanisms translating university research into industrial practice.
+</aside>
+
+---
+
+## Section IV: Findings
+
+### Global Collaboration Networks
+
+![Fig 1: International Co-authorship Networks](/assets/_ID-286_Fig.1A.png){width=100%} 
+
+::: {.small }
+* **Geopolitical Interdependence**: Dense trans-Pacific and Euro-Asian edges.
+* **Hub Dominance**: US, China, South Korea, and Taiwan lead networks.
+* **Regulatory Friction**: High research collaboration vs. fragmented ESG compliance.
+:::
+
+<aside class="notes">
+When looking at national collaboration in Figure 1, the networks reveal dense trans-Pacific and Euro-Asian connections. Functional decoupling has not materialized in research. However, this high level of technical co-authorship stands in sharp contrast to fragmented global ESG reporting standards.
+</aside>
+
+---
+
+## Section IV: Findings
+
+### Regional Funding Distributions
+
+| Region / Funder Hub | Key Contributing Agencies | Shares (%) |
+| :--- | :--- | :--- |
+| **China** | NSFC, National Key R&D, CAS | 21.77% |
+| **Non-China East Asia** | NRF (Korea), NSTC (Taiwan), JSPS | 20.97% |
+| **European Union** | Horizon Europe, ECSEL JU, ERC | 11.29% |
+| **United States** | NSF, NIST, DoD, DoE, DARPA | 9.68% |
+
+*Note: Data from Table V.*
+
+<aside class="notes">
+Funding agency distributions in Table 5 show that East Asian agencies back over 42% of the funded projects. Yet, despite driving the volume of innovation, these regional R&D ecosystems remain isolated from Western market access rules, representing another critical structural hole.
+</aside>
+
+---
+
+## Section IV: Findings
+
+### Conceptual Structure: Relational Mapping
+
+![Fig 2: Relational Factorial MCA Map](/assets/_ID-286_Fig.2.png) 
+
+- **Cluster 1 (Red)**: AI-Driven Smart Manufacturing (VM, Deep Learning).
+- **Cluster 4 (Purple)**: Sustainability and Device Performance.
+- **The Structural Hole**: Isolation between environmental metrics and the AI-core.
+
+<aside class="notes">
+Figure 2 shows our Factorial Multiple Correspondence Analysis. It maps a clear division. Axis 1 separates operational factory execution from strategic governance. The most alarming structural finding is the complete isolation of Cluster 4, sustainability, from the high-density AI manufacturing core in Cluster 1.
+</aside>
+
+---
+
+## Section IV: Findings
+
+### Keyword Co-occurrence Topology
+
+![Fig 3: Keyword Co-occurrence Network](/assets/_ID-286_Fig.3.png) 
+
+* **Core Core-Periphery Structure**: Dense core around fabrication and VM.
+* **Disconnected Peripheries**: Standards and Power Electronics are isolated.
+* **Required Fix**: Establishing explicit "grid-to-core" data pathways.
+
+<aside class="notes">
+The network topology in Figure 3 confirms this fragmentation. Mainstream semiconductor fabrication terms form a tight, central hub, while standards and energy efficiency sit at the absolute periphery. To fix this, we must build a grid-to-core pathway that feeds real-time power metrics directly into compliance loops.
+</aside>
+
+---
+
+## Section V: Discussion
+
+### Integrating the Research Questions
+
+* **RQ1: Data Interoperability**: Solved via federated data spaces.
+* **RQ2: Scarcity Adaptation**: Addressed through virtual metrology soft-sensors.
+* **RQ3: Eco-Efficiency**: Balancing local yields with global Scope 3 mandates.
+
+<aside class="notes">
+We can now synthesize our three core research questions. Data interoperability, scarcity adaptation, and eco-efficiency cannot be treated as separate issues. They represent an interdependent System of Systems challenge that requires structural integration across the entire manufacturing lifecycle.
+</aside>
+
+---
+
+## Section V: Discussion
+
+### Proposed 6-Layer SSbD Architecture
+
+![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
+
+*Note: Conceptual outline of Fig. 4.*
+
+<aside class="notes">
+To close these structural holes, we propose this 6-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
++-------------------------------------------------------+
+|        Socio-Technical Transitions Layer              |
++-------------------------------------------------------+
+|             Industry 4.0 Digital Twin Layer           |
++-------------------------------------------------------+
+|          Metrology-Based Optimization Layer           |
++-------------------------------------------------------+
+|          Federated Industrial Data Spaces             |
++-------------------------------------------------------+
+|         RegTech & CBAM Compliance Layer               |
++-------------------------------------------------------+
+|             SSbD Substitution Base Layer              |
++-------------------------------------------------------+
+
+```
+
+*Note: Conceptual outline of Fig. 4.*
+
+---
+
+## Section V: Discussion
+
+### The Base: Substitution & RegTech Layers
+
+* **SSbD Substitution**: Targeting PFAS, PFCs, and scarce mineral abatement.
+* **RegTech Layer**: Deploying digital product passports for clear provenance.
+* **Defensive Prompting**: Preventing compliance gaming in automated reporting.
+
+---
+
+## Section V: Discussion
+
+### The Core: Federated Spaces & Metrology
+
+* **Federated Data Fabrics**: Preserving cross-border data sovereignty.
+* **Metrology Optimization**: Real-time closed-loop Statistical Process Control.
+* **Grid-to-Core Pathway**: Connecting sensor power metrics to CBAM logs.
+
+---
+
+## Section V: Discussion
+
+### The Capstone: Twins & Transitions
+
+* **Digital Twins**: Simulating sustainability trade-offs before physical scaling.
+* **Industry 5.0 Vision**: Prioritizing human-machine synergy and resilience.
+* **Socio-Technical Ecosystem**: Multipolar diversification and automated compliance.
+
+---
+
+## Section VI: Conclusion
+
+### Key Architectural Insights
+
+* **Silo Elimination**: Merging factory analytics with ESG reporting.
+* **System of Systems Paradigm**: Local process optimization must serve global limits.
+* **Interdependence**: Global research links remain intact despite policy friction.
+
+---
+
+## Section VI: Conclusion
+
+### Industrial Relevance & Use Cases
+
+* **IMEC.netzero**: Virtual fab modeling of chemical and energy footprints.
+* **ESMC Dresden Fab**: Embedding EU sustainability mandates into production.
+* **Infineon Smart Power Fab**: Designing circularity directly into operations.
+
+---
+
+## Section VI: Conclusion
+
+### Standardized Knowledge Transfer
+
+* **Historical Precedent**: Leveraging "Copy Exactly!" and SEMI frameworks.
+* **Modern Expansion**: Extending technical standards to cover sustainability.
+* **Global Value Chain**: Expanding IRDS and ISRS multi-stakeholder workshops.
+
+---
+
+## Section VI: Conclusion
+
+### Future Research Directions
+
+* **Industrial Pilots**: Testing federated data spaces in cross-border fabs.
+* **Metrology Validation**: Substantiating CBAM disclosures with sensor data.
+* **Ecosystem Co-Development**: Refining the architecture via industry feedback.

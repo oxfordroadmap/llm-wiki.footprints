@@ -3,8 +3,9 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "knowledge/**/*.qmd" # Recursively catches blog/index.qmd and blog/posts/*.qmd
     - "blog/**/*.qmd"      # Recursively catches blog/index.qmd and blog/posts/*.qmd
+    - "knowledge/**/*.qmd" # Recursively 
+    - "slides/**/*.qmd"    # Add this line
     - "!brain"             # Explicitly invite the clean concept notes
     - "!.obsidian/"        # Strictly excludes the Obsidian configuration tracking folder
     - "!lint_wiki.py"      # Explicitly excludes the Gemini python automation engine script
@@ -22,10 +23,12 @@ website:
     left:
       - href: knowledge/index.qmd
         text: LLM-wiki
-      - href: about.qmd
-        text: "What it is"
       - href: blog/index.qmd
         text: "Notes"
+      - href: slides/index.qmd
+        text: "Slides"
+      - href: about.qmd
+        text: "What it is"
 
 format:
   html:
