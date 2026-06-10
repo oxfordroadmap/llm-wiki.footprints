@@ -1,8 +1,9 @@
 # brain/wiki/_metadata.yml
 freeze: auto
 
-# This forces Quarto to bypass trying to read 'sources' as an active array mapping object
-metadata-files: [] 
+# Force Quarto to completely nullify the broken key for HTML generation
+metadata:
+  sources: null
 
 format:
   html:

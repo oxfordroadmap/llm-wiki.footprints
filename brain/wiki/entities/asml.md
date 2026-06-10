@@ -2,11 +2,13 @@
 type: entity
 created: 2026-06-10
 updated: 2026-06-10
-sources: ["[[sources/_id-286_current_version]]"]
-tags: [organization]
+sources:
+  - "[[sources/_id-286_current_version]]"
+tags:
+  - organization
 aliases:
-  - "ASML"
-  - "ASML Netherlands Bv"
+  - ASML
+  - ASML Netherlands Bv
 ---
 
 

@@ -2,7 +2,7 @@
 type: source
 created: 2026-06-10
 updated: 2026-06-10
-source_file: "[[brain/raw/_ID-286_Current_Version.md]]"
+source_file: "brain/raw/_ID-286_Current_Version.md"
 tags: [document]
 aliases: ["SSbD Semiconductor Review", "Twin Transition Semiconductor Study"]
 ---
