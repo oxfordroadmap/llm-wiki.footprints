@@ -3,10 +3,11 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "blog/**/*.qmd"     # Recursively catches blog/index.qmd and blog/posts/*.qmd
-    - "!brain"            # Explicitly invite the clean concept notes
-    - "!.obsidian/"       # Strictly excludes the Obsidian configuration tracking folder
-    - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
+    - "knowledge/**/*.qmd" # Recursively catches blog/index.qmd and blog/posts/*.qmd
+    - "blog/**/*.qmd"      # Recursively catches blog/index.qmd and blog/posts/*.qmd
+    - "!brain"             # Explicitly invite the clean concept notes
+    - "!.obsidian/"        # Strictly excludes the Obsidian configuration tracking folder
+    - "!lint_wiki.py"      # Explicitly excludes the Gemini python automation engine script
 
 website:
   title: "LLM-wiki Footprints"
@@ -40,6 +41,3 @@ format:
         - brand    
     css: styles.css
     toc: true
-
-
-
