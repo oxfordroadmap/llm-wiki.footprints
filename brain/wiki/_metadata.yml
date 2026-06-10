@@ -1,8 +1,11 @@
-# This target isolates the filter strictly to the brain directory hierarchy
+# brain/wiki/_metadata.yml
 freeze: auto
+
+# This forces Quarto to bypass trying to read 'sources' as an active array mapping object
+metadata-files: [] 
 
 format:
   html:
     toc: true
     filters:
-      - wikilinks.lua   # Quarto applies this ONLY to files in this folder tree
+      - ./wikilinks.lua

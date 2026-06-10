@@ -28,7 +28,9 @@ ENV/
 /.qmd_cache/
 /.jupyter_cache/
 # anywhere else inside your project tree.
-.quarto/ 
+.quarto/
 # It blocks Git from tracking the main .quarto/ build cache directory sitting right alongside your _quarto.yml file.
-/.quarto/  
+/.quarto/
 **/*.quarto_ipynb
+
+/.luarc.json
