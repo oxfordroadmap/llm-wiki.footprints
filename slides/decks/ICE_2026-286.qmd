@@ -20,7 +20,7 @@ format:
 
 ---
 
-## Section I: Introduction
+## 🌱 Section I: Introduction
 
 ### The Semiconductor Twin Transition
 
@@ -34,7 +34,7 @@ Welcome everyone. Today we look at the semiconductor industry's Twin Transition.
 
 ---
 
-## Section I: Introduction
+## 🌱 Section I: Introduction
 
 ### Evolving GRC Landscapes & SSbD
 
@@ -48,7 +48,7 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 
 ---
 
-## Section I: Introduction
+## 🌱 Section I: Introduction
 
 ### Current RegTech Service Ecosystem
 
@@ -82,7 +82,7 @@ Our literature review highlights a massive architectural gap. While models for p
 
 ---
 
-## Section III: Methodology
+## 🧩 Section III: Methodology
 
 ### Scoping Review & Query Design
 
@@ -103,7 +103,7 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 
 ---
 
-## Section III: Methodology
+## 🧩 Section III: Methodology
 
 ### Dataset Overview & Comparative Metrics
 
@@ -124,7 +124,7 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 
 ---
 
-## Section IV: Findings
+## 👩‍🏫 Section IV: Findings
 
 ### Institutional Affiliation Gaps
 
@@ -144,7 +144,7 @@ Our institutional mapping in Table 4 exposed a severe structural hole. Academic 
 
 ---
 
-## Section IV: Findings
+## 👩‍🏫 Section IV: Findings
 
 ### Global Collaboration Networks
 
@@ -162,7 +162,7 @@ When looking at national collaboration in Figure 1, the networks reveal dense tr
 
 ---
 
-## Section IV: Findings
+## 👩‍🏫 Section IV: Findings
 
 ### Regional Funding Distributions
 
@@ -181,7 +181,7 @@ Funding agency distributions in Table 5 show that East Asian agencies back over 
 
 ---
 
-## Section IV: Findings
+## 👩‍🏫 Section IV: Findings
 
 ### Conceptual Structure: Relational Mapping
 
@@ -197,7 +197,7 @@ Figure 2 shows our Factorial Multiple Correspondence Analysis. It maps a clear d
 
 ---
 
-## Section IV: Findings
+## 👩‍🏫 Section IV: Findings
 
 ### Keyword Co-occurrence Topology
 
@@ -213,7 +213,7 @@ The network topology in Figure 3 confirms this fragmentation. Mainstream semicon
 
 ---
 
-## Section V: Discussion
+## 🗪 Section V: Discussion
 
 ### Integrating the Research Questions
 
@@ -227,7 +227,7 @@ We can now synthesize our three core research questions. Data interoperability, 
 
 ---
 
-## Section V: Discussion
+## 🗪 Section V: Discussion
 
 ### Proposed 6-Layer SSbD Architecture
 
@@ -257,7 +257,7 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 
 ---
 
-## Section V: Discussion
+## 🗪 Section V: Discussion
 
 ### The Base: Substitution & RegTech Layers
 
@@ -267,7 +267,7 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 
 ---
 
-## Section V: Discussion
+## 🗪 Section V: Discussion
 
 ### The Core: Federated Spaces & Metrology
 
@@ -277,7 +277,7 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 
 ---
 
-## Section V: Discussion
+## 🗪 Section V: Discussion
 
 ### The Capstone: Twins & Transitions
 
