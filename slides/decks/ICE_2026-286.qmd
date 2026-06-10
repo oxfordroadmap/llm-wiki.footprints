@@ -236,6 +236,7 @@ We can now synthesize our three core research questions. Data interoperability, 
 *Note: Conceptual outline of Fig. 4.*
 
 <aside class="notes">
+
 To close these structural holes, we propose this 6-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
 +-------------------------------------------------------+
 |        Socio-Technical Transitions Layer              |
@@ -265,6 +266,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **RegTech Layer**: Deploying digital product passports for clear provenance.
 * **Defensive Prompting**: Preventing compliance gaming in automated reporting.
 
+::: {.notes}
+At the foundation, the substitution layer drives chemical safety and mineral abatement based on the IRDS roadmap. Directly above it, the RegTech layer uses digital product passports to automate compliance. Crucially, it includes defensive prompt structures to stop vendors from gaming automated screening tools.
+:::
+
 ---
 
 ## 🗪 Section V: Discussion
@@ -274,6 +279,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **Federated Data Fabrics**: Preserving cross-border data sovereignty.
 * **Metrology Optimization**: Real-time closed-loop Statistical Process Control.
 * **Grid-to-Core Pathway**: Connecting sensor power metrics to CBAM logs.
+
+::: {.notes}
+The middle layers solve the data sharing dilemma. Federated data fabrics allow secure information exchange across different countries without losing data sovereignty. This enables inline sensors and virtual metrology models to pipe verified energy and emissions data directly into compliance applications.
+:::
 
 ---
 
@@ -285,6 +294,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **Industry 5.0 Vision**: Prioritizing human-machine synergy and resilience.
 * **Socio-Technical Ecosystem**: Multipolar diversification and automated compliance.
 
+::: {.notes}
+The top layers complete the ecosystem. Digital twins simulate manufacturing changes to verify energy and yield trade-offs before physical wafers are ever processed. This turns regulatory demands into an automated, self-correcting driver of actual industrial innovation.
+:::
+
 ---
 
 ## Section VI: Conclusion
@@ -294,6 +307,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **Silo Elimination**: Merging factory analytics with ESG reporting.
 * **System of Systems Paradigm**: Local process optimization must serve global limits.
 * **Interdependence**: Global research links remain intact despite policy friction.
+
+::: {.notes}
+In conclusion, our scoping review shows that we must eliminate the silos separating factory floor analytics from ESG compliance. Moving forward, the semiconductor industry must adopt a System of Systems paradigm where local manufacturing optimizations actively support global ecological constraints.
+:::
 
 ---
 
@@ -305,6 +322,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **ESMC Dresden Fab**: Embedding EU sustainability mandates into production.
 * **Infineon Smart Power Fab**: Designing circularity directly into operations.
 
+::: {.notes}
+This architecture is grounded in pioneering 2026 initiatives. For instance, the IMEC netzero platform models process footprints, while the new ESMC fab in Dresden and Infineon’s Smart Power Fab are embedding these exact circular design and compliance flows directly into advanced-node fabs.
+:::
+
 ---
 
 ## Section VI: Conclusion
@@ -315,6 +336,10 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **Modern Expansion**: Extending technical standards to cover sustainability.
 * **Global Value Chain**: Expanding IRDS and ISRS multi-stakeholder workshops.
 
+::: {.notes}
+The semiconductor sector has always thrived on rigorous, standardized knowledge transfer models like Intel's "Copy Exactly." We must now extend this historical capability to sustainability by expanding multi-stakeholder workshops to build an open, standardized net-zero value chain.
+:::
+
 ---
 
 ## Section VI: Conclusion
@@ -324,3 +349,7 @@ To close these structural holes, we propose this 6-layer Safe and Sustainable by
 * **Industrial Pilots**: Testing federated data spaces in cross-border fabs.
 * **Metrology Validation**: Substantiating CBAM disclosures with sensor data.
 * **Ecosystem Co-Development**: Refining the architecture via industry feedback.
+
+::: {.notes}
+Thank you for your time. Moving forward, we call for industrial pilots to test these federated data spaces in active cross-border fabs. This will ensure that process-level metrology truly validates regulatory reporting, driving a secure, climate-neutral transition.
+:::
