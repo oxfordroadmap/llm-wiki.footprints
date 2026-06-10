@@ -9,9 +9,9 @@ project:
     - "!lint_wiki.py"     # Explicitly excludes the Gemini python automation engine script
 
 website:
-  title: "LLM-wiki-quarto"
+  title: "LLM-wiki Footprints"
   description: "Socio-Technical Research Hub: A human-supervised knowledge base and agentic portfolio."
-  # site-url: "https://username.github.io/repository"
+  site-url: "https://llm-wiki.footprints.cv/"
 
   # This section generates targeted navbar styles
   navbar:
