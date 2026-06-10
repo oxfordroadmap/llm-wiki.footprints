@@ -1,0 +1,35 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[Metrology](virtual-metrology.qmd)"
+  - "[ESG in Semiconductors](esg-compliance.qmd)"
+  - "[SSbD Semiconductor Scoping Review](../sources/_id-286_current_version.qmd)]]"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "method"
+aliases:
+  - "Federated Learning"
+  - "FL"
+---
+
+## Related Concepts
+- [Industry 5.0](industry-5-0.qmd)
+- [Virtual Metrology](virtual-metrology.qmd)
+- [Machine Learning](machine-learning.qmd)
+- [RegTech](regtech.qmd)
+- [Data Sovereignty Paradox](data-sovereignty-paradox.qmd)
+- [Trusted Execution Environment](trusted-execution-environment-tee.qmd)
+- [International Data Spaces](international-data-spaces.qmd)
+
+## Related Entities
+- None
+
+## Mentions in Source
+> - "By establishing distinct "grid-to-core" and "standards-through-supply-chain" integration pathways, the proposed framework demonstrates how virtual metrology (VM), localized federated learning, and defensive RegTech mechanisms can build provenance-aware data fabrics."
+> - "This layer resolves the supply-chain structural hole by providing data sovereignty, global standard interoperability, distributed governance, and federated machine learning."
+> - "By executing Virtual Metrology (VM) predictions and Federated Machine Learning (FML) inside hardware-rooted Trusted Execution Environments (TEEs), this architecture resolves the Data Sovereignty Paradox, demonstrating how fabs can export cryptographically signed compliance tokens via International Data Spaces (IDS) connectors without exposing proprietary process recipes."
+> - "This question is addressed by technology roadmapping for federated data sharing and federated learning of related documents and specifications."

@@ -1,0 +1,21 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "Ariba"
+---
+
+## Related Entities
+- [IntegrityNext](integritynext.qmd)
+
+## Related Concepts
+- [esg-compliance](../concepts/esg-compliance.qmd)
+- [Supply Chain Management](../concepts/standards-through-supply-chain-pathway.qmd)
+- [Carbon Border Adjustment Mechanism](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)

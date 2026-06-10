@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-372_current_version](../sources/_id-372_current_version.qmd)"]
+tags: [person]
+aliases:
+  - "Chang-Yi Kao"
+  - "Eden Kao"
+---
+
+
+# Chang-Yi Kao
+
+## Basic Information
+- Type: person
+- Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)
+
+## Description
+Chang-Yi Kao is an academic researcher affiliated with the Department of Computer Science and Information Management at [Soochow University](soochow-university.qmd) in Taipei, Taiwan. He specializes in the integration of computer science frameworks within industrial management systems, contributing to contemporary research on [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd) and industrial data infrastructures. His work often explores the intersection of professional-led data orchestration and complex socio-technical systems.
+
+## Related Entities
+- [Han-Teng Liao](han-teng-liao.qmd)
+- [Karen Ang](karen-ang.qmd)
+
+## Related Concepts
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+
+## Mentions in Source
+- "Chang-Yi Kao _Dept. Computer Science and Information Management_ _Soochow University _Taipei, Taiwan _edenkao@scu.edu.tw 0000-0003-0075-0787" — [_id-372_current_version](../sources/_id-372_current_version.qmd)

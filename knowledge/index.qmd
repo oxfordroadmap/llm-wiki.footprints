@@ -1,3 +1,124 @@
----
-title: "LLM wiki"
----
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+## Entities
+
+- [siemens](entities/siemens.qmd) - type: entity
+- [bosch](entities/bosch.qmd) `aliases: Robert Bosch GmbH, Bosch Group` - type: entity
+- [nxp-semiconductors](entities/nxp-semiconductors.qmd) `aliases: NXP, NXP Semiconductors N.V.` - type: entity
+- [science-based-targets-initiative](entities/science-based-targets-initiative.qmd) `aliases: SBTi, Science Based Targets initiative` - type: entity
+- [chang-yi-kao](entities/chang-yi-kao.qmd) `aliases: Chang-Yi Kao, Eden Kao` - type: entity
+- [international-data-spaces-association](entities/international-data-spaces-association.qmd) `aliases: IDSA, International Data Spaces Association` - type: entity
+- [web-of-science](entities/web-of-science.qmd) `aliases: WoS, Web of Science database` - type: entity
+- [osf_dataset-semi_ssbd](entities/osf_dataset-semi_ssbd.qmd) `aliases: OSF Dataset, Semi_SSbD Dataset` - type: entity
+- [scopus](entities/scopus.qmd) `aliases: Scopus database` - type: entity
+- [cadde](entities/cadde.qmd) `aliases: Cross-domain Architecture for Data Exchange, CADDE` - type: entity
+- [soochow-university](entities/soochow-university.qmd) `aliases: Soochow University, SCU` - type: entity
+- [supply-online-360](entities/supply-online-360.qmd) `aliases: Supply Online 360, TSMC Supply Online 360` - type: entity
+- [tsmc](entities/tsmc.qmd) `aliases: Taiwan Semiconductor Manufacturing Company, TSMC` - type: entity
+- [ieee-international-roadmap-for-devices-and-systems](entities/ieee-international-roadmap-for-devices-and-systems.qmd) `aliases: IEEE IRDS, International Roadmap for Devices and Systems, IRDS, ieee-irds, ESSF` - type: entity
+- [pope-leo-xiv](entities/pope-leo-xiv.qmd) `aliases: Leo XIV` - type: entity
+- [ice-2026](entities/ice-2026.qmd) `aliases: International Conference on Engineering, Technology and Innovation 2026, ICE 2026` - type: entity
+- [european-commission](entities/european-commission.qmd) `aliases: EC, European Commission` - type: entity
+- [jensen-huang](entities/jensen-huang.qmd) `aliases: Jensen Huang, Jen-Hsun Huang` - type: entity
+- [taipower](entities/taipower.qmd) `aliases: Taiwan Power Company, Taipower` - type: entity
+- [nvidia](entities/nvidia.qmd) `aliases: NVIDIA, NVIDIA Corporation` - type: entity
+- [esmc-dresden-fab](entities/esmc-dresden-fab.qmd) `aliases: ESMC, European Semiconductor Manufacturing Company` - type: entity
+- [corporate-supply-chain-due-diligence-directive](entities/corporate-supply-chain-due-diligence-directive.qmd) `aliases: CSDDD, Corporate Sustainability Due Diligence Directive, Corporate Supply Chain Due Diligence Directive, CSDDD, Corporate Sustainability Due Diligence Directive` - type: entity
+- [asml](entities/asml.qmd) `aliases: ASML, ASML Netherlands Bv` - type: entity
+- [workiva](entities/workiva.qmd) `aliases: Workiva, Workiva Platform` - type: entity
+- [auditboard](entities/auditboard.qmd) `aliases: AuditBoard, AuditBoard GRC` - type: entity
+- [sap-ariba](entities/sap-ariba.qmd) `aliases: Ariba` - type: entity
+- [integritynext](entities/integritynext.qmd) `aliases: IntegrityNext platform, IN` - type: entity
+- [infineon-technologies-sdn-bhd](entities/infineon-technologies-sdn-bhd.qmd) `aliases: Infineon Technologies Sdn. Bhd., Infineon, Infineon Technologies, Infineon Technologies Sdn. Bhd., Infineon` - type: entity
+- [interuniversity-microelectronics-centre-imec](entities/interuniversity-microelectronics-centre-imec.qmd) `aliases: IMEC, Interuniversity Microelectronics Centre` - type: entity
+- [ecovadis](entities/ecovadis.qmd) `aliases: EcoVadis, EcoVadis Rating Platform` - type: entity
+- [karen-ang](entities/karen-ang.qmd) `aliases: Karen Ang, Ang, Karen` - type: entity
+- [han-teng-liao](entities/han-teng-liao.qmd) `aliases: Han-Teng Liao, Liao` - type: entity
+- [investpenang](entities/investpenang.qmd) `aliases: InvestPenang, Penang Investment Agency` - type: entity
+- [portugal](entities/portugal.qmd) `aliases: Portugal, Green Tech Center of Excellence` - type: entity
+- [itu](entities/itu.qmd) `aliases: International Telecommunication Union, ITU` - type: entity
+- [penang](entities/penang.qmd) `aliases: Penang, Silicon Valley of the East` - type: entity
+- [aicep](entities/aicep.qmd) `aliases: Agência para o Investimento e Comércio Externo de Portugal, AICEP` - type: entity
+- [mdec](entities/mdec.qmd) `aliases: Malaysia Digital Economy Corporation, Malaysia Digital` - type: entity
+- [absl](entities/absl.qmd) `aliases: Association of Business Service Leaders, ABSL, ABS, Association of Business Service Leaders, ABSL` - type: entity
+- [malaysia](entities/malaysia.qmd) `aliases: Malaysia, MY` - type: entity
+- [global-business-services](entities/global-business-services.qmd) `aliases: GBS` - type: entity
+- [poland](entities/poland.qmd) `aliases: Republic of Poland, Polska` - type: entity
+
+## Concepts
+
+- [innovation-ecosystems](concepts/innovation-ecosystems.qmd) `aliases: innovation ecosystem, regional innovation systems` - type: concept
+- [digital-circular-economy](concepts/digital-circular-economy.qmd) `aliases: DCE, Digital Circular Economy` - type: concept
+- [environmental-sustainability-of-the-semiconductor-facilities](concepts/environmental-sustainability-of-the-semiconductor-facilities.qmd) - Environmental sustainability of semiconductor facilities refers to the integration of green manufact
+- [planetary-boundaries](concepts/planetary-boundaries.qmd) `aliases: Planetary Boundaries Framework, PB` - type: concept
+- [statistical-process-control](concepts/statistical-process-control.qmd) `aliases: SPC, Statistical Process Control` - type: concept
+- [esg-compliance](concepts/esg-compliance.qmd) `aliases: Environmental Social and Governance Compliance, ESG` - type: concept
+- [technology-roadmapping](concepts/technology-roadmapping.qmd) `aliases: TRM, Technology Roadmap` - type: concept
+- [non-beneficial-process-chemical-usage](concepts/non-beneficial-process-chemical-usage.qmd) `aliases: Chemical Waste, Idle Purge Waste` - type: concept
+- [mandate-execute-verify-mev-lifecycle](concepts/mandate-execute-verify-mev-lifecycle.qmd) `aliases: MEV, Mandate-Execute-Verify loop` - type: concept
+- [soft-sensor](concepts/soft-sensor.qmd) `aliases: Virtual Sensor, Inferential Sensor` - type: concept
+- [six-layer-ssbd-reference-architecture](concepts/six-layer-ssbd-reference-architecture.qmd) `aliases: 6-Layer Semiconductor SSbD architecture, Six-Layer SSbD` - type: concept
+- [relay-race-framework](concepts/relay-race-framework.qmd) `aliases: Agentic Relay Race, 5-step framework` - type: concept
+- [zero-trust-socio-technical-orchestration](concepts/zero-trust-socio-technical-orchestration.qmd) `aliases: Zero-Trust Socio-Technical Orchestration, Zero-trust compliance fabric` - type: concept
+- [total-available-conservation-opportunity](concepts/total-available-conservation-opportunity.qmd) `aliases: TACO, Total Available Conservation Opportunity Matrix` - type: concept
+- [system-dynamics](concepts/system-dynamics.qmd) `aliases: SD, Causal Loop Diagrams` - type: concept
+- [international-data-spaces](concepts/international-data-spaces.qmd) `aliases: IDS, International Data Spaces Association standard` - type: concept
+- [standards-through-supply-chain-pathway](concepts/standards-through-supply-chain-pathway.qmd) `aliases: Standards through Supply Chain, SSCP, Supply Chain Standard Pathway` - type: concept
+- [bibliometric-analysis](concepts/bibliometric-analysis.qmd) `aliases: Science Mapping, Bibliometrics` - type: concept
+- [structural-hole](concepts/structural-hole.qmd) `aliases: Structural Hole, Network structural hole` - type: concept
+- [grid-to-core-pathway](concepts/grid-to-core-pathway.qmd) `aliases: Grid to Core integration, G2C Pathway` - type: concept
+- [outside-system-connectivity](concepts/outside-system-connectivity.qmd) `aliases: OSC, Outside System Connectivity` - type: concept
+- [sustainability-standards](concepts/sustainability-standards.qmd) `aliases: Green standards, International Sustainability Standards` - type: concept
+- [life-cycle-assessment](concepts/life-cycle-assessment.qmd) `aliases: LCA` - type: concept
+- [robotic-process-automation](concepts/robotic-process-automation.qmd) `aliases: RPA` - type: concept
+- [machine-learning](concepts/machine-learning.qmd) `aliases: ML` - type: concept
+- [gbs-5-0](concepts/gbs-5-0.qmd) `aliases: GBS5.0, GBS 5.0 framework` - type: concept
+- [digital-resonance](concepts/digital-resonance.qmd) `aliases: Digital Resonance` - type: concept
+- [ict-centric-innovation-ecosystem-toolkit](concepts/ict-centric-innovation-ecosystem-toolkit.qmd) `aliases: ITU Toolkit, ICT-centric innovation ecosystem toolkit` - type: concept
+- [multi-level-perspective](concepts/multi-level-perspective.qmd) `aliases: MLP, Multi-Level Perspective` - type: concept
+- [open-policy-agent](concepts/open-policy-agent.qmd) `aliases: OPA` - type: concept
+- [multi-criteria-decision-analysis](concepts/multi-criteria-decision-analysis.qmd) `aliases: MCDA` - type: concept
+- [policy-as-code](concepts/policy-as-code.qmd) `aliases: PaC, Policy as Code` - type: concept
+- [virtual-metrology](concepts/virtual-metrology.qmd) `aliases: VM, Virtual Metrology` - type: concept
+- [trusted-execution-environment-tee](concepts/trusted-execution-environment-tee.qmd) `aliases: TEE, Trusted Execution Environment` - type: concept
+- [data-sovereignty-paradox](concepts/data-sovereignty-paradox.qmd) `aliases: Data Sovereignty Paradox, DSP` - type: concept
+- [professional-proxies](concepts/professional-proxies.qmd) `aliases: Professional Proxies, Agentic Workflows` - type: concept
+- [safe-and-sustainable-by-design](concepts/safe-and-sustainable-by-design.qmd) `aliases: SSbD, Safe and Sustainable by Design, safe-and-sustainable-by-design-ssbd, Safe and Sustainable by Design (SSbD)` - type: concept
+- [key-value-cache-memory-consumption](concepts/key-value-cache-memory-consumption.qmd) `aliases: KV cache, Key-Value cache memory consumption` - type: concept
+- [memory-wall](concepts/memory-wall.qmd) `aliases: Memory Wall, Memory bandwidth bottleneck` - type: concept
+- [energy-communities](concepts/energy-communities.qmd) `aliases: Energy sharing communities, EC` - type: concept
+- [triple-bottom-line](concepts/triple-bottom-line.qmd) `aliases: TBL, Triple Bottom Line Accounting` - type: concept
+- [grid-paradox](concepts/grid-paradox.qmd) `aliases: Grid Paradox, Infrastructure Scaling Tension` - type: concept
+- [regenerative-accounting](concepts/regenerative-accounting.qmd) `aliases: Regenerative Accounting, RA` - type: concept
+- [jevons-paradox](concepts/jevons-paradox.qmd) `aliases: Jevons Paradox, Rebound Effect` - type: concept
+- [twin-transition](concepts/twin-transition.qmd) `aliases: Green and Digital Transformation, Twin Transition, Green Tech, Green and Digital Transformation, Twin Transition` - type: concept
+- [systemic-volatility-indicator](concepts/systemic-volatility-indicator.qmd) `aliases: SVI, Systemic Volatility Indicator` - type: concept
+- [electrons-to-tokens](concepts/electrons-to-tokens.qmd) `aliases: Electrons to tokens, E2T, Tokenomics` - type: concept
+- [regenerative-socio-technical-framework](concepts/regenerative-socio-technical-framework.qmd) `aliases: RST framework, Regenerative Socio-Technical Roadmap` - type: concept
+- [federated-machine-learning](concepts/federated-machine-learning.qmd) `aliases: Federated Learning, FL` - type: concept
+- [digital-product-passports](concepts/digital-product-passports.qmd) `aliases: DPP, Digital Product Passport` - type: concept
+- [scope-3](concepts/scope-3.qmd) `aliases: Scope 3 emissions, Indirect value chain emissions, Scope 3 Emissions, Scope 3 emissions, Indirect value chain emissions` - type: concept
+- [circular-economy](concepts/circular-economy.qmd) `aliases: Circular Engineering` - type: concept
+- [regtech](concepts/regtech.qmd) `aliases: Regulatory Technology, Regulatory Tech` - type: concept
+- [governance-risk-and-compliance-grc](concepts/governance-risk-and-compliance-grc.qmd) `aliases: GRC, Governance, Risk, and Compliance, Governance, Risk, and Compliance, GRC, Governance, Risk, and Compliance` - type: concept
+- [carbon-border-adjustment-mechanism-cbam](concepts/carbon-border-adjustment-mechanism-cbam.qmd) `aliases: CBAM, Carbon Border Adjustment Mechanism` - type: concept
+- [sustainable-intelligence](concepts/sustainable-intelligence.qmd) `aliases: Sustainable Intelligence, Sustainable Intelligence model` - type: concept
+- [operational-airlock](concepts/operational-airlock.qmd) `aliases: Operational airlock, GBS airlock` - type: concept
+- [maturity-trap](concepts/maturity-trap.qmd) `aliases: Maturity Trap` - type: concept
+- [system-of-systems](concepts/system-of-systems.qmd) `aliases: SoS, System-of-Systems` - type: concept
+- [innovation-management](concepts/innovation-management.qmd) `aliases: Innovation Management, IM` - type: concept
+- [digitalization-paradox](concepts/digitalization-paradox.qmd) `aliases: Digitalization paradox` - type: concept
+- [middle-income-trap](concepts/middle-income-trap.qmd) `aliases: Middle-income development challenge` - type: concept
+- [industry-5-0](concepts/industry-5-0.qmd) `aliases: Ind 5.0, Human-Centric Industry` - type: concept
+- [socio-technical-systems](concepts/socio-technical-systems.qmd) `aliases: STS` - type: concept
+
+## Sources
+
+- [_id-372_current_version](sources/_id-372_current_version.qmd) `aliases: ID-372: Smart Fabs and Professional Proxies, Scaling SSbD through Industrial Data Spaces`
+- [_id-401_current_version](sources/_id-401_current_version.qmd) `aliases: Regenerative Socio-Technical Roadmap for AI Infrastructure, RST Roadmap 2026`
+- [_id-286_current_version](sources/_id-286_current_version.qmd) `aliases: SSbD Semiconductor Review, Twin Transition Semiconductor Study`
+- [_id-306_current_version](sources/_id-306_current_version.qmd) `aliases: Orchestrating the Twin Transition in Multinational Corporations, Technology Roadmapping for Green and Digital GBS`

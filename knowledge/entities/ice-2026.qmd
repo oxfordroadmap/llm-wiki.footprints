@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-401_current_version](../sources/_id-401_current_version.qmd)"]
+tags: [event]
+aliases:
+  - "International Conference on Engineering"
+  - "Technology and Innovation 2026"
+  - "ICE 2026"
+---
+
+
+# ICE 2026
+
+## Basic Information
+- Type: event
+- Source: [_id-401_current_version](../sources/_id-401_current_version.qmd)
+
+## Description
+ICE 2026 is a global academic and industry conference that serves as the official venue for the Special Session 08 (SS08) on [digital-circular-economy](../concepts/digital-circular-economy.qmd). It acts as a primary forum for researchers, practitioners, and policymakers to examine the critical intersection of sustainability and deep tech. The event facilitates the exchange of innovative pathways for achieving industrial resilience and digital circularity. Additionally, it provides a dedicated platform for the dissemination of research roadmaps, including the proposed [Regenerative Socio-Technical Roadmap for AI Infrastructure](../sources/_id-401_current_version.qmd).
+
+## Related Entities
+None
+
+## Related Concepts
+- [digital-circular-economy](../concepts/digital-circular-economy.qmd)
+
+## Mentions in Source
+- "Special Session 08 - Digital Circular Economy: Digital Deep tech Driven Circular Economy" — [_id-401_current_version](../sources/_id-401_current_version.qmd)
+- "Call for Contributions - ICE 2026" — [_id-401_current_version](../sources/_id-401_current_version.qmd)

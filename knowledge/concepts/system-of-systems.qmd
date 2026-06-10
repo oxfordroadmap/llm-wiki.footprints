@@ -1,0 +1,33 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "SoS"
+  - "System-of-Systems"
+---
+
+## Description
+System of Systems (SoS) represents an architectural approach to managing highly complex, distributed, and heterogeneous systems that maintain operational and managerial independence while contributing to a common objective. In the semiconductor industry, this paradigm facilitates the convergence of manufacturing, digital data spaces, environmental governance, and supply chain logistics. By applying an SoS approach, manufacturers can effectively coordinate interdependent components such as yield management, AI safety protocols, and regulatory compliance. This holistic lifecycle orchestration enables systemic resilience against disruptions and supports the integration of circular economy principles within high-tech production.
+
+## Related Concepts
+- [Socio-Technical Systems](socio-technical-systems.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Data Sovereignty Paradox](data-sovereignty-paradox.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Virtual Metrology](virtual-metrology.qmd)
+
+## Related Entities
+- None
+
+## Mentions in Source
+> **Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)**
+> - "To close these gaps, this study proposes a 6-layer Safe and Sustainable by Design (SSbD) architecture grounded in a System of Systems (SoS) paradigm."
+> - "Semiconductor manufacturing needs systems thinking of lifecycle assessment (LCA) and circular economy principles, addressing hazardous waste, and energy consumption [5]. From the socio-technical systems perspective... the study contextualizes SSbD as a System of Systems (SoS)... challenge."

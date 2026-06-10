@@ -1,0 +1,47 @@
+---
+type: source
+created: 2026-06-10
+updated: 2026-06-10
+source_file: "brain/raw/_ID-286_Current_Version.md"
+tags: [document]
+aliases: ["SSbD Semiconductor Review", "Twin Transition Semiconductor Study"]
+---
+
+# Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector: Implications for Safe and Sustainable by Design (SSbD) - Summary
+
+## Source
+- Original file: [_ID-286_Current_Version.md](../brain/raw/_ID-286_Current_Version.md.qmd)
+- Ingested: 2026-06-10
+
+## Core Content
+This scoping review analyzes the "Twin Transition" in the semiconductor industry, characterized by the simultaneous push for AI-driven manufacturing scalability and compliance with stringent ESG mandates such as the [Sustainability Standards](../concepts/sustainability-standards.qmd). Based on a [bibliometric analysis](../concepts/bibliometric-analysis.qmd) of 1,465 documents, the authors identify a fragmented research landscape containing significant [structural holes](../concepts/structural-hole.qmd) between AI process optimization and sustainability governance. 
+
+To bridge these gaps, the study proposes a 6-layer [System of Systems (SoS)](../concepts/system-of-systems.qmd) architecture for [Safe and Sustainable by Design (SSbD)](../concepts/safe-and-sustainable-by-design.qmd) manufacturing. This framework leverages [Virtual Metrology](../concepts/virtual-metrology.qmd), [Machine Learning](../concepts/machine-learning.qmd), and [RegTech](../concepts/regtech.qmd) to integrate material safety and environmental data into production workflows. By proposing the [Grid-to-Core Pathway](../concepts/grid-to-core-pathway.qmd) and the [Standards-Through-Supply-Chain Pathway](../concepts/standards-through-supply-chain-pathway.qmd), the authors demonstrate how regulatory compliance can transition from a downstream audit burden into a proactive driver for innovation and circular value chains.
+
+## Key Entities
+- [infineon-technologies-sdn-bhd](../entities/infineon-technologies-sdn-bhd.qmd)
+- [interuniversity-microelectronics-centre-imec](../entities/interuniversity-microelectronics-centre-imec.qmd)
+- [European Commission](../entities/european-commission.qmd)
+- [ieee-international-roadmap-for-devices-and-systems](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+- [Karen Ang](../entities/karen-ang.qmd)
+- [Han-Teng Liao](../entities/han-teng-liao.qmd)
+- [international-data-spaces](../concepts/international-data-spaces.qmd)
+
+## Key Concepts
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [Virtual Metrology](../concepts/virtual-metrology.qmd)
+- [RegTech](../concepts/regtech.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [System of Systems](../concepts/system-of-systems.qmd)
+- [Digital Product Passports](../concepts/digital-product-passports.qmd)
+- [Industry 5.0](../concepts/industry-5-0.qmd)
+- [Sustainability Standards](../concepts/sustainability-standards.qmd)
+
+## Main Points
+- The semiconductor sector is currently navigating a high-stakes "Twin Transition" involving both digital process scaling and mandatory climate-neutrality compliance.
+- Bibliometric analysis highlights a critical disconnect between AI-driven technical process engineering and corporate sustainability governance.
+- A proposed 6-layer architecture provides a roadmap to unify industrial metrology, supply chain ESG, and regulatory reporting into a coherent, provenance-aware data fabric.
+- Regulatory frameworks like [corporate-supply-chain-due-diligence-directive](../entities/corporate-supply-chain-due-diligence-directive.qmd) and CBAM are positioned as potential catalysts for systemic innovation rather than mere compliance requirements.
+- The use of [Machine Learning](../concepts/machine-learning.qmd) and sovereign data spaces is essential to facilitate secure, multi-stakeholder collaboration without compromising proprietary process data.
+
+---

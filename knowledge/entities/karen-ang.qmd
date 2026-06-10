@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_ID-401_Current_Version](../sources/_ID-401_Current_Version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - person
+aliases:
+  - Karen Ang
+  - Ang
+  - Karen
+---
+
+## Related Entities
+- [Han-Teng Liao](han-teng-liao.qmd)
+- [Chang-Yi Kao](chang-yi-kao.qmd)
+- [infineon-technologies-sdn-bhd](infineon-technologies-sdn-bhd.qmd)
+
+## Related Concepts
+- [Innovation ecosystems](../concepts/innovation-ecosystems.qmd)
+- [Socio-technical systems](../concepts/socio-technical-systems.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [RegTech](../concepts/regtech.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [Virtual Metrology](../concepts/virtual-metrology.qmd)

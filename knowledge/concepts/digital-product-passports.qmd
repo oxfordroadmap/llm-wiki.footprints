@@ -1,0 +1,31 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-401_Current_Version](../sources/_ID-401_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "DPP"
+  - "Digital Product Passport"
+---
+
+## Related Concepts
+- [Circular Economy](circular-economy.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Digital Circular Economy](digital-circular-economy.qmd)
+- [Regenerative Accounting](regenerative-accounting.qmd)
+- [Data Sovereignty Paradox](data-sovereignty-paradox.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [RegTech](regtech.qmd)
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+
+## Related Entities
+- [International Roadmap for Devices and Systems](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+- [European Commission](../entities/european-commission.qmd)
+- [International Data Spaces Association](../entities/international-data-spaces-association.qmd)

@@ -1,0 +1,29 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "theory"
+aliases:
+  - "Maturity Trap"
+---
+
+## Related Concepts
+- [Digitalization paradox](digitalization-paradox.qmd)
+- [Socio-technical systems](socio-technical-systems.qmd)
+- [Innovation Management](innovation-management.qmd)
+- [Sustainable Intelligence](sustainable-intelligence.qmd)
+- [Operational airlock](operational-airlock.qmd)
+
+## Related Entities
+- [Global Business Services](../entities/global-business-services.qmd)
+
+## Mentions in Source
+> **Source: [_id-306_current_version](../sources/_id-306_current_version.qmd)**
+- "In practice, many GBS organizations remain caught in a “maturity trap,” where AI-native ambitions are retrofitted onto fragmented, legacy architectures."
+- "As Lubaczewski [5] notes, without radical process normalization, these frameworks act as a “multiplier of inefficiency” rather than a catalyst for value."
+- "In practice, many GBS organizations remain caught in a \"maturity trap,\" where AI-native ambitions are retrofitted onto fragmented, legacy architectures."
+- "As Lubaczewski [5] notes, without radical process normalization, these frameworks act as a \"multiplier of inefficiency\" rather than a catalyst for value."

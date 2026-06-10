@@ -1,0 +1,28 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "PaC"
+  - "Policy as Code"
+---
+
+## Related Concepts
+- [RegTech](regtech.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+- [Governance, Risk, and Compliance](governance-risk-and-compliance-grc.qmd)
+- [Open Policy Agent](open-policy-agent.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+- "By designing a multi-agent framework... and embedding declarative Policy-as-Code engines via Open Policy Agent (OPA), this paper provides the actionable framework necessary to codify multi-stakeholder trust." — [_id-372_current_version](../sources/_id-372_current_version.qmd)
+- "This regulatory pressure forces a move toward RegTech and Policy-as-Code, where identifying and mitigating adverse impacts—such as those governed by the Conflict Minerals Regulation and forthcoming Forced Labour Regulation—becomes a real-time requirement." — [_id-372_current_version](../sources/_id-372_current_version.qmd)
+- "Mandatory due diligence requires a verifiable, standardized scope managed via Policy-as-Code agentic workflows, demanding meaningful human-centric orchestration in corresponding RegTech." — [_id-372_current_version](../sources/_id-372_current_version.qmd)
+- No directly relevant information regarding Policy-as-Code was identified in the latest version of the source document.

@@ -1,0 +1,42 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "ESMC"
+  - "European Semiconductor Manufacturing Company"
+---
+
+## Related Entities
+- [TSMC](tsmc.qmd)
+- [Infineon](infineon-technologies-sdn-bhd.qmd)
+- [/nxp-semiconductors](nxp-semiconductors.qmd)
+- [/bosch](bosch.qmd)
+- [European Commission](european-commission.qmd)
+- [CSDDD](corporate-supply-chain-due-diligence-directive.qmd)
+
+## Related Concepts
+- [Circular Economy](../concepts/circular-economy.qmd)
+- [Industry 5.0](../concepts/industry-5-0.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [CBAM](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [Sustainability Standards](../concepts/sustainability-standards.qmd)
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+
+## Mentions in Source
+> **Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)**
+- "while ESMC's Dresden fab — a joint venture of TSMC, NXP, Infineon, and Bosch — embeds EU sovereignty and sustainability mandates into advanced-node production."
+- "Infineon's Smart Power Fab 2026 integrates circularity as a core design principle, driving both scalable and sustainable manufacturing."
+- "In this evolving landscape, the European Semiconductor Manufacturing Company (ESMC) occupies a unique strategic position to pilot these architectural innovations."
+- "Implementing these proxies within the Dresden cluster offers a rare opportunity to bridge the 'Copy Exactly!' manufacturing ethos with the 'Comply Exactly' regulatory mandates of CSDDD and CBAM."
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+- "In this evolving landscape, the European Semiconductor Manufacturing Company (ESMC) occupies a unique strategic position to pilot these architectural innovations."
+- "Implementing these proxies within the Dresden cluster offers a rare opportunity to bridge the 'Copy Exactly!' manufacturing ethos with the 'Comply Exactly' regulatory mandates of CSDDD and CBAM."
+- Note: This source provides no additional direct information beyond confirming the strategic positioning mentioned in previous documentation.

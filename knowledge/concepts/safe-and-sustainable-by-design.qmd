@@ -1,0 +1,47 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "method"
+aliases:
+  - "SSbD"
+  - "Safe and Sustainable by Design"
+  - "safe-and-sustainable-by-design-ssbd"
+  - "Safe and Sustainable by Design (SSbD)"
+---
+
+## Description
+Safe and Sustainable by Design (SSbD) transforms sustainability from a downstream compliance task into an integrated manufacturing constraint. In high-tech sectors like semiconductors, it functions as a System of Systems (SoS) challenge, requiring the integration of interoperable data, metrology, AI analytics, and ESG compliance services. By framing material safety as a core architectural requirement, the framework aims to ensure climate-neutral and circular innovation through federated data and interoperable governance. However, the convergence of SSbD with other mandates like the Corporate Sustainability Due Diligence Directive (CSDDD) and the Carbon Border Adjustment Mechanism (CBAM) creates a severe governance bottleneck for advanced facilities. To address these pressures, industry proposals now suggest a shift from reactive automation to autonomous governance via [Professional Proxies](professional-proxies.qmd)—role-based agentic workflows operating within hardware-isolated trust zones.
+
+## Related Concepts
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+- [Circular Economy](circular-economy.qmd)
+- [Digital Product Passport](digital-product-passports.qmd)
+- [Governance, Risk, and Compliance](governance-risk-and-compliance-grc.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+- [RegTech](regtech.qmd)
+- [Scope 3](scope-3.qmd)
+- [System of Systems](system-of-systems.qmd)
+- [Twin Transition](twin-transition.qmd)
+- [Virtual Metrology](virtual-metrology.qmd)
+
+## Related Entities
+- [Corporate Sustainability Due Diligence Directive](../entities/corporate-supply-chain-due-diligence-directive.qmd)
+- [European Commission](../entities/european-commission.qmd)
+- [infineon-technologies-sdn-bhd](../entities/infineon-technologies-sdn-bhd.qmd)
+
+## Mentions in Source
+> **Source: [_id-401_current_version](../sources/_id-401_current_version.qmd)**
+> - "This architecture must align with the EU Corporate Sustainability Due Diligence Directive (CSDDD) and the Safe and Sustainable by Design (SSbD) guidelines."
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+> - "The convergence of the 2026 European Union Safe and Sustainable by Design (SSbD) framework, Corporate Sustainability Due Diligence Directive (CSDDD), and Carbon Border Adjustment Mechanism (CBAM) introduce a severe governance bottleneck for advanced semiconductor manufacturing facilities."
+> - "We propose a shift from reactive automation to autonomous governance through 'Professional Proxies'—role-based agentic workflows executing within hardware-isolated trust zones."
+
+> **Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)**
+> - "The EU-initiated Safe and Sustainable by Design (SSbD) chemical safety framework [10], [11] is expected to drive this industrial transformation, ensuring material safety for both human health and the environment."
+> - "By framing metrology, AI analytics, and ESG compliance as interdependent services, the study contextualizes SSbD as a System of Systems (SoS) -a complex integration of interoperable systems- challenge, underscoring the need for federated data, interoperable governance, and architectures to achieve safe, climate‑neutral, and circular innovation."

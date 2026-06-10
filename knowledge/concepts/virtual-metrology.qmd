@@ -1,0 +1,26 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "method"
+aliases:
+  - "VM"
+  - "Virtual Metrology"
+---
+
+## Related Concepts
+- [Industry 5.0](industry-5-0.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [/statistical-process-control](statistical-process-control.qmd)
+- [Machine Learning](machine-learning.qmd)
+- [Federated Machine Learning](federated-machine-learning.qmd)
+- [RegTech](regtech.qmd)
+
+## Related Entities
+- [interuniversity-microelectronics-centre-imec](../entities/interuniversity-microelectronics-centre-imec.qmd)

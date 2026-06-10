@@ -1,0 +1,9 @@
+---
+type: entity
+created: 2026-06-10
+sources: ["[infineon-technologies-sdn-bhd](infineon-technologies-sdn-bhd.qmd)"]
+tags: [other]
+---
+# /siemens
+
+> Auto-generated stub page — referenced by [infineon-technologies-sdn-bhd](infineon-technologies-sdn-bhd.qmd).

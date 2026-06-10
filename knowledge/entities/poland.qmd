@@ -1,0 +1,22 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "location"
+aliases:
+  - "Republic of Poland"
+  - "Polska"
+---
+
+## Related Entities
+- [Global Business Services](global-business-services.qmd)
+- [ABSL](absl.qmd)
+
+## Related Concepts
+- [Innovation Ecosystem](../concepts/innovation-ecosystems.qmd)
+- [middle-income-trap](../concepts/middle-income-trap.qmd)
+- [GBS 5.0](../concepts/industry-5-0.qmd)

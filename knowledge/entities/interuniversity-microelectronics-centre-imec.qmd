@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[Metrology](../concepts/statistical-process-control.qmd)"
+  - "[and ESG in Semiconductors](../sources/and ESG in Semiconductors.qmd)"
+  - "[SSbD Semiconductor Scoping Review](../sources/SSbD Semiconductor Scoping Review.qmd)]]"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "IMEC"
+  - "Interuniversity Microelectronics Centre"
+---
+
+## Related Entities
+- [Infineon Technologies Sdn. Bhd.](infineon-technologies-sdn-bhd.qmd)
+- [ASML](tsmc.qmd) (Note: ASML and Infineon are referenced as key institutional partners)
+
+## Related Concepts
+- [Virtual Metrology](../concepts/virtual-metrology.qmd)
+- [Safe and Sustainable by Design (SSbD)](../concepts/safe-and-sustainable-by-design.qmd)
+- [Socio-technical Systems](../concepts/socio-technical-systems.qmd)
+
+## Mentions in Source
+- Initiatives like the imec.netzero “virtual fab” platform, launched by the Interuniversity Microelectronics Centre (IMEC), extends such predictive capability by quantifying energy and environmental footprints.
+- Collaborative hubs like IMEC also feature research bridging academia and industry.
+- The prominent role of EU institutions - IMEC, Infineon, ASML, and Siemens - signals both the capacity and regulatory motivation to drive the standardization of these principles.

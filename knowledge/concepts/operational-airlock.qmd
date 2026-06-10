@@ -1,0 +1,27 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "term"
+aliases:
+  - "Operational airlock"
+  - "GBS airlock"
+---
+
+## Related Concepts
+- [Socio-technical-systems](socio-technical-systems.qmd)
+- [Innovation management](innovation-management.qmd)
+- [Digitalization paradox](digitalization-paradox.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Middle-income trap](middle-income-trap.qmd)
+- [Multi-Level Perspective](multi-level-perspective.qmd)
+- [Twin Transition](twin-transition.qmd)
+- [Sustainable Intelligence](sustainable-intelligence.qmd)
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+
+## Related Entities
+None

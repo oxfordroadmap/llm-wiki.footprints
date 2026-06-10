@@ -1,0 +1,26 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "Supply Online 360"
+  - "TSMC Supply Online 360"
+---
+
+## Related Entities
+- [TSMC](tsmc.qmd)
+
+## Related Concepts
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+- [Governance, Risk, and Compliance](../concepts/governance-risk-and-compliance-grc.qmd)
+- [Scope 3](../concepts/scope-3.qmd)
+- [RegTech](../concepts/regtech.qmd)
+
+## Mentions
+- The transition toward agentic governance in the semiconductor industry builds upon established digital platforms for responsible supply chain management, most notably TSMC’s Supply Online 360.
+- By utilizing the platform’s modules as a knowledge base and telemetry source, autonomous agents can be deployed as Digital Auditors and Privacy Stewards, transforming static reporting into a self-transmitting, agentic ecosystem capable of meeting high-velocity compliance demands.

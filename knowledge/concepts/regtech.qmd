@@ -1,0 +1,29 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "Regulatory Technology"
+  - "Regulatory Tech"
+---
+
+## Related Concepts
+- [esg-compliance](esg-compliance.qmd)
+- [Interoperability](international-data-spaces.qmd)
+- [Governance, Risk, and Compliance (GRC)](governance-risk-and-compliance-grc.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Carbon Border Adjustment Mechanism (CBAM)](carbon-border-adjustment-mechanism-cbam.qmd)
+- [Virtual Metrology](virtual-metrology.qmd)
+- [Federated Machine Learning](federated-machine-learning.qmd)
+- [Policy as Code](policy-as-code.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+
+## Related Entities
+- [IntegrityNext](../entities/integritynext.qmd)
+- [Workiva](../entities/workiva.qmd)

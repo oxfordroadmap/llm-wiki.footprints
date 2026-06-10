@@ -1,0 +1,41 @@
+---
+type: source
+created: 2026-06-10
+updated: 2026-06-10
+source_file: "[_ID-372_Current_Version.md](../brain/raw/_ID-372_Current_Version.md.qmd)"
+tags: [document]
+aliases: ["ID-372: Smart Fabs and Professional Proxies", "Scaling SSbD through Industrial Data Spaces"]
+---
+
+# Trustworthy Smart Fabs via Professional Proxies: Scaling Safe and Sustainable by Design (SSbD) through Industrial Data Spaces - Summary
+
+## Source
+- Original file: [_ID-372_Current_Version.md](../brain/raw/_ID-372_Current_Version.md.qmd)
+- Ingested: 2026-06-10
+
+## Core Content
+This research addresses the critical governance bottleneck in semiconductor manufacturing driven by the convergence of European regulations such as [SSbD](../concepts/safe-and-sustainable-by-design.qmd), [corporate-supply-chain-due-diligence-directive](../entities/corporate-supply-chain-due-diligence-directive.qmd), and [carbon-border-adjustment-mechanism-cbam](../concepts/carbon-border-adjustment-mechanism-cbam.qmd). To overcome the limitations of manual, reactive auditing, the authors propose a zero-trust, [Industry 5.0](../concepts/industry-5-0.qmd)-aligned architecture. The framework utilizes [Professional Proxies](../concepts/professional-proxies.qmd)—autonomous, role-based agentic workflows operating within hardware-isolated [trusted-execution-environment-tee](../concepts/trusted-execution-environment-tee.qmd)—to manage data hand-offs across a [Six-Layer SSbD Reference Architecture](../concepts/six-layer-ssbd-reference-architecture.qmd). 
+
+By leveraging [International Data Spaces](../concepts/international-data-spaces.qmd) (IDS) connectors and [Policy-as-Code](../concepts/policy-as-code.qmd) engines like [Open Policy Agent](../concepts/open-policy-agent.qmd), the system resolves the [Data Sovereignty Paradox](../concepts/data-sovereignty-paradox.qmd). This allows semiconductor fabs to export cryptographically verified compliance tokens without exposing sensitive process recipes or intellectual property. The methodology, structured as a [Relay Race Framework](../concepts/relay-race-framework.qmd), transforms compliance from a retrospective burden into a proactive, evidence-based manufacturing capability.
+
+## Key Entities
+- [International Data Spaces Association](../entities/international-data-spaces-association.qmd)
+- [TSMC](../entities/tsmc.qmd)
+- [esmc-dresden-fab](../entities/esmc-dresden-fab.qmd)
+- [European Commission](../entities/european-commission.qmd)
+- [IEEE International Roadmap for Devices and Systems](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+
+## Key Concepts
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+- [Zero-Trust Socio-Technical Orchestration](../concepts/zero-trust-socio-technical-orchestration.qmd)
+- [Mandate-Execute-Verify (MEV) Lifecycle](../concepts/mandate-execute-verify-mev-lifecycle.qmd)
+- [Virtual Fab](../concepts/soft-sensor.qmd)
+- [Federated Machine Learning](../concepts/federated-machine-learning.qmd)
+- [Triple Bottom Line](../concepts/triple-bottom-line.qmd)
+
+## Main Points
+- Advanced semiconductor manufacturing faces a governance crisis due to the intersection of complex regulatory demands and the need for data secrecy.
+- The proposed architecture uses [Professional Proxies](../concepts/professional-proxies.qmd) to enable real-time, autonomous regulatory reporting within [trusted-execution-environment-tee](../concepts/trusted-execution-environment-tee.qmd).
+- The [Data Sovereignty Paradox](../concepts/data-sovereignty-paradox.qmd) is mitigated through [International Data Spaces](../concepts/international-data-spaces.qmd), allowing verified compliance tokens to be shared without compromising proprietary [Virtual Metrology](../concepts/virtual-metrology.qmd) or process data.
+- The framework operationalizes sustainability via a [Relay Race Framework](../concepts/relay-race-framework.qmd), ensuring seamless data integration from factory floor telemetry to corporate-level ESG reporting.
+- The approach provides a scalable roadmap for resilient [Industry 5.0](../concepts/industry-5-0.qmd) ecosystems that balance manufacturing productivity with net-zero compliance.

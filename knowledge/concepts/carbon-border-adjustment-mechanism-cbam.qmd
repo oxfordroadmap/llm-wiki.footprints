@@ -1,0 +1,43 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-401_Current_Version](../sources/_ID-401_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "term"
+aliases:
+  - "CBAM"
+  - "Carbon Border Adjustment Mechanism"
+---
+
+## Related Concepts
+- [Sustainability Standards](sustainability-standards.qmd)
+- [Scope 3](scope-3.qmd)
+- [esg-compliance](esg-compliance.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Regenerative Socio-Technical framework](regenerative-socio-technical-framework.qmd)
+- [Circular Economy](circular-economy.qmd)
+- [Governance, Risk, and Compliance](governance-risk-and-compliance-grc.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Twin Transition](twin-transition.qmd)
+- [Digital Product Passports](digital-product-passports.qmd)
+- [Regtech](regtech.qmd)
+
+## Related Entities
+- [Workiva](../entities/workiva.qmd)
+- [IntegrityNext](../entities/integritynext.qmd)
+- [Corporate Sustainability Due Diligence Directive](../entities/corporate-supply-chain-due-diligence-directive.qmd)
+- [European Commission](../entities/european-commission.qmd)
+
+## Mentions in Source
+> **Source: [SSbD Semiconductor Review](../sources/_id-286_current_version.qmd)**
+> - "The semiconductor sector faces a dual transition: scaling manufacturing execution through Artificial Intelligence (AI) while satisfying stringent sustainability mandates, such as the EU Carbon Border Adjustment Mechanism (CBAM)."
+> - "CBAM (operational 2026) creates indirect carbon cost exposure for semiconductor supply chains."
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+> - "The upcoming CBAM intensifies this pressure by shifting from governance-based reporting to performance-based carbon accounting at the border, potentially impacting the socio-economic stability of emerging and developing economies."
+> - "It automates the tracking of high-value byproducts—such as upcycling waste streams to save significant upstream smelting or manufacturing energy—and anchors the results into an immutable DPP token to secure automated cross-border customs clearance, CBAM carbon-tariff reconciliations, and sustainability-linked financing."

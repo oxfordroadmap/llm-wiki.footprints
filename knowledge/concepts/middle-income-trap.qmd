@@ -1,0 +1,26 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "term"
+aliases:
+  - "Middle-income development challenge"
+---
+
+## Related Concepts
+- [Innovation ecosystem](innovation-ecosystem.qmd)
+- [Twin transition](twin-transition.qmd)
+- [Global value chains](global-value-chains.qmd)
+
+## Related Entities
+- [Poland](../entities/poland.qmd)
+- [Portugal](../entities/portugal.qmd)
+- [Malaysia](../entities/malaysia.qmd)
+
+## Mentions in Source
+- "The study further maps these clusters onto a stakeholder engagement canvas, highlighting how resilient 'Middle Power' hubs in Poland, Portugal, and Malaysia are bypassing the middle-income trap to provide a 'third way' for global value chains amidst a bifurcated geopolitical cloud."
+- "Amid shifting geopolitics, countries like Poland, Portugal, and Malaysia utilize these GBS policies to mitigate 'middle-income traps' through high-value talent and resilient supply chain management."

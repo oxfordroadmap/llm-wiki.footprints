@@ -1,0 +1,27 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "Association of Business Service Leaders"
+  - "ABSL"
+  - "ABS"
+  - "Association of Business Service Leaders"
+  - "ABSL"
+---
+
+## Related Entities
+- [Poland](poland.qmd)
+- [mdec](mdec.qmd)
+- [aicep](aicep.qmd)
+
+## Related Concepts
+- [Innovation management](../concepts/innovation-management.qmd)
+- [global-business-services](global-business-services.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [GBS 5.0](../concepts/industry-5-0.qmd)

@@ -1,0 +1,21 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "theory"
+aliases:
+  - "STS"
+---
+
+## Related Concepts
+- [Multi-Level Perspective](multi-level-perspective.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Twin Transition](twin-transition.qmd)
+- [Maturity Trap](maturity-trap.qmd)
+
+## Related Entities
+- [Global Business Services](../entities/global-business-services.qmd)

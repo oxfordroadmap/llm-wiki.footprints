@@ -1,0 +1,25 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "Sustainable Intelligence"
+  - "Sustainable Intelligence model"
+---
+
+## Related Concepts
+- [Industry 5.0](industry-5-0.qmd)
+- [Twin Transition](twin-transition.qmd)
+- [Operational airlock](operational-airlock.qmd)
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+- "A bibliometric analysis of research clusters reveals an evolutionary shift from basic process automation toward 'Sustainable Intelligence,' identifying the GBS unit as a central 'operational airlock' that mediates between landscape pressures—such as the EU’s dual mandate and Carbon Border Adjustment Mechanisms—and niche innovations in AI-native workflows."

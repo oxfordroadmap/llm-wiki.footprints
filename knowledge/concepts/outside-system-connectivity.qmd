@@ -1,0 +1,41 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)"]
+tags: [term]
+aliases:
+  - "OSC"
+  - "Outside System Connectivity"
+---
+
+
+# Outside System Connectivity
+
+## Definition
+Outside System Connectivity (OSC) is a technical roadmap area defined by the International Roadmap for Devices and Systems (IRDS) that focuses on the integration of semiconductor manufacturing facilities with external information and control systems to facilitate interoperability across the supply chain.
+
+## Key Characteristics
+- **Provenance Certification**: Operationalizes the use of digital material passports to track and certify material provenance, toxicity, and carbon footprint.
+- **Cross-Organizational Trust**: Enables the creation of federated trust mechanisms between manufacturing nodes and external stakeholders.
+- **Data Bridge**: Acts as an interface between internal factory metrology data and broader regulatory or supply chain frameworks.
+- **Standards Alignment**: Aligns internal manufacturing data outputs with international regulatory requirements, such as the Carbon Border Adjustment Mechanism (CBAM).
+
+## Applications
+- **Sustainability Reporting**: Integrating real-time manufacturing sustainability data into external supply chain management systems.
+- **Regulatory Compliance**: Automating the reporting of environmental impact and provenance data to comply with global standards like CBAM.
+- **Factory Interoperability**: Bridging the gap between isolated manufacturing silos and the broader industrial ecosystem to create a unified data flow.
+
+## Related Concepts
+- [System of Systems](system-of-systems.qmd)
+- [Sustainability Standards](sustainability-standards.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Digital Product Passport](digital-product-passports.qmd)
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+
+## Related Entities
+- [ieee-international-roadmap-for-devices-and-systems](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+
+## Mentions in Source
+- "This layer operationalizes digital material passports certifying provenance, toxicity, and carbon footprint, aligning CBAM with the IRDS Outside System Connectivity (OSC) roadmap for factory integration and cross-organizational federated trust." — [_id-286_current_version](../brain/raw/_id-286_current_version.qmd)
+- "IEEE, '2024 IRDS edition: outside system connectivity,' International Roadmap for Devices and Systems (IRDS), 2024." — [_id-286_current_version](../brain/raw/_id-286_current_version.qmd)

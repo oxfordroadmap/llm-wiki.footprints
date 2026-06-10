@@ -1,0 +1,25 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "Workiva"
+  - "Workiva Platform"
+---
+
+## Related Entities
+- [IntegrityNext](integritynext.qmd)
+- [AuditBoard](auditboard.qmd)
+
+## Related Concepts
+- [esg-compliance](../concepts/esg-compliance.qmd)
+- [CBAM](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [GRC](../concepts/governance-risk-and-compliance-grc.qmd)
+
+## Mentions in Source
+- "Workiva | ESG reporting, audit‑ready compliance | CSRD, ESRS, ISSB, GRI, and California climate laws | Strong CBAM disclosure potential | Focused on reporting, less on semiconductor process data"

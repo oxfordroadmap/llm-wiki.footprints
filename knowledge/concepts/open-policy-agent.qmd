@@ -1,0 +1,38 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "OPA"
+---
+
+## Definition
+Open Policy Agent (OPA) is a declarative policy-as-code engine designed to provide unified policy enforcement across distributed, heterogeneous systems. It decouples policy decision-making from service logic, allowing organizations to manage compliance and security rules as version-controlled code.
+
+## Key Characteristics
+- **Policy-as-Code**: Enables the definition of security and compliance rules using a declarative language (Rego), allowing policies to be tested, versioned, and audited.
+- **Decoupling**: Separates policy enforcement (in the host service) from policy decision-making (in the OPA engine), ensuring consistent rules across varied infrastructure.
+- **Declarative Language**: Uses Rego, a high-level language designed for structured data queries, to evaluate complex constraints against JSON-based input.
+- **Agentic Integration**: Can be embedded into proxy frameworks to provide real-time, automated verification of data flows and regulatory compliance.
+
+## Applications
+- **Automated Regulatory Compliance**: Translating macro-level regulations, such as [CBAM](carbon-border-adjustment-mechanism-cbam.qmd) and PFAS controls, into machine-readable verification targets for industrial supply chains.
+- **Distributed Security**: Enforcing granular access control and data sovereignty policies within microservices and agentic frameworks.
+- **Smart Manufacturing**: Ensuring that manufacturing processes adhere to safety and environmental standards by integrating policy verification into automated factory (Smart Fab) architectures.
+
+## Related Concepts
+- [Policy-as-Code](policy-as-code.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+- [Carbon Border Adjustment Mechanism](carbon-border-adjustment-mechanism-cbam.qmd)
+- [Data Sovereignty Paradox](data-sovereignty-paradox.qmd)
+
+## Related Entities
+None.
+
+## Mentions in Source
+- "The primary bottleneck preventing the execution of this agentic vision is the [Data Sovereignty Paradox](data-sovereignty-paradox.qmd): the systemic conflict of how a firm can share granular, verified compliance data across an adversarial value chain without losing control of its core intellectual property or manufacturing recipes. By designing a multi-agent framework rooted in hardware-isolated cryptographic trust zones and integrating International Data Space..."

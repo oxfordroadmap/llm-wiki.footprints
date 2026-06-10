@@ -1,0 +1,34 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "other"
+aliases:
+  - "CSDDD"
+  - "Corporate Sustainability Due Diligence Directive"
+  - "Corporate Supply Chain Due Diligence Directive"
+  - "CSDDD"
+  - "Corporate Sustainability Due Diligence Directive"
+---
+
+## Additional Implementation Context
+Recent assessments regarding the implementation of the directive indicate that for manufacturing and procurement organizations, the challenges remain structured across four critical stages: exploration, installation, initial implementation, and full implementation. These stages serve as the roadmap for firms seeking to align their operations with the requirements set forth by the directive.
+
+## Related Entities
+- [Infineon Technologies](infineon-technologies-sdn-bhd.qmd)
+- [European Commission](european-commission.qmd)
+
+## Related Concepts
+- [Governance, Risk, and Compliance (GRC)](../concepts/governance-risk-and-compliance-grc.qmd)
+- [Safe and Sustainable by Design (SSbD)](../concepts/safe-and-sustainable-by-design.qmd)
+- [Carbon Border Adjustment Mechanism (CBAM)](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+- [RegTech](../concepts/regtech.qmd)
+
+## Related Pages
+- To meet the stringent reporting requirements of the CSDDD, companies like TSMC utilize specialized tools such as [Supply Online 360](supply-online-360.qmd) to automate data collection and compliance tracking. [supply-online-360](supply-online-360.qmd)

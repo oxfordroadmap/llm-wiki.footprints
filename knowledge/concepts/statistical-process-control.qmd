@@ -1,0 +1,39 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[virtual-metrology](virtual-metrology.qmd)"]
+tags: [method]
+aliases:
+  - "SPC"
+  - "Statistical Process Control"
+---
+
+
+# Statistical Process Control
+
+## Definition
+Statistical Process Control (SPC) is a method of quality control which employs statistical methods to monitor and control a manufacturing or operational process. By analyzing data collected from process measurements, it ensures that the process operates efficiently, producing more specified conforming products with less waste.
+
+## Key Characteristics
+*   **Data-Driven Monitoring**: Utilizes control charts to track process variables over time, identifying shifts or trends.
+*   **Variation Identification**: Distinguishes between common-cause variation (inherent to the system) and special-cause variation (assignable to specific, correctable issues).
+*   **Proactive Intervention**: Enables operators to make adjustments to a process before it produces non-conforming products or defects.
+*   **Process Capability Analysis**: Provides metrics to assess whether a process is capable of meeting customer specifications and design requirements.
+
+## Applications
+*   **Semiconductor Manufacturing**: Used in fabrication facilities to monitor tool stability and wafer yield, often integrated with [virtual-metrology](virtual-metrology.qmd) to predict outcomes in real-time.
+*   **Industrial Production**: Applied across various assembly lines to maintain consistency in product dimensions and performance characteristics.
+*   **Healthcare**: Utilized for monitoring clinical performance and patient outcomes to identify significant deviations from established medical protocols.
+
+## Related Concepts
+*   [Virtual Metrology](virtual-metrology.qmd)
+*   [Quality Assurance](quality-assurance.qmd)
+*   [Six Sigma](six-sigma.qmd)
+
+## Related Entities
+*   [TSMC](../entities/tsmc.qmd)
+*   [IEEE IRDS](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+
+## Mentions in Source
+*(No source content available for this page)*

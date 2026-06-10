@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[esmc-dresden-fab](esmc-dresden-fab.qmd)"]
+tags: [organization]
+aliases:
+  - "NXP"
+  - "NXP Semiconductors N.V."
+---
+
+# /nxp-semiconductors
+
+## Basic Information
+- Type: Organization
+- Source File: [esmc-dresden-fab](esmc-dresden-fab.qmd)
+
+## Description
+NXP Semiconductors is a global leader in the design and manufacturing of high-performance mixed-signal semiconductors. The company focuses on secure connectivity solutions for embedded applications, with a strong presence in the automotive, industrial, mobile, and communication infrastructure markets. NXP is a key partner in collaborative European semiconductor manufacturing initiatives, aiming to bolster the regional supply chain for advanced technologies. *(No source content available for this page)*
+
+## Related Entities
+- [TSMC](tsmc.qmd)
+- [European Commission](european-commission.qmd)
+
+## Related Concepts
+- [Semiconductor Manufacturing](../concepts/semiconductor-manufacturing.qmd)
+
+## Mentions in Source
+*(No source content available for this page)*

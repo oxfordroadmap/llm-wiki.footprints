@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)"]
+tags: [other]
+aliases:
+  - "Scopus database"
+---
+
+
+# Scopus
+
+## Basic Information
+- Type: other
+- Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)
+
+## Description
+Scopus is a comprehensive abstract and citation database of peer-reviewed literature. It is frequently utilized alongside [Web of Science](web-of-science.qmd) to capture a broader thematic spread, particularly reflecting applied industrial knowledge cycles through conference papers. The database serves as a foundational tool for bibliometric analysis and research mapping, providing deep insight into scientific and technical trends.
+
+## Related Entities
+- [Web of Science](web-of-science.qmd)
+
+## Related Concepts
+- None
+
+## Mentions in Source
+- "This paper presents a scoping review of 1,465 documents indexed in Web of Science and Scopus, spanning AI-integrated metrology, supply chain ESG, and federated industrial data spaces." — [_id-286_current_version](../sources/_id-286_current_version.qmd)
+- "Scopus captures a broader thematic spread and reflects active industrial knowledge cycles through 540 conference papers." — [_id-286_current_version](../sources/_id-286_current_version.qmd)

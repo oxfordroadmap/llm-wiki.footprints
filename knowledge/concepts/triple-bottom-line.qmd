@@ -1,0 +1,31 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-401_current_version](../sources/_id-401_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "theory"
+aliases:
+  - "TBL"
+  - "Triple Bottom Line Accounting"
+---
+
+## Related Concepts
+- [Regenerative Accounting](regenerative-accounting.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Sustainable Intelligence](sustainable-intelligence.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [System Dynamics](system-dynamics.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+> **Source: [_id-401_current_version](../sources/_id-401_current_version.qmd)**
+> - "Ultimately, tokenomics must be re-engineered to support Industry 5.0 practices that balance the Triple Bottom Line (TBL) of profit, people and the planet."
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+> - "The analysis embeds a formal Triple Bottom Line (TBL) framework to orchestrate the competing decision weights across the three professional proxy agents (Profit, Planet, and People)."
+> - "Weaving localized walkthroughs of our three functional threads prove that regulatory compliance is an engine for value creation."

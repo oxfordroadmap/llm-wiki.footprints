@@ -1,0 +1,37 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-401_current_version](../sources/_id-401_current_version.qmd)"]
+tags: [theory]
+aliases:
+  - "Jevons Paradox"
+  - "Rebound Effect"
+---
+
+
+# Jevons Paradox
+
+## Definition
+The Jevons Paradox is an economic theory which posits that as technological advancements increase the efficiency with which a resource is used, the total consumption of that resource may increase rather than decrease, because the resulting reduction in unit cost makes the resource more accessible and stimulates higher demand.
+
+## Key Characteristics
+- **Efficiency-Consumption Reversal**: Efficiency gains that should theoretically lower resource usage are offset by behavioral and systemic increases in demand.
+- **Economic Stimulation**: The reduced cost of a resource acts as a catalyst for widespread adoption and new use cases, often leading to exponential growth in consumption.
+- **Systemic Implication**: It serves as a counter-intuitive observation regarding the relationship between sustainability initiatives and aggregate resource expenditure.
+
+## Applications
+- **AI Infrastructure**: Explains why gains in compute efficiency (performance per watt) often lead to higher overall energy demand as the cost of "intelligence" drops, incentivizing larger model training and broader AI integration.
+- **Resource Management**: Used in policy-making to account for rebound effects when planning for carbon emissions reductions or energy transitions.
+- **Economic Forecasting**: A critical consideration for assessing the long-term impact of technological progress on industrial material and power consumption.
+
+## Related Concepts
+- [Electrons to tokens](electrons-to-tokens.qmd)
+- [Digitalization paradox](digitalization-paradox.qmd)
+- [Circular economy](circular-economy.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+- "A primary driver of this misalignment is the Jevons Paradox: as energy and hardware efficiency gains reduce the unit cost of tokens and compute, aggregate demand expands at a velocity that outpaces those efficiency gains, resulting in a net increase in total energy and material consumption." — [_id-401_current_version](../sources/_id-401_current_version.qmd)

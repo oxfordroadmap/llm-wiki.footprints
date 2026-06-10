@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-306_current_version](../sources/_id-306_current_version.qmd)"]
+tags: [location]
+aliases:
+  - "Penang"
+  - "Silicon Valley of the East"
+---
+
+
+# Penang
+
+## Basic Information
+- Type: location
+- Source: [_id-306_current_version](../sources/_id-306_current_version.qmd)
+
+## Description
+Penang is a prominent [Malaysia](malaysia.qmd) region serving as a high-value technology and [GBS](global-business-services.qmd) hub. Often referred to as the 'Silicon Valley of the East', it has attracted significant infrastructure investment to facilitate advanced functions like integrated circuit (IC) design and Research and Development (R&D). Its role is central to the digital economic strategy of [Malaysia](malaysia.qmd) and its positioning within global value chains.
+
+## Related Entities
+- [Malaysia](malaysia.qmd)
+
+## Related Concepts
+- [Industry 5.0](../concepts/industry-5-0.qmd)
+
+## Mentions in Source
+- "Nations such as Portugal (Green Tech Center of Excellence, or CoE), Poland (EMEA AI-native hub), and Malaysia (GBS5.0 Asia-Pacific digital gateway) illustrate real-world ecosystem orchestration beyond the well-known cases of India and Philippines." — [_id-306_current_version](../sources/_id-306_current_version.qmd)

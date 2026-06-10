@@ -1,0 +1,48 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-401_Current_Version](../sources/_ID-401_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "person"
+aliases:
+  - "Han-Teng Liao"
+  - "Liao"
+---
+
+## Description
+Han-Teng Liao is an independent researcher based in Penang, Malaysia, whose academic work focuses on the intersection of innovation management, socio-technical systems, and digital ecosystems. He is a recognized contributor to the conceptual frameworks connecting bibliometric analysis with the [ITU innovation toolkits](../concepts/ict-centric-innovation-ecosystem-toolkit.qmd). His research explores the role of digital transformation in business ecosystems, collaborative practices for ecosystem innovation, and the application of industrial standards to complex socio-technical environments. Recently, he has expanded his expertise to include [policy-as-code](../concepts/policy-as-code.qmd) and the architectural design of autonomous agentic frameworks for manufacturing. Beyond his focus on GBS environments and the [Twin Transition](../concepts/twin-transition.qmd), Liao specializes in linking technical engineering standards with broader frameworks, such as the [Regenerative Socio-Technical Roadmap](../concepts/regenerative-socio-technical-framework.qmd) for AI infrastructure. Through his role as a corresponding author in recent reviews and forthcoming conference papers, he continues to bridge the gap between abstract academic research and practical digital transformation strategies.
+
+## Related Entities
+- [Karen Ang](karen-ang.qmd)
+- [Chang-Yi Kao](chang-yi-kao.qmd)
+
+## Related Concepts
+- [Innovation management](../concepts/innovation-management.qmd)
+- [Technology management](../concepts/technology-management.qmd)
+- [Socio-technical systems](../concepts/socio-technical-systems.qmd)
+- [Circular economy](../concepts/circular-economy.qmd)
+- [Industry 5.0](../concepts/industry-5-0.qmd)
+- [Twin transition](../concepts/twin-transition.qmd)
+- [Digital Transformation](../concepts/digital-transformation.qmd)
+- [Sustainability Standards](../concepts/safe-and-sustainable-by-design.qmd)
+- [Policy as Code](../concepts/policy-as-code.qmd)
+- [Regenerative Socio-Technical Roadmap](../concepts/regenerative-socio-technical-framework.qmd)
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+
+## Mentions in Source
+> **Source: [_id-306_current_version](../sources/_id-306_current_version.qmd)**
+> - "Han-Teng Liao, Independent Researcher, Penang, Malaysia."
+> - "H.-T. Liao, C.-L. Pan, and Z. Wu, 'Digital transformation and innovation and business ecosystems: a bibliometric analysis for conceptual insights and collaborative practices for ecosystem innovation,' International Journal of Innovation Studies, p. S2096248724000171, Apr. 2024, doi: 10.1016/j.ijis.2024.04.003."
+
+> **Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)**
+> - "Han-Teng Liao* (Corresponding Author). Independent Researcher. Penang, Malaysia."
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+> - "Han-Teng Liao* Independent Researcher_Penang, Malaysia h.liao@ieee.org 0000-0003-1081-5599"
+> - "H.-T. Liao, and K. Ang, “From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries,” in 2026 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC), forthcoming."

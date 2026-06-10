@@ -1,0 +1,32 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "Ind 5.0"
+  - "Human-Centric Industry"
+---
+
+## Related Concepts
+- [Twin Transition](twin-transition.qmd)
+- [Socio-Technical Systems](socio-technical-systems.qmd)
+- [System of Systems](system-of-systems.qmd)
+- [Sustainable Intelligence](sustainable-intelligence.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [RegTech](regtech.qmd)
+- [Digital Product Passport](digital-product-passports.qmd)
+- [Circular Economy](circular-economy.qmd)
+- [Middle-Income Trap](middle-income-trap.qmd)
+- [Industry 4.0](industry-4-0.qmd)
+- [Professional Proxies](professional-proxies.qmd)
+
+## Related Entities
+- [Global Business Services](../entities/global-business-services.qmd)
+- [European Semiconductor Manufacturing Company](../entities/european-semiconductor-manufacturing-company.qmd)

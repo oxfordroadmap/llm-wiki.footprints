@@ -1,0 +1,32 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)", "[_id-286_current_version](../sources/_id-286_current_version.qmd)]]"]
+tags: [project]
+aliases:
+  - "Cross-domain Architecture for Data Exchange"
+  - "CADDE"
+---
+
+
+# CADDE
+
+## Basic Information
+- Type: project
+- Source: [SSbD Semiconductor Review, Twin Transition Semiconductor Study](../sources/_id-286_current_version.qmd)
+
+## Description
+The Cross-domain Architecture for Data Exchange (CADDE) is a Japanese framework designed to facilitate seamless and secure data interoperability across diverse industrial domains. By establishing a standard for sovereign data exchange, it allows organizations to bridge geographical and legislative gaps, which is essential for ensuring global accountability in complex value chains. The framework plays a critical role in verifying environmental metrics, such as [Scope 3 emissions](../concepts/scope-3.qmd) and carbon footprints, within international supply chains. CADDE is frequently analyzed alongside the [international-data-spaces](../concepts/international-data-spaces.qmd) (IDS) to demonstrate how cross-data space interworking can support the [Twin Transition](../concepts/twin-transition.qmd).
+
+## Related Entities
+- [international-data-spaces](../concepts/international-data-spaces.qmd)
+
+## Related Concepts
+- [Carbon Border Adjustment Mechanism](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [Scope 3](../concepts/scope-3.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [Circular Economy](../concepts/circular-economy.qmd)
+
+## Mentions in Source
+- "Cross‑data space interworking has proven feasible for CO₂ footprint monitoring, between Europe's International Data Spaces (IDS) and Japan's Cross‑domain Architecture for Data Exchange (CADDE) frameworks, showing that sovereign data exchange can support accountability across regions, overcoming technological and legislative boundaries." — [SSbD Semiconductor Review, Twin Transition Semiconductor Study](../sources/_id-286_current_version.qmd)

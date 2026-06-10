@@ -1,0 +1,40 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)"]
+tags: [method]
+aliases:
+  - "Grid to Core integration"
+  - "G2C Pathway"
+---
+
+
+# Grid-to-Core Pathway
+
+## Definition
+The grid-to-core pathway is a proposed integration strategy designed to link industrial energy consumption data at the facility level directly to process-level [Virtual Metrology](virtual-metrology.qmd) loops. By embedding power electronics and energy footprint metrics into real-time fabrication monitoring, it enables accurate emissions reporting aligned with [CBAM](carbon-border-adjustment-mechanism-cbam.qmd) mandates.
+
+## Key Characteristics
+- Direct integration of facility-level power consumption data with process-level monitoring.
+- Utilizes power electronics and energy footprint metrics as high-fidelity inputs for manufacturing intelligence.
+- Facilitates structural alignment between energy efficiency goals and semiconductor process optimization.
+- Enables provenance-aware data fabrics through the integration of [Virtual Metrology](virtual-metrology.qmd) and [Federated Machine Learning](federated-machine-learning.qmd).
+
+## Applications
+- Real-time emissions reporting for regulatory compliance, specifically for [CBAM](carbon-border-adjustment-mechanism-cbam.qmd).
+- Enhancing manufacturing intelligence by treating energy transparency as a core operational parameter.
+- Closing the efficiency gap between site-wide energy usage and localized semiconductor process steps.
+
+## Related Concepts
+- [Virtual Metrology](virtual-metrology.qmd)
+- [CBAM](carbon-border-adjustment-mechanism-cbam.qmd)
+- [System of Systems](system-of-systems.qmd)
+- [RegTech](regtech.qmd)
+- [Federated Machine Learning](federated-machine-learning.qmd)
+
+## Related Entities
+- None
+
+## Mentions in Source
+- By establishing distinct "grid-to-core" and "standards-through-supply-chain" integration pathways, the proposed framework demonstrates how virtual metrology (VM), localized federated learning, and defensive RegTech mechanisms can build provenance-aware data fabrics. — [_id-286_current_version](../sources/_id-286_current_version.qmd)

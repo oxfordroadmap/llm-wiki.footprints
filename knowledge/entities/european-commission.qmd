@@ -1,0 +1,42 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-401_current_version](../sources/_id-401_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "EC"
+  - "European Commission"
+---
+
+## Description
+The European Commission serves as the executive branch of the European Union, holding responsibility for proposing legislation, implementing executive decisions, and upholding EU treaties. In the context of the semiconductor industry, it functions as the central regulatory body for enacting frameworks such as the [Corporate Sustainability Due Diligence Directive](corporate-supply-chain-due-diligence-directive.qmd) (CSDDD) and the [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd) (SSbD) guidelines. These mandates create significant compliance pressure, necessitating the adoption of automated governance and digital oversight mechanisms within advanced manufacturing facilities to replace manual, retroactive auditing processes.
+
+## Related Entities
+- [Corporate Sustainability Due Diligence Directive](corporate-supply-chain-due-diligence-directive.qmd)
+- [European Semiconductor Manufacturing Company](esmc-dresden-fab.qmd)
+- [infineon-technologies-sdn-bhd](infineon-technologies-sdn-bhd.qmd)
+- [interuniversity-microelectronics-centre-imec](interuniversity-microelectronics-centre-imec.qmd)
+
+## Related Concepts
+- [Digital Product Passports](../concepts/digital-product-passports.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [Carbon Border Adjustment Mechanism](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [RegTech](../concepts/regtech.qmd)
+
+## Mentions in Source
+- "Consequently, the European Commission regards the DPP as a fundamental mechanism for driving this transition towards a product level circular economy [9], [10], [6], [11]." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+- "European Commission, 'Safe and sustainable by design: Accelerating the industrial transition,' Mar. 2026." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+- "The convergence of the 2026 European Union Safe and Sustainable by Design (SSbD) framework, Corporate Sustainability Due Diligence Directive (CSDDD), and Carbon Border Adjustment Mechanism (CBAM) introduce a severe governance bottleneck for advanced semiconductor manufacturing facilities." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+- "The immediate challenge posed by the Corporate Sustainability Due Diligence Directive (CSDDD) and the March 2026 European Union Safe and Sustainable by Design (SSbD) guidelines is that regulatory compliance has surpassed the threshold of manual human oversight or periodic retroactive auditing." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+- "The EU-initiated Safe and Sustainable by Design (SSbD) chemical safety framework [10], [11] is expected to drive this industrial transformation, ensuring material safety for both human health and the environment." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+- "Fig. 4 presents a proposed six-layer architecture harmonizing the 2026 European Commission SSbD Stakeholder Agenda [10], [11] with the 2024 IRDS roadmaps." (Source: [_id-286_current_version](../sources/_id-286_current_version.qmd))
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+> - "The immediate challenge posed by the Corporate Sustainability Due Diligence Directive (CSDDD) and the March 2026 European Union Safe and Sustainable by Design (SSbD) guidelines [3], [4] is that regulatory compliance has surpassed the threshold of manual human oversight or periodic retroactive auditing."
+> - "Recommendations for making the European Commission’s Safe and Sustainable by Design framework practicable for biocides, Sustainable Chemistry and Pharmacy, vol. 48, p. 102221, Dec. 2025, doi: 10.1016/j.scp.2025.102221."

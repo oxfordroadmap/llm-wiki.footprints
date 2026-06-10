@@ -1,0 +1,20 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "location"
+aliases:
+  - "Portugal"
+  - "Green Tech Center of Excellence"
+---
+
+## Related Entities
+- [AICEP](aicep.qmd)
+
+## Related Concepts
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [Environmental Sustainability of Semiconductor Facilities](../concepts/environmental-sustainability-of-the-semiconductor-facilities.qmd)

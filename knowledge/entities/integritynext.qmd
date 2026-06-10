@@ -1,0 +1,26 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "IntegrityNext platform"
+  - "IN"
+---
+
+## Related Entities
+- [SAP Ariba](sap-ariba.qmd)
+- [EcoVadis](ecovadis.qmd)
+- [AuditBoard](auditboard.qmd)
+- [Workiva](workiva.qmd)
+
+## Related Concepts
+- [RegTech](../concepts/regtech.qmd)
+- [esg-compliance](../concepts/esg-compliance.qmd)
+- [Governance, Risk, and Compliance](../concepts/governance-risk-and-compliance-grc.qmd)
+- [Carbon Border Adjustment Mechanism](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+- [Scope 3 emissions](../concepts/scope-3.qmd)

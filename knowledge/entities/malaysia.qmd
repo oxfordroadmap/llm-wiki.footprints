@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-306_current_version](../sources/_id-306_current_version.qmd)"]
+tags: [location]
+aliases:
+  - "Malaysia"
+  - "MY"
+---
+
+
+# Malaysia
+
+## Basic Information
+- Type: location
+- Source: [_id-306_current_version](../sources/_id-306_current_version.qmd)
+
+## Description
+Malaysia has established itself as an 'Asia-Pacific digital gateway' through its [GBS 5.0](../concepts/gbs-5-0.qmd) framework, focusing on high-value digital operations and R&D. The region, particularly Penang, is noted for its ability to integrate high-value functions such as IC design and R&D, positioning it as a competitor in the global technology value chain. The country leverages government-led initiatives to create resilient ecosystems that support both green and digital transformation, acting as a crucial node for multinational corporations seeking to navigate volatile global markets.
+
+## Related Entities
+- [Global Business Services](global-business-services.qmd)
+- [MDEC](mdec.qmd)
+
+## Related Concepts
+- [GBS 5.0](../concepts/gbs-5-0.qmd)
+
+## Mentions in Source
+- "Nations such as Portugal (Green Tech Center of Excellence, or CoE), Poland (EMEA AI-native hub), and Malaysia (GBS5.0 Asia-Pacific digital gateway) illustrate real-world ecosystem orchestration beyond the well-known cases of India and Philippines." — [_id-306_current_version](../sources/_id-306_current_version.qmd)

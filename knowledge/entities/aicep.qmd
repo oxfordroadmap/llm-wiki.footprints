@@ -1,0 +1,22 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-306_current_version](../sources/_id-306_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "Agência para o Investimento e Comércio Externo de Portugal"
+  - "AICEP"
+---
+
+## Related Entities
+- [Portugal](portugal.qmd)
+- [absl](absl.qmd)
+- [mdec](mdec.qmd)
+
+## Related Concepts
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [twin-transition](../concepts/twin-transition.qmd)

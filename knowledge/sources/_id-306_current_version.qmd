@@ -1,0 +1,44 @@
+---
+type: source
+created: 2026-06-10
+updated: 2026-06-10
+source_file: "brain/raw/_ID-306_Current_Version.md"
+tags: [document]
+aliases: ["Orchestrating the Twin Transition in Multinational Corporations", "Technology Roadmapping for Green and Digital GBS"]
+---
+
+# Orchestrating the Twin Transition in Multinational Corporations: Technology Roadmapping for Green and Digital Global Business Services - Summary
+
+## Source
+- Original file: brain/raw/_ID-306_Current_Version.md
+- Ingested: 2026-06-10
+
+## Core Content
+This paper investigates the evolution of [Global Business Services](../entities/global-business-services.qmd) (GBS) within multinational corporations, positioning them as "living laboratories" for the [Twin Transition](../concepts/twin-transition.qmd). By synthesizing [Technology Roadmapping](../concepts/technology-roadmapping.qmd) with the [ICT-centric innovation ecosystem toolkit](../concepts/ict-centric-innovation-ecosystem-toolkit.qmd), the authors identify how GBS units function as "[operational airlocks](../concepts/operational-airlock.qmd)" that translate macro-level landscape pressures—such as carbon neutrality mandates—into niche [Machine Learning](../concepts/machine-learning.qmd) and AI-native workflows. The study analyzes the strategic rise of "Middle Power" hubs in [Poland](../entities/poland.qmd), [Portugal](../entities/portugal.qmd), and [mdec](../entities/mdec.qmd), highlighting how these regions utilize [GBS 5.0](../concepts/gbs-5-0.qmd) frameworks to bypass the [middle-income trap](../concepts/middle-income-trap.qmd). The findings emphasize that successful digital and green integration requires a [Socio-Technical Systems](../concepts/socio-technical-systems.qmd) approach, where human-centric organizational culture and technological agility are treated as co-dependent investments rather than sequential upgrades.
+
+## Key Entities
+- [Global Business Services](../entities/global-business-services.qmd)
+- [mdec](../entities/mdec.qmd)
+- [absl](../entities/absl.qmd)
+- [aicep](../entities/aicep.qmd)
+- [itu](../entities/itu.qmd)
+- [Poland](../entities/poland.qmd)
+- [Portugal](../entities/portugal.qmd)
+
+## Key Concepts
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [Industry 5.0](../concepts/industry-5-0.qmd)
+- [Multi-Level Perspective](../concepts/multi-level-perspective.qmd)
+- [Sustainable Intelligence](../concepts/sustainable-intelligence.qmd)
+- [Maturity Trap](../concepts/maturity-trap.qmd)
+- [Digitalization Paradox](../concepts/digitalization-paradox.qmd)
+- [Robotic Process Automation](../concepts/robotic-process-automation.qmd)
+
+## Main Points
+- GBS units act as "[operational airlocks](../concepts/operational-airlock.qmd)" that mediate between global landscape pressures and internal niche innovations.
+- The GBS domain is shifting from simple labor-arbitrage models toward high-value [Sustainable Intelligence](../concepts/sustainable-intelligence.qmd) and ecosystem orchestration.
+- [Poland](../entities/poland.qmd), [Portugal](../entities/portugal.qmd), and [mdec](../entities/mdec.qmd) serve as crucial hubs that leverage high-value talent to mitigate [middle-income traps](../concepts/middle-income-trap.qmd).
+- A [Socio-Technical Systems](../concepts/socio-technical-systems.qmd) perspective is essential to avoid the [maturity trap](../concepts/maturity-trap.qmd) when implementing new technologies.
+- Effective orchestration of the [Twin Transition](../concepts/twin-transition.qmd) requires harmonizing human-centric [Industry 5.0](../concepts/industry-5-0.qmd) strategies with AI-driven process normalization.
+
+---

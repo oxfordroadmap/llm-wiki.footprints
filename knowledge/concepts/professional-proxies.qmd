@@ -1,0 +1,33 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "technology"
+aliases:
+  - "Professional Proxies"
+  - "Agentic Workflows"
+---
+
+## Description
+Professional Proxies function as autonomous agents—representing roles such as Facility, Process Engineering, or Finance—that resolve the inherent conflict between corporate data privacy and the transparency demands of multi-stakeholder ecosystems. By operating within [Trusted Execution Environments](trusted-execution-environment-tee.qmd), they perform inline compliance checks and generate verifiable compliance tokens without exposing sensitive raw manufacturing data. This architecture enables the operationalization of governance in high-stakes industries, such as semiconductor Smart Fabs, by moving beyond reactive automation toward proactive, verifiable compliance. Through these proxies, firms can navigate the [Data Sovereignty Paradox](data-sovereignty-paradox.qmd), ensuring that information shared with external parties remains accurate, compliant, and privacy-preserving.
+
+## Related Concepts
+- [RegTech](regtech.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Governance, Risk, and Compliance](governance-risk-and-compliance-grc.qmd)
+- [Operational airlock](operational-airlock.qmd)
+- [Trusted Execution Environment](trusted-execution-environment-tee.qmd)
+- [Data Sovereignty Paradox](data-sovereignty-paradox.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+
+> **Source: [_id-372_current_version](../sources/_id-372_current_version.qmd)**
+- "We propose a shift from reactive automation to autonomous governance through 'Professional Proxies'—role-based agentic workflows executing within hardware-isolated trust zones."
+- "This study proposes engineering 'Professional Proxies'—autonomous agentic workflows—to manage regulatory compliance and ESG reporting within semiconductor Smart Fabs."

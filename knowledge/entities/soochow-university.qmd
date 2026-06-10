@@ -1,0 +1,21 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "Soochow University"
+  - "SCU"
+---
+
+## Related Entities
+- [Chang-Yi Kao](chang-yi-kao.qmd)
+- [Han-Teng Liao](han-teng-liao.qmd)
+- [Karen Ang](karen-ang.qmd)
+
+## Related Concepts
+- [Innovation Management](../concepts/innovation-management.qmd)

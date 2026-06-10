@@ -1,0 +1,43 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-401_current_version](../sources/_id-401_current_version.qmd)"
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "theory"
+aliases:
+  - "Green and Digital Transformation"
+  - "Twin Transition"
+  - "Green Tech"
+  - "Green and Digital Transformation"
+  - "Twin Transition"
+---
+
+## Description
+The Twin Transition characterizes the dual, parallel progression of organizations toward advanced digital maturity and environmental sustainability. This shift is increasingly interdependent; for example, in the semiconductor industry, scaling production through AI is essential for competitive growth, yet it must be balanced against stringent ESG mandates and carbon-neutrality targets. By integrating digital transformation with green objectives, this framework serves as the overarching context for organizational strategies like the Safe and Sustainable by Design (SSbD) architecture. It requires the orchestration of complex ecosystems, often leveraging RegTech and FinTech frameworks to ensure compliance and innovation remain aligned.
+
+## Related Concepts
+- [Circular Economy](circular-economy.qmd)
+- [Scope 3](scope-3.qmd)
+- [Digital Product Passports](digital-product-passports.qmd)
+- [Sustainable Intelligence](sustainable-intelligence.qmd)
+- [Socio-technical Systems](socio-technical-systems.qmd)
+- [Industry 5.0](industry-5-0.qmd)
+- [Middle-income Trap](middle-income-trap.qmd)
+- [Innovation Management](innovation-management.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+- [Digital Transformation](digitalization-paradox.qmd)
+- [RegTech](regtech.qmd)
+
+## Related Entities
+- [European Commission](../entities/european-commission.qmd)
+- [Global Business Services](../entities/global-business-services.qmd)
+- [Portugal](../entities/portugal.qmd)
+
+## Mentions in Source
+> **Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)**
+> - "The semiconductor industry currently navigates a profound and high-stakes Twin Transition."
+> - "Orchestrating the twin transition: sustainable AI and semiconductor ecosystems (RegTech & FinTech frameworks)"

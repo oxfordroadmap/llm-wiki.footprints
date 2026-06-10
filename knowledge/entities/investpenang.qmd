@@ -1,0 +1,25 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_ID-306_Current_Version](../sources/_ID-306_Current_Version.qmd)"
+tags:
+  - organization
+aliases:
+  - InvestPenang
+  - Penang Investment Agency
+---
+
+## Related Entities
+- [Penang](penang.qmd)
+- [Malaysia](malaysia.qmd)
+- [Global Business Services](global-business-services.qmd)
+- [MDEC](mdec.qmd)
+- [Malaysia Digital Economy Corporation](mdec.qmd)
+
+## Related Concepts
+- [innovation-ecosystems](../concepts/innovation-ecosystems.qmd)
+
+## Mentions
+- "Penang unveils the development of GBS@technoplex to harness AI growth and cement its position as Malaysia’s digital innovation hub," Nov. 13, 2025.

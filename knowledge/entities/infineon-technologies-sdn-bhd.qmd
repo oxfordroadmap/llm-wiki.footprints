@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "Infineon Technologies Sdn. Bhd."
+  - "Infineon"
+  - "Infineon Technologies"
+  - "Infineon Technologies Sdn. Bhd."
+  - "Infineon"
+---
+
+## Related Entities
+- [Interuniversity Microelectronics Centre (IMEC)](interuniversity-microelectronics-centre-imec.qmd)
+- [Karen Ang](karen-ang.qmd)
+- [ASML](asml.qmd)
+- [Siemens](siemens.qmd)
+- [TSMC](tsmc.qmd)
+
+## Related Concepts
+- [Safe and Sustainable by Design (SSbD)](../concepts/safe-and-sustainable-by-design.qmd)
+- [Governance, Risk, and Compliance (GRC)](../concepts/governance-risk-and-compliance-grc.qmd)
+- [Circular Economy](../concepts/circular-economy.qmd)

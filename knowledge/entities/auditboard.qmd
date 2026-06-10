@@ -1,0 +1,27 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "AuditBoard"
+  - "AuditBoard GRC"
+---
+
+## Related Entities
+- [EcoVadis](ecovadis.qmd)
+- [IntegrityNext](integritynext.qmd)
+- [Workiva](workiva.qmd)
+- [SAP Ariba](sap-ariba.qmd)
+
+## Related Concepts
+- [Governance, Risk, and Compliance (GRC)](../concepts/governance-risk-and-compliance-grc.qmd)
+- [RegTech](../concepts/regtech.qmd)
+- [Carbon Border Adjustment Mechanism (CBAM)](../concepts/carbon-border-adjustment-mechanism-cbam.qmd)
+
+## Mentions in Source
+- "AuditBoard | Risk & compliance management | SOC 2, ISO, NIST, PCI, COSO, HIPAA, etc. | Supports governance, CBAM audit | Governance‑centric, limited metrology integration"

@@ -1,0 +1,39 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-372_current_version](../sources/_id-372_current_version.qmd)"]
+tags: [technology]
+aliases:
+  - "IDS"
+  - "International Data Spaces Association standard"
+---
+
+
+# International Data Spaces
+
+## Definition
+International Data Spaces (IDS) is a technical standard and ecosystem architecture designed to facilitate the secure, sovereign, and standardized exchange of data between diverse parties within a distributed network. Industrial Data Spaces are the actual applications, or domain-specific networks (e.g., Catena-X for the automotive industry or Manufacturing-X) where industrial companies, suppliers, and OEMs exchange real-time supply chain data, digital product passports, and factory metrics.
+
+## Key Characteristics
+- **Data Sovereignty**: Ensures data owners retain full control over their data assets throughout the entire lifecycle of the exchange.
+- **Federated Architecture**: Operates without a central authority, allowing independent participants to interact within a decentralized network.
+- **IDS Connectors**: Specialized hardware or software components that serve as gateways, managing data exchange, policy enforcement, and compliance token issuance.
+- **Security-First Design**: Integrates hardware-isolated cryptographic trust zones to ensure the integrity and authenticity of data transactions.
+- **Industrial Compliance**: Standardized protocols that allow for the export of compliance tokens without exposing sensitive proprietary information.
+
+## Applications
+- **Smart Factory Integration**: Connecting individual Smart Fabs to broader value chains while maintaining strict perimeter security.
+- **Supply Chain Transparency**: Enabling secure, cross-organizational data sharing for sustainability and regulatory reporting.
+- **Cross-Domain Data Exchange**: Facilitating interoperability between different industrial sectors through a unified, trust-based communication layer.
+
+## Related Concepts
+- [Trusted Execution Environment](trusted-execution-environment-tee.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+
+## Related Entities
+- [International Data Spaces Association](../entities/international-data-spaces-association.qmd)
+
+## Mentions in Source
+- "Industrial Data Spaces equals International Data Spaces, an industrial standard maintained and advocated by the International Data Spaces Association, or IDSA." — [_id-372_current_version](../sources/_id-372_current_version.qmd)
+- "By designing a multi-agent framework rooted in hardware-isolated cryptographic trust zones and integrating International Data Spaces (IDS) Connectors across the factory perimeter" — [_id-372_current_version](../sources/_id-372_current_version.qmd)

@@ -1,0 +1,53 @@
+---
+type: source
+created: 2026-06-10
+updated: 2026-06-10
+source_file: "brain/raw/_ID-401_Current_Version.md"
+tags: [document]
+aliases: ["Regenerative Socio-Technical Roadmap for AI Infrastructure", "RST Roadmap 2026"]
+---
+
+# From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries - Summary
+
+## Source
+- Original file: brain/raw/_ID-401_Current_Version.md
+- Ingested: 2026-06-10
+
+## Core Content
+This study, authored by [Han-Teng Liao](../entities/han-teng-liao.qmd) and [Karen Ang](../entities/karen-ang.qmd), proposes a [Regenerative Socio-Technical framework](../concepts/regenerative-socio-technical-framework.qmd) to address the ecological and systemic challenges posed by the rapid scaling of generative AI. The authors critique the linear "electrons-to-tokens" model championed by [Nvidia](../entities/nvidia.qmd) and [Jensen Huang](../entities/jensen-huang.qmd), arguing that it exacerbates the [Jevons Paradox](../concepts/jevons-paradox.qmd) and ignores physical limitations such as the [Memory Wall](../concepts/memory-wall.qmd). 
+
+By integrating [Regenerative Accounting](../concepts/regenerative-accounting.qmd) and the [Systemic Volatility Indicator](../concepts/systemic-volatility-indicator.qmd), the roadmap reframes infrastructure as a metabolic system that internalizes ecological debt. The framework emphasizes compliance with emerging European standards like the [Carbon Border Adjustment Mechanism](../concepts/sustainability-standards.qmd) and [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd) guidelines, while leveraging [Digital Product Passports](../concepts/digital-product-passports.qmd) to manage life-cycle impacts. The study also identifies regional grid constraints—highlighting the [Grid Paradox](../concepts/grid-paradox.qmd) faced by utilities like [Taipower](../entities/taipower.qmd)—and advocates for the adoption of [Energy Communities](../concepts/energy-communities.qmd) to ensure sustainable industrial resilience within planetary boundaries.
+
+## Key Entities
+- [Nvidia](../entities/nvidia.qmd)
+- [IEEE IRDS](../entities/ieee-international-roadmap-for-devices-and-systems.qmd)
+- [Han-Teng Liao](../entities/han-teng-liao.qmd)
+- [Karen Ang](../entities/karen-ang.qmd)
+- [Taipower](../entities/taipower.qmd)
+- [Jensen Huang](../entities/jensen-huang.qmd)
+- [European Commission](../entities/european-commission.qmd)
+- [ICE 2026](../entities/ice-2026.qmd)
+- [Pope Leo XIV](../entities/pope-leo-xiv.qmd)
+
+## Key Concepts
+- [Regenerative Socio-Technical framework](../concepts/regenerative-socio-technical-framework.qmd)
+- [electrons-to-tokens](../concepts/electrons-to-tokens.qmd)
+- [Systemic Volatility Indicator](../concepts/systemic-volatility-indicator.qmd)
+- [Twin Transition](../concepts/twin-transition.qmd)
+- [Digital Product Passports](../concepts/digital-product-passports.qmd)
+- [Jevons Paradox](../concepts/jevons-paradox.qmd)
+- [Regenerative Accounting](../concepts/regenerative-accounting.qmd)
+- [Grid Paradox](../concepts/grid-paradox.qmd)
+- [Triple Bottom Line](../concepts/triple-bottom-line.qmd)
+- [Energy Communities](../concepts/energy-communities.qmd)
+- [Memory Wall](../concepts/memory-wall.qmd)
+- [Key-Value cache memory consumption](../concepts/key-value-cache-memory-consumption.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+- [Carbon Border Adjustment Mechanism](../concepts/sustainability-standards.qmd)
+
+## Main Points
+- Generative AI infrastructure currently relies on linear, extractive "stack" architectures that prioritize token throughput over thermodynamic and ecological stability.
+- The "electrons-to-tokens" model drives resource consumption exponentially, failing to account for the rebound effects characterized by the Jevons Paradox.
+- The proposed RST framework mandates the internalization of ecological debt into corporate balance sheets through Regenerative Accounting.
+- Real-time management of computational loads via Systemic Volatility Indicators can help synchronize data center operations with regional energy grid capacities.
+- Strategic alignment with EU regulatory frameworks (CSDDD, SSbD) is necessary to reconcile high-performance computing growth with mandatory planetary boundaries.

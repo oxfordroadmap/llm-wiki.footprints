@@ -1,0 +1,30 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)"]
+tags: [other]
+aliases:
+  - "WoS"
+  - "Web of Science database"
+---
+
+
+# Web of Science
+
+## Basic Information
+- Type: other
+- Source: [_id-286_current_version](../brain/raw/_id-286_current_version.qmd)
+
+## Description
+Web of Science is a curated, high-impact bibliographic database widely utilized for academic and scientific research. In the context of the [SSbD Semiconductor Review](../brain/raw/_id-286_current_version.qmd), it serves as a primary data source for mapping conceptual and social structures within semiconductor research. It provides a dataset with high citation impact, focused primarily on academic institutions and fundamental science. It is often compared with other bibliographic databases such as [Scopus](scopus.qmd).
+
+## Related Entities
+- [Scopus](scopus.qmd)
+
+## Related Concepts
+- None
+
+## Mentions in Source
+- "This paper presents a scoping review of 1,465 documents indexed in Web of Science and Scopus, spanning AI-integrated metrology, supply chain ESG, and federated industrial data spaces." — [_id-286_current_version](../brain/raw/_id-286_current_version.qmd)
+- "WoS provides a highly curated, high-impact dataset (averaging 19 citations per document), optimized for mapping conceptual structures via author keywords or institutions" — [_id-286_current_version](../brain/raw/_id-286_current_version.qmd)

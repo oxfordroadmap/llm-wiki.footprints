@@ -1,0 +1,25 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-372_current_version](../sources/_id-372_current_version.qmd)"
+  - "[_ID-372_Current_Version](../sources/_ID-372_Current_Version.qmd)"
+tags:
+  - "organization"
+aliases:
+  - "Taiwan Semiconductor Manufacturing Company"
+  - "TSMC"
+---
+
+## Related Entities
+- [Infineon](infineon-technologies-sdn-bhd.qmd)
+- [esmc-dresden-fab](esmc-dresden-fab.qmd)
+
+## Related Concepts
+- [Supply Online 360](../concepts/digital-product-passports.qmd)
+- [Professional Proxies](../concepts/professional-proxies.qmd)
+- [Governance, Risk, and Compliance](../concepts/governance-risk-and-compliance-grc.qmd)
+
+## Related Pages
+- TSMC manages its extensive supply chain compliance and risk reporting through its dedicated platform, [Supply Online 360](supply-online-360.qmd). [supply-online-360](supply-online-360.qmd)

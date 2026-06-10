@@ -1,0 +1,23 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources:
+  - "[_id-286_current_version](../sources/_id-286_current_version.qmd)"
+  - "[_ID-286_Current_Version](../sources/_ID-286_Current_Version.qmd)"
+tags:
+  - "product"
+aliases:
+  - "EcoVadis"
+  - "EcoVadis Rating Platform"
+---
+
+## Related Entities
+- [IntegrityNext](integritynext.qmd)
+- [SAP Ariba](sap-ariba.qmd)
+
+## Related Concepts
+- [esg-compliance](../concepts/esg-compliance.qmd)
+- [RegTech](../concepts/regtech.qmd)
+- [Governance, Risk, and Compliance](../concepts/governance-risk-and-compliance-grc.qmd)
+- [Scope 3](../concepts/scope-3.qmd)

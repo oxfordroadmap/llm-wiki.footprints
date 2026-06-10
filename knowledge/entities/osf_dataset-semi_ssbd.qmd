@@ -1,0 +1,31 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-286_current_version](../sources/_id-286_current_version.qmd)"]
+tags: [other]
+aliases:
+  - "OSF Dataset"
+  - "Semi_SSbD Dataset"
+---
+
+
+# OSF_dataset-Semi_SSbD
+
+## Basic Information
+- Type: other
+- Source: [_id-286_current_version](../sources/_id-286_current_version.qmd)
+
+## Description
+The OSF_dataset-Semi_SSbD is a publicly accessible repository containing processed bibliometric data related to the intersection of AI, metrology, and [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd) (SSbD) in the semiconductor sector. It was compiled to ensure the reproducibility of the study's scoping review and to facilitate further academic research. The dataset includes thesaurus mappings and cleaned metadata derived from 1,465 documents sourced from [Web of Science](web-of-science.qmd) and [Scopus](scopus.qmd). It serves as a foundational resource for researchers aiming to map conceptual structures within the semiconductor domain.
+
+## Related Entities
+- [Web of Science](web-of-science.qmd)
+- [Scopus](scopus.qmd)
+
+## Related Concepts
+- [Bibliometric Analysis](../concepts/bibliometric-analysis.qmd)
+- [Safe and Sustainable by Design](../concepts/safe-and-sustainable-by-design.qmd)
+
+## Mentions in Source
+- "To ensure reproducibility while maintaining compliance, the processed bibliometric data is available via the "osf_dataset-Semi_SSbD" repository (DOI: 10.5281/zenodo.20283923) selectively, including both the thesaurus and cleaned data to support reuse and replication." — [_id-286_current_version](../sources/_id-286_current_version.qmd)

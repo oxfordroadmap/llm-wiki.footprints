@@ -1,0 +1,29 @@
+---
+type: entity
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-401_current_version](../sources/_id-401_current_version.qmd)"]
+tags: [person]
+aliases:
+  - "Jensen Huang"
+  - "Jen-Hsun Huang"
+---
+
+
+# Jensen Huang
+
+## Basic Information
+- Type: person
+- Source: [_id-401_current_version](../sources/_id-401_current_version.qmd)
+
+## Description
+Jensen Huang is the CEO of [Nvidia](nvidia.qmd) and a prominent industry voice advocating for the rapid scaling of Generative AI. He is widely recognized for championing an industry narrative centered on the optimization of AI infrastructure, often referred to as the "electrons-to-tokens" model. This framework is frequently critiqued in research literature for its ecologically linear and extractive approach to technological growth. Huang’s influence on the semiconductor industry remains a critical subject of study in the transition toward more sustainable technological development.
+
+## Related Entities
+- [Nvidia](nvidia.qmd)
+
+## Related Concepts
+- [electrons-to-tokens](../concepts/electrons-to-tokens.qmd)
+
+## Mentions in Source
+- "While the prevailing industry narrative, championed by figures such as Nvidia CEO Jensen Huang, frames the AI stack as an optimized journey from 'electrons to tokens' [1], [2], [3], this paper interrogates the long-term viability of high-throughput tokenomics through the lens of an 'atoms-to-values' framework grounded in material circular circularity." — [_id-401_current_version](../sources/_id-401_current_version.qmd)

@@ -1,0 +1,41 @@
+---
+type: concept
+created: 2026-06-10
+updated: 2026-06-10
+sources: ["[_id-372_current_version](../sources/_id-372_current_version.qmd)"]
+tags: [technology]
+aliases:
+  - "Virtual Sensor"
+  - "Inferential Sensor"
+---
+
+
+# Soft-sensor
+
+## Definition
+A soft-sensor is a software-based approach that estimates unmeasured process variables by using mathematical models and data from secondary physical sensors.
+
+## Key Characteristics
+- Utilizes mathematical models to approximate physical measurements.
+- Operates as a software proxy for direct hardware sensors.
+- Facilitates real-time monitoring of variables that are difficult or expensive to measure directly (e.g., chemical toxicity).
+- Enables the integration of telemetry data into [Digital Resonance](digital-resonance.qmd) and predictive modeling environments.
+- Enhances process optimization without requiring invasive hardware infrastructure changes.
+
+## Applications
+- Environmental monitoring within Smart Fabs, such as tracking water usage intensity.
+- Enhancing resource circularity in industrial processes.
+- Providing data streams for [Digital Resonance](digital-resonance.qmd) and predictive maintenance frameworks.
+- Monitoring chemical toxicity in closed-loop systems.
+
+## Related Concepts
+- [Virtual Metrology](virtual-metrology.qmd)
+- [Trusted Execution Environment](trusted-execution-environment-tee.qmd)
+- [Machine Learning](machine-learning.qmd)
+- [Safe and Sustainable by Design](safe-and-sustainable-by-design.qmd)
+
+## Related Entities
+None
+
+## Mentions in Source
+- "This is evaluated by architecting a hardware-isolated system-of-systems structure where physical and soft-sensor data streams are secured and processed in TEE enclaves, preventing data tempering." — [_id-372_current_version](../sources/_id-372_current_version.qmd)
