@@ -6,6 +6,10 @@
 
 ## Entities
 
+- [[entities/stan-lepeak|stan-lepeak]] `aliases: Stan Lepeak` - type: entity
+- [[entities/shared-services-and-outsourcing-advisory|shared-services-and-outsourcing-advisory]] `aliases: SSOA, KPMG Shared Services and Outsourcing Advisory, KPMG Shared Services and Outsourcing Institute, SSOA, KPMG Shared Services and Outsourcing Advisory` - type: entity
+- [[entities/david-j-brown|david-j-brown]] `aliases: David Brown` - type: entity
+- [[entities/kpmg|kpmg]] `aliases: KPMG International` - type: entity
 - [[entities/formosa-plastics|formosa-plastics]] `aliases: Formosa Plastics, 台塑` - type: entity
 - [[entities/taipei-and-penang-technology-corridor|taipei-and-penang-technology-corridor]] `aliases: Taipei-Penang Corridor, Taipei and Penang technology corridor` - type: entity
 - [[entities/lcy-chemical|lcy-chemical]] `aliases: LCY, 李長榮化工` - type: entity
@@ -50,11 +54,14 @@
 - [[entities/mdec|mdec]] `aliases: Malaysia Digital Economy Corporation, Malaysia Digital` - type: entity
 - [[entities/absl|absl]] `aliases: Association of Business Service Leaders, ABSL, ABS, Association of Business Service Leaders, ABSL` - type: entity
 - [[entities/malaysia|malaysia]] `aliases: Malaysia, MY` - type: entity
-- [[entities/global-business-services|global-business-services]] `aliases: GBS` - type: entity
+- [[entities/global-business-services|global-business-services]] `aliases: GBS, Global Business Services, GBS` - type: entity
 - [[entities/poland|poland]] `aliases: Republic of Poland, Polska` - type: entity
 
 ## Concepts
 
+- [[concepts/end-to-end-process-optimization|end-to-end-process-optimization]] `aliases: End-to-end process ownership, E2E Process Optimization` - type: concept
+- [[concepts/labor-arbitrage|labor-arbitrage]] `aliases: Labor Arbitrage, Cost Arbitrage` - type: concept
+- [[concepts/operational-dimensions|operational-dimensions]] `aliases: GBS Operational Dimensions, Operational Dimensions Framework` - type: concept
 - [[concepts/five-layer-industrial-stack|five-layer-industrial-stack]] `aliases: AI cake, AI industrial stack` - type: concept
 - [[concepts/rohs|rohs]] `aliases: Restriction of Hazardous Substances Directive, Restriction of Hazardous Substances` - type: concept
 - [[concepts/negative-feedback-loops|negative-feedback-loops]] `aliases: Control loops, Regulatory feedback` - type: concept
@@ -86,7 +93,7 @@
 - [[concepts/life-cycle-assessment|life-cycle-assessment]] `aliases: LCA` - type: concept
 - [[concepts/robotic-process-automation|robotic-process-automation]] `aliases: RPA` - type: concept
 - [[concepts/machine-learning|machine-learning]] `aliases: ML` - type: concept
-- [[concepts/gbs-5-0|gbs-5-0]] `aliases: GBS5.0, GBS 5.0 framework` - type: concept
+- [[concepts/gbs-5-0|gbs-5-0]] `aliases: GBS5.0, GBS 5.0 framework, Business Services Maturity Model, GBS5.0, GBS 5.0 framework, GBS Maturity Research Study, GBS5.0, GBS 5.0 framework, Business Services Maturity Model, GBS5.0, GBS 5.0 framework` - type: concept
 - [[concepts/digital-resonance|digital-resonance]] `aliases: Digital Resonance` - type: concept
 - [[concepts/ict-centric-innovation-ecosystem-toolkit|ict-centric-innovation-ecosystem-toolkit]] `aliases: ITU Toolkit, ICT-centric innovation ecosystem toolkit` - type: concept
 - [[concepts/multi-level-perspective|multi-level-perspective]] `aliases: MLP, Multi-Level Perspective` - type: concept
@@ -128,6 +135,7 @@
 
 ## Sources
 
+- [[sources/kpmg_2016-gbs|kpmg_2016-gbs]] `aliases: KPMG GBS Maturity Model 2016`
 - [[sources/_ids_agentic_current_version|_ids_agentic_current_version]] `aliases: Orchestrating Trustworthy Data in Global Value Chains, IDSA-based RegTech Architecture for Semiconductor-Petrochemical Nexus`
 - [[sources/_id-372_current_version|_id-372_current_version]] `aliases: ID-372: Smart Fabs and Professional Proxies, Scaling SSbD through Industrial Data Spaces`
 - [[sources/_id-401_current_version|_id-401_current_version]] `aliases: Regenerative Socio-Technical Roadmap for AI Infrastructure, RST Roadmap 2026`

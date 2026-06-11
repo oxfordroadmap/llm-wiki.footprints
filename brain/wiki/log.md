@@ -281,3 +281,11 @@ Based on the provided sources, the following represent the core knowledge nodes:
 
 **Updated pages**：[[international-data-spaces-association]], [[tsmc]], [[global-business-services]], [[safe-and-sustainable-by-design]]
 
+
+
+## [2026-06-11] ingest | The Global Business Services maturity model
+
+**Created pages**：[[sources/kpmg_2016-gbs.md]], [[entities/kpmg.md]], [[entities/david-j-brown.md]], [[entities/shared-services-and-outsourcing-advisory.md]], [[entities/stan-lepeak.md]], [[entities/shared-services-and-outsourcing-advisory.md]], [[concepts/gbs-5-0.md]], [[concepts/operational-dimensions.md]], [[concepts/labor-arbitrage.md]], [[concepts/end-to-end-process-optimization.md]]
+
+**Updated pages**：[[global-business-services]]
+
