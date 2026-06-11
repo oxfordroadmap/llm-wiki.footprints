@@ -1,13 +1,14 @@
 ---
 type: entity
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-11
 sources:
   - "[[sources/_id-306_current_version]]"
   - "[[sources/_ID-401_Current_Version]]"
   - "[[sources/_ID-372_Current_Version]]"
   - "[[sources/_ID-306_Current_Version]]"
   - "[[sources/_ID-286_Current_Version]]"
+  - "[[brain/raw/_IDS_Agentic_Current_Version.md]]"
 tags:
   - "person"
 aliases:
@@ -16,7 +17,7 @@ aliases:
 ---
 
 ## Description
-Han-Teng Liao is an independent researcher based in Penang, Malaysia, whose academic work focuses on the intersection of innovation management, socio-technical systems, and digital ecosystems. He is a recognized contributor to the conceptual frameworks connecting bibliometric analysis with the [[concepts/ict-centric-innovation-ecosystem-toolkit|ITU innovation toolkits]]. His research explores the role of digital transformation in business ecosystems, collaborative practices for ecosystem innovation, and the application of industrial standards to complex socio-technical environments. Recently, he has expanded his expertise to include [[concepts/policy-as-code|policy-as-code]] and the architectural design of autonomous agentic frameworks for manufacturing. Beyond his focus on GBS environments and the [[concepts/twin-transition|Twin Transition]], Liao specializes in linking technical engineering standards with broader frameworks, such as the [[concepts/regenerative-socio-technical-framework|Regenerative Socio-Technical Roadmap]] for AI infrastructure. Through his role as a corresponding author in recent reviews and forthcoming conference papers, he continues to bridge the gap between abstract academic research and practical digital transformation strategies.
+Han-Teng Liao is an independent researcher based in Penang, Malaysia, and Taipei, Taiwan, whose academic work focuses on the intersection of innovation management, socio-technical systems, and digital ecosystems. He is a recognized contributor to the conceptual frameworks connecting bibliometric analysis with the [[concepts/ict-centric-innovation-ecosystem-toolkit|ITU innovation toolkits]]. His research explores the role of digital transformation, regulatory technology, and sustainable value chain governance within business ecosystems. Recently, he has expanded his expertise to include [[concepts/policy-as-code|policy-as-code]] and the architectural design of autonomous agentic frameworks for manufacturing. Beyond his focus on GBS environments and the [[concepts/twin-transition|Twin Transition]], Liao specializes in linking technical engineering standards with broader frameworks, such as the [[concepts/regenerative-socio-technical-framework|Regenerative Socio-Technical Roadmap]] for AI infrastructure. Through his roles as a corresponding author and an active member of IEEE TEMS, he continues to bridge the gap between abstract academic research and practical digital transformation strategies.
 
 ## Related Entities
 - [[entities/karen-ang|Karen Ang]]
@@ -34,6 +35,7 @@ Han-Teng Liao is an independent researcher based in Penang, Malaysia, whose acad
 - [[concepts/policy-as-code|Policy as Code]]
 - [[concepts/regenerative-socio-technical-framework|Regenerative Socio-Technical Roadmap]]
 - [[concepts/professional-proxies|Professional Proxies]]
+- [[concepts/international-data-spaces|International Data Spaces]]
 
 ## Mentions in Source
 > **Source: [[sources/_id-306_current_version|_id-306_current_version]]**
@@ -46,3 +48,7 @@ Han-Teng Liao is an independent researcher based in Penang, Malaysia, whose acad
 > **Source: [[sources/_id-372_current_version|_id-372_current_version]]**
 > - "Han-Teng Liao* Independent Researcher_Penang, Malaysia h.liao@ieee.org 0000-0003-1081-5599"
 > - "H.-T. Liao, and K. Ang, “From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries,” in 2026 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC), forthcoming."
+
+> **Source: [[sources/_ids_agentic_current_version|_ids_agentic_current_version]]**
+> - "Han-Teng Liao , GBS Today, Member, IEEE, and Chang-Yi Kao , Soochow University__, Taipei, Taiwan, Member, IEEE."
+> - "Han-Teng Liao (0000-0003-1081-5599) is an independent researcher with an IEEE TEMS membership, based in Penang and Taipei."

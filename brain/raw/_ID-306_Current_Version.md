@@ -11,8 +11,8 @@ keywords:
   - Business process
 version: 52d
 tags:
-  - INN
   - INNOVATION
+  - ICE-2026
 ---
   > version: 52d
 

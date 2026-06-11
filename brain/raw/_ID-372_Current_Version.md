@@ -13,8 +13,8 @@ keywords:
   - international data space
 version: "17"
 tags:
-  - SS04
   - Trustworthy_Autonomous_AI
+  - ICE-2026
 "":
 ---
 Trustworthy Smart Fabs via Professional Proxies: Scaling Safe and Sustainable by Design (SSbD) through Industrial Data Spaces

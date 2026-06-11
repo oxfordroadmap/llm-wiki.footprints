@@ -14,8 +14,8 @@ keywords:
   - Twin Transition
 version: "48"
 tags:
-  - SS08
   - Digital_Circular_Economy
+  - ICE-2026
 ---
   > version: 48
 

@@ -273,3 +273,11 @@ Based on the provided sources, the following represent the core knowledge nodes:
 - [[entities/cadde]]: no suitable linking targets found
 - [[entities/supply-online-360]] linked from: [[entities/tsmc.md]], [[entities/corporate-supply-chain-due-diligence-directive.md]]
 - [[entities/itu]]: no suitable linking targets found
+
+
+## [2026-06-11] ingest | To Share or Not to Share: Orchestrating Trustworthy Data in Global Value Chains
+
+**Created pages**：[[sources/_ids_agentic_current_version.md]], [[entities/international-data-spaces-association.md]], [[entities/nvidia.md]], [[entities/han-teng-liao.md]], [[entities/soochow-university.md]], [[entities/chang-yi-kao.md]], [[entities/petronas.md]], [[entities/lcy-chemical.md]], [[entities/taipei-and-penang-technology-corridor.md]], [[entities/tsmc.md]], [[entities/infineon-technologies-sdn-bhd.md]], [[entities/formosa-plastics.md]], [[entities/global-business-services.md]], [[entities/esmc-dresden-fab.md]], [[concepts/carbon-border-adjustment-mechanism-cbam.md]], [[concepts/digital-product-passports.md]], [[concepts/regtech.md]], [[concepts/data-sovereignty.md]], [[concepts/prospective-roadmapping.md]], [[concepts/professional-proxies.md]], [[concepts/fintech.md]], [[concepts/negative-feedback-loops.md]], [[concepts/rohs.md]], [[concepts/five-layer-industrial-stack.md]]
+
+**Updated pages**：[[international-data-spaces-association]], [[tsmc]], [[global-business-services]], [[safe-and-sustainable-by-design]]
+

@@ -13,8 +13,8 @@ keywords:
   - ESG Compliance
 version: 66d
 tags:
-  - TEC
   - TECHNOLOGY
+  - ICE-2026
 ---
 # Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector: Implications for Safe and Sustainable by Design (SSbD)
 

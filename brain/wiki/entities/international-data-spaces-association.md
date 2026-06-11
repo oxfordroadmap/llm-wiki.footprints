@@ -1,29 +1,33 @@
 ---
 type: entity
 created: 2026-06-10
-updated: 2026-06-10
-sources: ["[[sources/_id-372_current_version]]"]
-tags: [organization]
+updated: 2026-06-11
+sources:
+  - "[[sources/_id-372_current_version]]"
+  - "[[brain/raw/_IDS_Agentic_Current_Version.md]]"
+tags:
+  - "organization"
 aliases:
   - "IDSA"
   - "International Data Spaces Association"
 ---
-
-
-# International Data Spaces Association
-
-## Basic Information
-- Type: organization
-- Source: [[sources/_id-372_current_version|_id-372_current_version]]
-
-## Description
-The International Data Spaces Association is the industrial body responsible for maintaining and advocating for the [[concepts/international-data-spaces|International Data Spaces]] (IDS) standard. It plays a critical role in providing the infrastructure for secure, sovereign data exchange across industrial value chains. In the context of the study, IDSA connectors are used at the factory perimeter to facilitate trusted compliance reporting. The organization's standards are fundamental to the proposed zero-trust framework for semiconductor manufacturing.
 
 ## Related Entities
 None.
 
 ## Related Concepts
 - [[concepts/international-data-spaces|International Data Spaces]]
+- [[concepts/esg-compliance|ESG Compliance]]
+- [[concepts/twin-transition|Twin Transition]]
 
 ## Mentions in Source
-- "Industrial Data Spaces equals International Data Spaces, an industrial standard maintained and advocated by the International Data Spaces Association, or IDSA." — [[sources/_id-372_current_version|_id-372_current_version]]
+
+> **Source: _id-372_current_version**
+> - "Industrial Data Spaces equals International Data Spaces, an industrial standard maintained and advocated by the International Data Spaces Association, or IDSA."
+
+> **Source: _ids_agentic_current_version**
+> - "International Data Spaces Association (IDSA) data sovereignty standards provide an information system architecture for securing data sovereignty across corporate and industrial ecosystems, allowing trusted partners to access under terms of use [7]."
+> - "We also express our gratitude for the technical standards, roadmap parameters, and frameworks provided by the International Telecommunication Union (ITU), the IEEE IRDS, and the International Data Spaces Association (IDSA), which were instrumental in shaping the ecosystem innovations, sustainability, and data sovereignty concepts presented in this work."
+
+> **Source: _IDS_Agentic_Current_Version**
+> - No directly relevant information.

@@ -6,6 +6,10 @@
 
 ## Entities
 
+- [[entities/formosa-plastics|formosa-plastics]] `aliases: Formosa Plastics, 台塑` - type: entity
+- [[entities/taipei-and-penang-technology-corridor|taipei-and-penang-technology-corridor]] `aliases: Taipei-Penang Corridor, Taipei and Penang technology corridor` - type: entity
+- [[entities/lcy-chemical|lcy-chemical]] `aliases: LCY, 李長榮化工` - type: entity
+- [[entities/petronas|petronas]] `aliases: Petroliam Nasional Berhad` - type: entity
 - [[entities/siemens|siemens]] - type: entity
 - [[entities/bosch|bosch]] `aliases: Robert Bosch GmbH, Bosch Group` - type: entity
 - [[entities/nxp-semiconductors|nxp-semiconductors]] `aliases: NXP, NXP Semiconductors N.V.` - type: entity
@@ -51,6 +55,12 @@
 
 ## Concepts
 
+- [[concepts/five-layer-industrial-stack|five-layer-industrial-stack]] `aliases: AI cake, AI industrial stack` - type: concept
+- [[concepts/rohs|rohs]] `aliases: Restriction of Hazardous Substances Directive, Restriction of Hazardous Substances` - type: concept
+- [[concepts/negative-feedback-loops|negative-feedback-loops]] `aliases: Control loops, Regulatory feedback` - type: concept
+- [[concepts/fintech|fintech]] `aliases: Financial Technology, Green Financing` - type: concept
+- [[concepts/prospective-roadmapping|prospective-roadmapping]] `aliases: Prospective technology roadmapping, Prospective Roadmapping` - type: concept
+- [[concepts/data-sovereignty|data-sovereignty]] `aliases: Data Sovereignty, DS` - type: concept
 - [[concepts/innovation-ecosystems|innovation-ecosystems]] `aliases: innovation ecosystem, regional innovation systems` - type: concept
 - [[concepts/digital-circular-economy|digital-circular-economy]] `aliases: DCE, Digital Circular Economy` - type: concept
 - [[concepts/environmental-sustainability-of-the-semiconductor-facilities|environmental-sustainability-of-the-semiconductor-facilities]] - Environmental sustainability of semiconductor facilities refers to the integration of green manufact
@@ -86,7 +96,7 @@
 - [[concepts/virtual-metrology|virtual-metrology]] `aliases: VM, Virtual Metrology` - type: concept
 - [[concepts/trusted-execution-environment-tee|trusted-execution-environment-tee]] `aliases: TEE, Trusted Execution Environment` - type: concept
 - [[concepts/data-sovereignty-paradox|data-sovereignty-paradox]] `aliases: Data Sovereignty Paradox, DSP` - type: concept
-- [[concepts/professional-proxies|professional-proxies]] `aliases: Professional Proxies, Agentic Workflows` - type: concept
+- [[concepts/professional-proxies|professional-proxies]] `aliases: Professional Proxies, Agentic Workflows, Agentic AI, Professional Proxies, Agentic Workflows` - type: concept
 - [[concepts/safe-and-sustainable-by-design|safe-and-sustainable-by-design]] `aliases: SSbD, Safe and Sustainable by Design, safe-and-sustainable-by-design-ssbd, Safe and Sustainable by Design (SSbD)` - type: concept
 - [[concepts/key-value-cache-memory-consumption|key-value-cache-memory-consumption]] `aliases: KV cache, Key-Value cache memory consumption` - type: concept
 - [[concepts/memory-wall|memory-wall]] `aliases: Memory Wall, Memory bandwidth bottleneck` - type: concept
@@ -118,6 +128,7 @@
 
 ## Sources
 
+- [[sources/_ids_agentic_current_version|_ids_agentic_current_version]] `aliases: Orchestrating Trustworthy Data in Global Value Chains, IDSA-based RegTech Architecture for Semiconductor-Petrochemical Nexus`
 - [[sources/_id-372_current_version|_id-372_current_version]] `aliases: ID-372: Smart Fabs and Professional Proxies, Scaling SSbD through Industrial Data Spaces`
 - [[sources/_id-401_current_version|_id-401_current_version]] `aliases: Regenerative Socio-Technical Roadmap for AI Infrastructure, RST Roadmap 2026`
 - [[sources/_id-286_current_version|_id-286_current_version]] `aliases: SSbD Semiconductor Review, Twin Transition Semiconductor Study`
