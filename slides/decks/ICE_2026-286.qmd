@@ -14,10 +14,19 @@ format:
 image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 ---
 
+## Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector
+
 ::: {.subtitle style="font-size: 0.45em; line-height: 1.4; margin-top: 2em; color: #a0a0a0;"}
-*Presented at ICE 2026 — Main Session: Technology (TEC 3)*<br/>
+*Presented at ICE 2026 — Main Session: Technology (TEC 3)*
+
 **Karen Ang** (Infineon Technologies) & **Han-Teng Liao** (Independent Researcher)
 :::
+![logo](https://www.ox.ac.uk/themes/custom/numiko/dist/oxford-logo-DzIWfeXH.svg)
+
+<aside class="notes">
+Welcome everyone. My name is Karen Ang, and I am a Senior Researcher at Infineon Technologies. Joining me is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing. Today we will present our scoping review on the intersection of AI, metrology, and ESG in the semiconductor industry, with a focus on implications for Safe and Sustainable by Design.
+</aside>
+
 
 ---
 
@@ -30,7 +39,7 @@ image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 * **Systemic Volatility**: Geopolitical friction and historical supply chain disruptions.
 
 <aside class="notes">
-Welcome everyone. Today we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
+Today we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
 </aside>
 
 ---
