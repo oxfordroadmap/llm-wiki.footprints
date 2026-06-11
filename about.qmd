@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+This is a LLM wiki built with Quarto. 
+
+1. It serves as a knowledge management systme for [SSbD Chips Value Chain Services](https://scvcs.footprints.cv/), a research project on the socio-technical dynamics of AI and semiconductor sectors and their environmental impacts. Pioneering Atoms-to-Law framework, it actively seeking to expand its international consortium for upcoming funding tracks. More details on the project can be found at <https://scvcs.footprints.cv/>.
+
+2. It serves as a proof of concept for a two-tier knowledge repository architecture, where the public Quarto workspace acts as an outward-facing research hub, while the private LLM-wiki functions as an isolated local vault. More details on the project can be found at <https://llm-wiki.footprints.cv/>.
