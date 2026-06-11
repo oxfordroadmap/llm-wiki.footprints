@@ -13,3 +13,10 @@
   margin-left: 0 !important;      /* Drops default margins so it anchors tightly to the right edge */
   margin-right: 0 !important;
 }
+
+.listing-title{
+  font-size: 0.88em;
+}
+.listing-subtitle {
+  font-size: 0.66em;
+}

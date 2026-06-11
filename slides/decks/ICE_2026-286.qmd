@@ -125,9 +125,7 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 
 ---
 
-## 👩‍🏫 Section IV: Findings
-
-### Institutional Affiliation Gaps
+## 👩‍🏫 IV: Findings Institutional Affiliation Gaps
 
 | Web of Science (Academic Focus) | Scopus (Industrial Focus) |
 | :--- | :--- |
