@@ -358,6 +358,12 @@ The semiconductor sector has always thrived on rigorous, standardized knowledge 
 * **Metrology Validation**: Substantiating CBAM disclosures with sensor data.
 * **Ecosystem Co-Development**: Refining the architecture via industry feedback.
 
-::: {.notes}
+<aside class="notes">
 Thank you for your time. Moving forward, we call for industrial pilots to test these federated data spaces in active cross-border fabs. This will ensure that process-level metrology truly validates regulatory reporting, driving a secure, climate-neutral transition.
-:::
+</aside>
+
+---
+
+## Thank you
+
+![logo](/assets/brand/Infineon-Logo.png)
