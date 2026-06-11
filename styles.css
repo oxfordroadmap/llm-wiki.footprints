@@ -20,3 +20,26 @@
 .listing-subtitle {
   font-size: 0.66em;
 }
+
+
+.quarto-listing .card-img-top,
+.listing-item .card-img-top,
+.card .card-img-top {
+  object-fit: contain;
+  padding: 0.5rem;
+  height: 220px;
+  width: 100%;
+  background-color: var(--bs-card-bg, inherit);
+  transition: transform 0.35s ease;
+}
+
+.listing-image {
+  object-fit: contain;
+  padding: 0.5rem;
+  background-color: #1a1a1a;
+  height: 220px;
+  transition: transform 0.35s ease;
+}
+.listing-item:hover .listing-image {
+  transform: scale(1.28);
+}
