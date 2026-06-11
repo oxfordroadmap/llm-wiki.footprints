@@ -11,6 +11,7 @@ format:
     slide-number: true
     chalkboard: true
     show-slide-number: speaker
+image: /assets/2026_ICE-Porto_GBS/Fig.6.png
 ---
 
 ## 🌱 Section I: Introduction

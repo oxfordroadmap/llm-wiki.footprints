@@ -11,6 +11,7 @@ format:
     slide-number: true
     chalkboard: true
     show-slide-number: speaker
+image: /assets/2026_ICE-DCE/Fig.1.png
 ---
 
 Han-Teng Liao & Karen Ang  
