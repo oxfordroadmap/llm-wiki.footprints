@@ -21,7 +21,7 @@ image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 
 **Karen Ang** (Infineon Technologies) & **Han-Teng Liao** (Independent Researcher)
 :::
-![logo](https://www.ox.ac.uk/themes/custom/numiko/dist/oxford-logo-DzIWfeXH.svg)
+![logo](/assets/brand/Infineon-Logo.png)
 
 <aside class="notes">
 Welcome everyone. My name is Karen Ang, and I am a Senior Researcher at Infineon Technologies. Joining me is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing. Today we will present our scoping review on the intersection of AI, metrology, and ESG in the semiconductor industry, with a focus on implications for Safe and Sustainable by Design.
