@@ -9,7 +9,7 @@ tags: [Research]
 image: "/assets/KPMG_GBS_Maturity_Model.png"
 image-alt: "KPMG GBS Maturity Model"
 bibliography: references.bib
-citation-style: apa
+csl: apa-single-spaced.csl
 ---
 
 > Ten years ago, KPMG published a seminal report on Global Business Services (GBS) maturity, outlining a five-stage model that has since become a foundational framework for understanding the evolution of enterprise service delivery. As organizations increasingly adopt AI agents and automation technologies, revisiting this model through the lens of human/agentic decisions and divides offers critical insights into how GBS can adapt to the new era of Industry 5.0.
