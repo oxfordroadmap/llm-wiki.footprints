@@ -73,6 +73,8 @@ To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. I
 ## 🛠️ Section III: Methodology
 ### Repurposing Sustainable Production & Consumption (SPaC)
 
+![Fig 1: The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber in [18]](/assets/2026_ICE-DCE/Fig.1.svg){width=100%}
+
 * **The Core Capital Loop:** Extraction, Production, Distribution, Consumption, Investment
 * **Ecological Ceiling:** Enforcing biophysical limits at the core
 * **Socio-Technical Governance:** Centering "Values and Needs"
