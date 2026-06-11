@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import re
 from pathlib import Path
 from docx import Document
 
@@ -28,9 +29,26 @@ def extract_images_from_docx(docx_path: str):
         print(f"Error opening document {file_path}: {e}")
         return
 
-    image_count = 0
+    # --- Added Feature: Extract IEEE-style figure captions sequentially ---
+    caption_pattern = re.compile(r'\b(Fig\.|Figure|Fig)\s*(\d+[-.\w]*)', re.IGNORECASE)
+    found_captions = []
     
-    # Iterate through internal document relationships sequentially
+    for paragraph in doc.paragraphs:
+        text = paragraph.text.strip()
+        match = caption_pattern.search(text)
+        if match:
+            # Extract the raw caption identifier (e.g., "Fig. 1" or "Fig. 3.a")
+            # Plus up to 10 chars to ensure sub-figure parts like "(a)" are captured
+            raw_label = text[match.start():match.end() + 10].strip()
+            # Clean it up slightly for previewing purposes
+            cleaned_label = re.sub(r'[^\w\s\.-]', '', raw_label).replace(' ', '_')
+            found_captions.append(cleaned_label)
+    # ---------------------------------------------------------------------
+
+    image_count = 0
+    mapping_proposals = []
+    
+    # Iterate through internal document relationships sequentially (Your exact working loop)
     for rel_id, rel in doc.part.rels.items():
         if "image" in rel.target_ref:
             try:
@@ -45,12 +63,33 @@ def extract_images_from_docx(docx_path: str):
                 
                 # Path.write_bytes() opens, writes, and closes the file automatically
                 output_path.write_bytes(image_data)
-                
                 print(f"Extracted: {new_filename}")
+
+                # --- Added Feature: Build proposal pair while processing ---
+                if (image_count - 1) < len(found_captions):
+                    suggested_name = f"{found_captions[image_count - 1]}{original_ext}"
+                else:
+                    suggested_name = f"Images.{image_count:03d}_unlabeled{original_ext}"
+                
+                mapping_proposals.append((new_filename, suggested_name))
+                # -----------------------------------------------------------
+                
             except Exception as e:
                 print(f"Failed to extract image relationship {rel_id}: {e}")
 
     print(f"\nFinished. Extracted {image_count} images to:\n{output_dir}")
+
+    # --- Added Feature: Print table of suggestions at the end ---
+    if mapping_proposals:
+        print("\n" + "="*70)
+        print(" SUGGESTED FILENAME MAPPING PROPOSAL")
+        print("="*70)
+        print(f"{'Current Sequenced File':<25} -> {'Suggested Label Filename':<35}")
+        print("-"*70)
+        for current, suggested in mapping_proposals:
+            print(f"{current:<25} -> {suggested:<35}")
+        print("="*70)
+    # -------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(
