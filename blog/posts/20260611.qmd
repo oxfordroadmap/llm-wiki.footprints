@@ -1,0 +1,147 @@
+---
+title: "KPMG GBS Maturity Model"
+subtitle: "A Classic Model Revisited for the Human/Agentic Decisions and Divides"
+author: "Han-Teng Liao"
+date: "2026-06-10"
+categories: [Research]
+keywords: [GBS, Industry 5.0, Circular Economy]
+tags: [Research]
+image: "/assets/KPMG_GBS_Maturity_Model.png"
+image-alt: "KPMG GBS Maturity Model"
+bibliography: references.bib
+citation-style: apa
+---
+
+> Ten years ago, KPMG published a seminal report on Global Business Services (GBS) maturity, outlining a five-stage model that has since become a foundational framework for understanding the evolution of enterprise service delivery. As organizations increasingly adopt AI agents and automation technologies, revisiting this model through the lens of human/agentic decisions and divides offers critical insights into how GBS can adapt to the new era of Industry 5.0.
+
+::: {.callout-note}
+## What is GBS?
+
+According to KPMG [@kpmg_2016-GBS], Global Business Services (GBS) is a unified, scalable operational model that integrates enterprise-wide functions (like HR, Finance, and IT) across global delivery channels. Organizations invest in GBS to aggressively cut costs, standardize data-driven processes, mitigate risks, and elevate the customer experience while accelerating agility during business mergers.
+
+:::
+
+## KPMG 2016 Rationale and Context
+
+In 2016, KPMG sought to derive deeper insights into Global Business Services (GBS) because the operational model was shifting from a pure cost-cutting mechanism into a strategic engine for corporate innovation and value creation. While reducing operating costs remained critical for 90% of organizations, modern enterprises were increasingly viewing baseline savings as a given. Instead, companies began leveraging GBS as a preferred, flexible framework to optimize end-to-end processes and front-to-back office integration. KPMG recognized that organizations desperately needed data-driven insights to navigate this transformational journey, specifically to understand how to balancing operational flexibility with measurable business outcomes.
+
+Furthermore, KPMG wanted to decode the GBS maturity curve to demonstrate that the journey is not a "one size fits all" progression. By analyzing the five distinct levels of maturity—from fragmented, decentralized functions to highly integrated, strategic operations—KPMG aimed to help organizations identify their own optimal target state. Because climbing the maturity curve introduces incremental complexities and costs, the highest maturity level is not always practical or necessary for every company. Ultimately, these insights allowed KPMG to guide organizations in aligning their GBS investments with their specific corporate ambitions, IT infrastructure, and unique operational constraints.
+
+## Empirical Evidence for KPMG’s Five-Stage GBS Maturity Model
+
+Initiated in 2011, the KPMG Global Business Services (GBS) Maturity Research Study stands as one of the most comprehensive analyses in the field, tracking the leading practices of over 200 companies. By correlating maturity scores against 12 key financial performance metrics, the framework empirically isolates the direct impact of operational evolution on an enterprise's financial bottom line. This data-driven foundation establishes a clear roadmap for organizations aiming to transition from basic functional management to high-performing business engines.
+
+Complementing this longitudinal study is a proprietary operating model defined by 10 distinct operational dimensions. This structural blueprint defines what "good" looks like at every phase, highlighting which operational levers are most critical for climbing the maturity curve. Through this framework, enterprises can diagnose current gaps, balance strategic investments, and systematically navigate the shifting complexities of a scaling service delivery network.
+
+The progression path divides into two core strategic eras: an initial baseline dedicated to efficiency optimization, followed by an advanced phase centered on value outcomes. While average industry performers hover at a maturity score of 2.6 (Level 3), top-tier organizations in the 1st quartile reach a score of 3.9 (Level 4). This evolution demonstrates that as an organization moves away from siloed, fragmented practices, it unlocks superior agility, end-to-end alignment, and demand-driven capabilities.
+
+::: {.callout-important}
+### Figure 1. Business Services Maturity Model
+
+![Integrated: Maturity and Dimensions](/assets/KPMG_GBS_Maturity_Model.svg)
+
+| Maturity Level | Service Delivery Model | Key Operational Traits |
+| --- | --- | --- |
+| **Level 01: Fragmented** | Decentralized service delivery model | • Duplicative functions, processes, and technology.<br>• Little central control and governance over business support services. |
+| **Level 02: Sub-scaled** | Consolidated delivery model | • Leverages economies of scale for highly transactional services.<br>• Shared services or outsourcing typically managed on a single-function, regional basis. |
+| **Level 03: Scaled** | Multi-functional service delivery model | • Operates in organizational/functional silos.<br>• High variation around the inclusion and level of process, technology, and governance standardization. |
+| **Level 04: Integrated** | Enterprise-wide, multi-functional transactional and specialist model | • Coordinated workflows, technology, and governance frameworks.<br>• Multichannel delivery designed for operational scale and adaptability. |
+| **Level 05: Strategic** | Multi-functional, multi-channel business service delivery | • Synchronized end-to-end infrastructure.<br>• Provides transactional, expert, and analytic services.<br>• Managed through integrated, outcome-oriented, and demand-driven governance. |
+
+Note. Both top-tier leaders (Score: 3.9) and typical market peers (Score: 2.6) actively target higher operational tiers..
+
+Note. Two distinct focus: 
+- **Focus on Efficiency** (Level 01 to 02): Value-driven through "standardization, simplification, scale, labor arbitrage, transparency, control"
+- **Focus on Outcomes**  (Level 03 to 05): Value-driven and "**end-to-end** optimization, agility, insights, innovation, governance, compliance".
+
+::: 
+
+Surveying over 200 companies since 2011 reveals that moving from Level 1 to 5 cuts operational expenses by nearly 40%. Advanced integration at Levels 4 and 5 yields strategic advantages: cheaper corporate mergers, faster market entry, superior decision-making metrics, improved cash flow, and global brand uniformity.
+
+Additionally, financial reviews of 90 public corporations show that top-tier operational maturity slashes SG&A compounded annual growth rates by over 50% compared to low-maturity peers.
+
+::: {.callout-info}
+### Case in point: 
+
+A KPMG client structured a GBS model alongside commercial and supply chain overhauls, slashing costs by $400 million. The enterprise confirmed these massive savings were impossible without the central GBS model driving the interdependent changes.
+
+:::
+
+## Transitioning Beyond Level 3
+
+Expanding GBS efforts frequently stall at Level 3, the final gate before Level 4 integration. While functional silos coexist under one umbrella, failing to deliver value beyond basic cost-savings creates an arbitrary layer of corporate bureaucracy.
+
+Remaining at Level 3 is perfectly viable if it aligns with strategic needs and foregone benefits are recognized. Ideally, staying is a proactive choice rather than a consequence of execution failure.
+
+Advancing past Level 3 risks a "danger zone" of rising costs across isolated regions and functions. Critical issues emerge from volatile service levels, fragmented outsourcing governance, and unassigned end-to-end process ownership.
+
+Consequently, siloed decision-making slows transformation initiatives. Without robust leadership and a well-defined business model to anchor Level 4 integration, organizations are frequently better off remaining at Level 2's single-function, regional framework.
+
+Here is the framework reorganized into clear, scannable Markdown tables. The original emoticons have been kept, while the operational definitions have been slightly paraphrased to maintain clarity with fresh phrasing.
+
+## KPMG’s GBS framework: 10 Operational Dimensions
+
+![Integrated: Maturity and Dimensions](/assets/KPMG_GBS_Maturity_Model.svg)
+
+### 🔄 First Half Dimensions (Strategy to Execution)
+
+| Focus Area | Core Objective & Paraphrased Definition |
+| --- | --- |
+| ♞ **Delivery and sourcing strategy** | Outlines the core **purpose** of the GBS unit and how it aligns with the **broader corporate entity**. |
+| 💼 **Service portfolio** | Handles the overall scope, variety, and global footprint of provided GBS functions. |
+| 📈 **Data and analytics** | Boosts business value by leveraging forward-looking insights and actionable modeling. |
+| 🫂 **Talent management** | Centers on sourcing, maintaining, and motivating skilled workforce assets. |
+| ♻️ **Process excellence**<br>*(c.f., Agentic Workflow & Orchestration)* | Delivers continuous, unified workflows aimed at quality upgrades, optimization, and creative shifts. |
+| 🤔 **Change and program management**<br>*(c.f., Socio-Technical Transitions)* | A dedicated, all-inclusive method to prepare and equip staff and the company to embrace, accept, and maintain structural updates. |
+
+### 🔄 Second Half Dimensions (Governance to Strategy)
+
+| Focus Area | Core Objective & Paraphrased Definition |
+| --- | --- |
+| 🤔 **Change and program management** | *Serves as the foundational bridge connecting operational execution back to governance oversight.* |
+| 💻 **Enabling technology**<br>*(c.f., Agentic Workflow & Orchestration)* | Unifies operations under shared digital infrastructure spanning core ERPs, software, and tools. |
+| 🏛️ **Enterprise service governance** | Collaborates with corporate partners to mitigate operational exposure and extract measurable business value. |
+| 📒 **Commercial perspective** | Empowers the GBS division to function like an independent business and solidify user partnerships. |
+| ⚠️ **Tax and risk optimization** | Steers the organization through shifting regulatory landscapes, covering financial, legal, and tax rules. |
+| ♞ **Delivery and sourcing strategy** | *Completes the operational loop, returning full circle to high-level corporate alignment.* |
+
+## Accelerating Level 4
+
+To prevent stall-outs at Level 3, organizations should execute five strategic steps:
+
+* **Global Process Ownership:** Establish a model for end-to-end process management.
+* **Service Infrastructure:** Deploy integrated service management systems and tools.
+* **Unified Operations:** Install a cross-functional IT, operational, and governance architecture.
+* **Sourcing Alignment:** Standardize service delivery strategies across all operations.
+* **Cohesive Culture:** Unify HR policies, enterprise branding, and talent management under the broader organization's objectives.
+
+---
+
+## Selecting Your Target Maturity Level
+
+Reaching Level 5 is not mandatory; each progression introduces unique costs, operational shifts, and cultural requirements that must align with overall corporate strategy.
+
+Level 5 demands vast process ownership, unified regional outsourcing governance, and tight integration between workflows and underlying IT platforms. While beneficial, these traits are only practical if they mirror the corporate business structure. For instance, tightly coupled GBS operations often prove unfeasible in loosely federated conglomerates or under strict regulatory limits. Ultimately, organizations lacking dedicated executive sponsorship must scale back their aspirations to what is realistically achievable.
+
+
+::: {.callout-important}
+## Critical considerations for advancing GBS maturity:
+
+- What governance processes most needed to move up?
+- What is the progression for GBS? How fast and far ?
+- What is the value of getting to Level 5? How? Why?
+- If you could only do three, what would they be to things to move up?
+- What does ‘good’ look like?
+:::
+
+## How KPMG can help
+KPMG recognizes that modern business services leaders navigate increasingly intricate corporate demands.
+
+Globally integrated teams from our Shared Services and Outsourcing Advisory (SSOA) practice partner with enterprise specialists across risk, transactions, tax, and compliance. Together, we help clients restructure operations to unlock superior value, heightened agility, and durable performance.
+
+To achieve authentic business services transformation, KPMG SSOA provides the ideal starting point through the deep research and market insights. 
+
+
+## References
+::: {#refs}
+:::
