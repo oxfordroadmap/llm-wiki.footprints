@@ -151,9 +151,9 @@ Tracing evolutionary pathways across over three decades reveals a clear mutation
 ### Strategic Map: Niche Trajectories
 
 ::: {.r-stack .thematic-carousel}
-![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpg){.img-1 width=100%}
-![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpg){.img-2 width=100%}
-![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpg){.img-3 width=100%}
+![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpeg){.img-1 width=100%}
+![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpeg){.img-2 width=100%}
+![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpeg){.img-3 width=100%}
 :::
 
 * **Motor Themes**: Capability-driven GBS, lean orchestration models.
@@ -171,9 +171,9 @@ Our strategic map visualizes current niche trajectories. While RPA and standard 
 ### Global Research Network & Nodes
 
 ::: {.r-stack .thematic-carousel}
-![Fig 5a: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.a.jpg){.img-1 width=100%}
-![Fig 5b: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.b.jpg){.img-2 width=100%}
-![Fig 5c: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.c.jpg){.img-3 width=100%}
+![Fig 5a: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.a.png){.img-1 width=100%}
+![Fig 5b: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.b.svg){.img-2 width=100%}
+![Fig 5c: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.c.svg){.img-3 width=100%}
 :::
 
 * **Trans-Pacific Trajectories**: High research links between major economies.
