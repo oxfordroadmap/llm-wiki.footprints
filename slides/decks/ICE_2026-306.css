@@ -2,3 +2,21 @@
   font-size: 0.6em;   /* shrink list text */
   line-height: 1.05;   /* tighter spacing */
 }
+.thematic-carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  animation: cycleImages 6s infinite ease-in-out;
+}
+
+/* Offset the start times for each image */
+.thematic-carousel .img-1 { animation-delay: 0s; }
+.thematic-carousel .img-2 { animation-delay: 2s; }
+.thematic-carousel .img-3 { animation-delay: 4s; }
+
+@keyframes cycleImages {
+  0%, 33.33% { opacity: 1; }  /* Visible for 2 seconds */
+  38.33%, 95% { opacity: 0; } /* Fade out and stay hidden */
+  100% { opacity: 1; }        /* Reset loop */
+}

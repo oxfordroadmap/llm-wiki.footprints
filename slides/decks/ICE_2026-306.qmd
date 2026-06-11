@@ -92,7 +92,7 @@ Our database baseline of 979 documents confirms a mature, highly collaborative f
 
 ### Conceptual Network Topology
 
-![Fig 1: Conceptual network: keyword co-occurrence visualization](fig1_placeholder.png){width=100%}
+![Fig 1: Conceptual network: keyword co-occurrence visualization](/assets/2026_ICE-Porto_GBS/Fig.1.png){width=100%}
 
 ::: {.small}
 * **Red Cluster**: Legacy BPO operations, labor offshoring, and transaction risk.
@@ -110,7 +110,7 @@ The keyword network maps a clear structural path. While the traditional BPO clus
 
 ### Factorial Mapping & The Policy Gap
 
-![Fig 2: Factorial Analysis MCA Map](fig2_placeholder.png){width=100%}
+![Fig 2: Factorial Analysis MCA Map](/assets/2026_ICE-Porto_GBS/Fig.2.png){width=100%}
 
 ::: {.small}
 * **High-Density Core**: Alignment of cloud computing and process automation.
@@ -128,7 +128,11 @@ Our multiple correspondence analysis uncovers an engineering core focused heavil
 
 ### Thematic Evolution Materialization
 
-![Fig 3: Longitudinal Thematic Evolution Map](fig3_placeholder.png){width=100%}
+::: {.r-stack .thematic-carousel}
+![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpg){.img-1 width=100%}
+![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpg){.img-2 width=100%}
+![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpg){.img-3 width=100%}
+:::
 
 ::: {.small}
 * **Early Era (1993–2010)**: Task centralization and basic cost-cutting focus.
@@ -146,6 +150,12 @@ Tracing evolutionary pathways across over three decades reveals a clear mutation
 
 ### Strategic Map: Niche Trajectories
 
+::: {.r-stack .thematic-carousel}
+![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpg){.img-1 width=100%}
+![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpg){.img-2 width=100%}
+![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpg){.img-3 width=100%}
+:::
+
 * **Motor Themes**: Capability-driven GBS, lean orchestration models.
 * **Basic Themes**: Machine learning, robotic process automation, IT management.
 * **Niche Quadrant**: ESG metrics, blockchain networks, employee wellness frameworks.
@@ -159,6 +169,12 @@ Our strategic map visualizes current niche trajectories. While RPA and standard 
 ## 👩‍🏫 Section IV: Findings
 
 ### Global Research Network & Nodes
+
+::: {.r-stack .thematic-carousel}
+![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.5.a.jpg){.img-1 width=100%}
+![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.5.b.jpg){.img-2 width=100%}
+![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.5.c.jpg){.img-3 width=100%}
+:::
 
 * **Trans-Pacific Trajectories**: High research links between major economies.
 * **Decoupling Realities**: Academic collaboration stays highly integrated.
@@ -218,7 +234,7 @@ Our main theoretical contribution identifies the GBS unit as an operational airl
 
 ### Stakeholder Engagement Alignment
 
-![Fig 4: Operational ITU Stakeholder Canvas](fig4_placeholder.png){width=100%}
+![Fig 6: Operational ITU Stakeholder Canvas](/assets/2026_ICE-Porto_GBS/Fig.6.svg){width=100%}
 
 ::: {.small}
 * **Policy Thread**: Translating environmental directives into standards.
