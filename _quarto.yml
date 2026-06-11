@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "assets/**"     # <-- CRITICAL: Forces Quarto to copy your asset directory completely to _site/assets/
   render:
     - "*.qmd"
     - "blog/**/*.qmd"      # Recursively catches blog/index.qmd and blog/posts/*.qmd
