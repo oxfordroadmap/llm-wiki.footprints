@@ -12,74 +12,99 @@ bibliography: references.bib
 csl: apa-single-spaced.csl
 ---
 
-> A decade after the codification of the classic Global Business Services (GBS) operational model, the rapid integration of artificial intelligence and semiconductor manufacturing demands a new architectural paradigm. By viewing contemporary supply chain shifts through a socio-technical lens, we examine whether a "Safe and Sustainable by Design" (SSbD) framework can transform modern GBS networks into the ultimate control towers for Industry 5.0.
+> Ten years after the classic Global Business Services (GBS) model was created, the rise of AI and advanced chipmaking requires a new approach. By looking at modern supply chains through both a social and technical lens, we show how a "Safe and Sustainable by Design" (SSbD) framework turns GBS centers into strategic control towers for Industry 5.0—proving that putting people and the planet first from the very start is simply good business.
+
+## Strategic Budget Questions for Global Leaders
+
+When multinational corporations (MNCs) plan their global budgets today, they face a completely new set of questions:
+
+* How do you invest in corporate functions when workflows are no longer handled just by local teams, but are woven together by global talent and autonomous AI agents?
+* Where should you allocate capital when green regulations can stop your products from entering key markets overnight?
+* How do you balance the cost of building advanced tech with the strict requirement to lower your carbon footprint?
+
+The answer lies in reshaping your global business infrastructure to turn compliance from an expensive, box-checking burden into your primary engine for growth.
 
 ::: {.callout-note}
 
 ## The Conceptual Core: From Cost to SSbD
 
-Can Global Business Services (GBS) units transcend their historical origins as transactional cost-cutting repositories to become the primary orchestrators of a Safe and Sustainable by Design (SSbD) infrastructure for high-tech sectors such as semiconductor and AI? As multinational corporations (MNCs) face intense pressure to reconcile advanced computational capabilities with aggressive carbon-neutral targets, a structural realignment is occurring at the intersection of micro-level niche innovations and macro-level socio-technical landscape regimes.
+Can Global Business Services (GBS) units move beyond their past as simple cost-cutting centers? Instead, they can become the main hubs that run a Safe and Sustainable by Design (SSbD) infrastructure for high-tech fields like semiconductors and AI. As global firms face heavy pressure to match high-power computing with green goals, a major shift is happening in how we manage technology and corporate operations.
 :::
 
 ## 1. Grounding the Paradigm: From KPMG 2016 to ID-306
 
-Ten years ago, the baseline for corporate maturity was anchored in the fundamental principles of the **KPMG 2016 Global Business Services Maturity Model** [@kpmg_2016-GBS]. That seminal framework mapped out an operational trajectory stretching from decentralized, highly fragmented practices (Level 1) to an integrated, outcome-oriented strategic engine (Level 5) [@kpmg_2016-GBS]. In that traditional paradigm, maturity was measured by an organization's capacity to streamline operational dimensions such as *service portfolios, talent management, enabling technologies, process excellence, and enterprise service governance*.
+Ten years ago, measuring how well a company ran its global operations depended on the **KPMG 2016 Global Business Services Maturity Model** [@kpmg_2016-GBS]. That classic model showed companies how to move step-by-step from split-up, disorganized departments (Level 1) to a highly unified, strategic operation (Level 5) [@kpmg_2016-GBS]. Back then, success meant streamlining internal areas like *service portfolios, talent management, technology, process excellence, and team governance*.
 
-However, as synthesized in our recent working paper [@Liao-2026-ICE-GBS], the classical focus on internal efficiency and standard process normalization is no longer sufficient to cope with contemporary multi-level landscape disruptions, such as the European Union's dual green and digital mandate, the Corporate Sustainability Due Diligence Directive (CSDDD), and Carbon Border Adjustment Mechanisms (CBAM).
+However, as outlined in our recent paper [@Liao-2026-ICE-GBS], focusing only on internal efficiency is no longer enough. Today's businesses must survive major global disruptions, including the European Union’s green and digital mandates, the Corporate Sustainability Due Diligence Directive (CSDDD), and new carbon import taxes (CBAM).
 
-It updates the foundational KPMG rationale by recasting the modern GBS unit as an **"operational airlock"**. Rather than functioning merely as a shared service platform, the GBS architecture acts as a vital socio-technical mediator that insulates internal corporate operations from external geopolitical, regulatory, and technological volatility. When retrofitted with a **Safe-and-Sustainable-by-Design (SSbD)** framework, the 10 operational dimensions originally identified by KPMG [@kpmg_2016-GBS] evolve into a system-of-systems mechanism capable of managing both the environmental footprint of AI-native agentic workflows and the hyper-complex lifecycles of the semiconductor value chain.
+Our updated framework redefines the modern GBS unit as an **"operational airlock"**. Instead of acting as a basic shared services department, the GBS setup acts as a protective shield. It insulates core corporate operations from messy global politics, changing laws, and sudden tech shifts.
 
-```
-┌────────────────────────────────────────────────────────┐
-│             MACRO-LANDSCAPE PRESSURES                  │
-│   (EU Dual Mandate, CBAM, Geopolitical Bifurcation)    │
-└───────────────────────────┬────────────────────────────┘
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│            GBS AS AN OPERATIONAL AIRLOCK               │
-│  Translates RegTech, FinTech & SSbD into Workflows     │
-└───────────────────────────┬────────────────────────────┘
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│             MESO-REGIME CONSOLIDATION                  │
-│       Top-Tier "Middle Power" Regional Hubs            │
-│     (Poland AI-Native, Portugal Green Tech,            │
-│       Malaysia GBS 5.0 & Semiconductor Gateway)        │
-└────────────────────────────────────────────────────────┘
+```{mermaid}
+%%| fig-cap: "Socio-Technical Airlock Architecture for Industry 5.0 GBS"
+%%| label: fig-airlock-model
+flowchart TD
+    A["🌍 <b>GLOBAL LANDSCAPE PRESSURES</b><br><font size=2>EU Green Mandates · CBAM Taxes · Geopolitical Shifts</font>"]
+    B["🔒 <b>GBS AS AN OPERATIONAL AIRLOCK</b><br><font size=2>Translates Law, Tech & Sustainability Workflows</font>"]
+    C["⚙️ <b>REGIONAL INDUSTRY MATURITY</b><br><font size=2>Top-Tier Regional Specialized Hubs<br>🇵🇱 Poland AI-Native · 🇵🇹 Portugal Green Tech · 🇲🇾 Malaysia GBS 5.0 & Chip Gateway</font>"]
+
+    A --> B
+    B --> C
+
+    style A fill:#f9f9f9,stroke:#333,stroke-width:1px,color:#111;
+    style B fill:#e6f3ff,stroke:#0058A2,stroke-width:2px,color:#002244;
+    style C fill:#f9f9f9,stroke:#333,stroke-width:1px,color:#111;
+    linkStyle default stroke:#0058A2,stroke-width:2px;
 
 ```
 
-## 2. Empirical Validation across "Middle Power" Hubs
+### The Extended SSbD Definition: Flipping a Burden into Growth
 
-The transition from academic theory to empirical confirmation plays out across three critical geographic "Middle Power" hubs: Poland, Portugal, and Malaysia. Each country's local ecosystem offers unique validation—and occasional rejections—of traditional maturity constraints.
+Our framework rewrites the rules by bringing an **SSbD approach** into KPMG's 10 operational dimensions. We look at sustainability not as a final cleanup task done at the end of manufacturing, but as an upfront **System of Systems (SoS)** design rule. For semiconductors and AI, this means integrating data tools, precise environmental tracking, smart analytics, and ESG reporting right into the earliest planning stages.
 
-### 🇵🇱 Poland: The Engine Room for Algorithmic Normalization
+By building safety and green metrics directly into daily workflows, **compliance changes from a corporate headache into an active source of profit**. Instead of dodging fines, an SSbD-enabled GBS unit builds high-value business advantages: it gets products into strict markets faster, qualifies the company for lower-interest green financing, secures steady supply chains, and delivers verified, low-carbon products that premium buyers demand. GBS shifts from a backward-looking records office into a forward-looking engine running both AI workflows and silicon supply chains.
 
-The Polish ecosystem, long celebrated as a primary shared-services hub in Central Europe, provides empirical proof that process normalization is a strict prerequisite for AI deployment. In line with industry synthesis, executing advanced automation without rigorous process hygiene serves merely as a "multiplier of inefficiency" rather than a true catalyst for value [@itselectaAIGBS20262026].
+## 2. Connecting Stakeholders: Insights from Figure 6 Canvas
 
-Data from the Association of Business Service Leaders (**ABSL**) confirms that Poland's modern business services sector has scaled to over 2,000 centers employing upwards of 488,700 professionals, shifting decisively toward fintech and sophisticated AI-native workflows . This massive human infrastructure validates the **Talent-Innovation Thread** of our framework: true digital transformation cannot rely on technology alone; it requires specialized, high-value local talent to navigate complex socio-technical transitions [@abslBusinessServicesSector2025].
+To make an SSbD system work, a company cannot act alone. By combining data-driven science mapping with socio-technical transition theories, our framework uses a **Stakeholder Engagement Tool Canvas (Figure 6)** to show how modern industrial policies push global firms to change their technology plans.
 
-### 🇵🇹 Portugal: The Green Tech and Regulatory Airlock
+This canvas maps out **four operational threads** that use AI and automation to solve shared ecosystem needs, bridging the gap between local talent and global networks:
 
-Portugal serves as a vital laboratory for verifying the integration of environmental stewardship with digital infrastructure. Driven by the *Agência para o Investimento e Comércio Externo de Portugal* (AICEP), the national strategy has focused on attracting tech-heavy, sustainable Centers of Excellence (CoE). Reports by **Ivan Oz** indicate that the Portuguese GBS landscape encompasses approximately 270 centers employing over 93,000 professionals [@ozBusinessServiceCentres2025].
+::: {#fig-canvas-threads}
+![](/assets/2026_ICE-Porto_GBS/Fig.6.svg){fig-align="center"}
 
-Crucially, observations from **ABSL Portugal** reveal that 84% of these centers are actively upskilling their workforces to fulfill demanding Artificial Intelligence and Environmental, Social, and Governance (ESG) criteria [@abslportugalHowAIAutomation2026]. This high concentration of green-certified competencies confirms the **Policy-Compliance Thread** of ID-306, proving that advanced GBS units can actively buffer MNCs against landscape regulatory penalties by running eco-accountable data and analytical registries [@Liao-2026-ICE-GBS].
+Figure 6. Stakeholder Engagement Tool Canvas Matrix
+:::
 
-### 🇲🇾 Malaysia: The Twin Transition and Semiconductor Gateway
+* **📜 The Policy-Compliance Thread (Government to Corporate):** This maps how high-level global laws (like CBAM or CSDDD) are translated into daily corporate data standards. It upgrades the GBS unit from a basic back-office department into the official guardian of the company's "license to operate."
+* **🎓 The Talent-Innovation Thread (Entrepreneur to Academia):** This bridges the gap between fast-moving business needs and university research. It allows regional hubs to capture higher-value, specialized technical roles. In this thread, diverse hiring strategies and flexible hybrid work models serve as the vital foundation for data-driven talent decisions.
+* **💰 The Reward-Orchestration Thread (Finance & Support Networks):** This updates traditional shared finance services into advanced Supply Chain Finance. By integrating green financial technology (FinTech), regulatory software (RegTech), and automated auditing, the GBS hub can financially reward suppliers and partners who adopt green behaviors across the global value chain.
+* **🧪 The Living Lab Thread (Entrepreneur to Corporate):** This opens up corporate innovation. It gives internal teams and local startups a structured, safe sandbox to test new AI-native workflows before rolling them out across the entire multinational corporation. This breaks down information barriers and turns workforce retraining into a win-win game for both local talent and global leadership.
 
-Representing the ASEAN-Pacific research nexus, Malaysia offers the ultimate structural confirmation of the Industry 5.0 GBS paradigm. Orchestrated by the Malaysia Digital Economy Corporation (**MDEC**), the **"GBS 5.0" framework** intentionally targets a human-centric, AI-driven, and impact-focused operational standard [@pikomGBSMalaysiaStrategy2025]. Operating over 750 centers with a talent pool exceeding 250,000 workers, Malaysia has systematically bypassed basic labor-arbitrage traps [@Liao-2026-ICE-GBS].
+## 3. Real-World Proof from Three Key Nations
 
-This is vividly apparent in Penang, where developments like **GBS@Technoplex** are explicitly designed to capture global AI growth and anchor high-value digital innovation [@investpenangPenangUnveilsDevelopment2025]. Because Penang acts as a critical physical node in the global semiconductor packaging, assembly, and testing supply chain, its digital-first GBS infrastructure [@Liao-2026-ICE-GBS] serves as a concrete manifestation of our proposed [**Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS)**](https://scvcs.footprints.cv/) model. It demonstrates how orchestration and industrial data spaces can actively monitor material lifecycles and circular efficiencies.
+This stakeholder framework is not just theoretical; it is actively playing out across three vital geographic hubs, each proving how global business models are evolving.
 
-## 3. Synthesis: Insights
+### 🇵🇱 Poland: The Foundation for Reliable AI
 
-A clear set of insights and modifications emerges:
+The Polish ecosystem proves that you must clean up and standardize your data processes before you can use AI safely. Deploying advanced automation on top of messy, broken workflows simply multiplies your inefficiencies [@itselectaAIGBS20262026]. Data from the Association of Business Service Leaders (**ABSL**) shows that Poland's business services sector has grown to over 2,000 centers employing more than 488,700 experts, shifting fast toward fintech and AI-native workflows [@abslBusinessServicesSector2025]. This deep pool of human talent proves our **Talent-Innovation** theory: digital upgrades cannot rely on software alone; they require skilled local teams to guide complex organizational changes.
 
-* **Likely Rejection of Linear Progression:** The classical notion that an organization must progress sequentially from Level 1 to Level 5 is likely outdated. Emerging ecosystems demonstrate that hubs can "leapfrog" intermediate structural stages by deploying native AI talents and cloud architectures, trustworthy autonomous AI agents, and immediate green mandates from day one.
-* **The Maturity Trap Reframed:** Achieving the highest levels of maturity is no longer an optional luxury or an unnecessary bureaucratic expense. Under the pressures of global decoupling and a bifurcated geopolitical cloud, reaching an integrated, automated, and legally compliant "operational airlock" state is a strategic necessity to protect a firm's license to operate.
-* **Human-Agentic Co-dependence:** The empirical records of Poland, Portugal, and Malaysia collectively refute the idea that automated algorithmic workflows will render human capital obsolete [@abslBusinessServicesSector2025; @abslportugalHowAIAutomation2026; @pikomGBSMalaysiaStrategy2025]. Instead, trust-based hybrid work models, data-driven talent pipelines, and continuous workforce reskilling constitute the indispensable foundation upon which sustainable AI platforms must operate.
+### 🇵🇹 Portugal: The Green Tech Regulatory Shield
 
-Ultimately, configuring GBS for SSbD transitions the entire discipline away from backward-looking administrative logging into a forward-looking, planet-centric technology management strategy. By coupling global talent pipelines with industrial data spaces, orchestrated GBS hubs present a viable socio-technical mechanism to mitigate asymmetric vulnerabilities across global production networks, establishing a resilient "third way" for the future of global value chains.
+Portugal serves as a live laboratory for blending green goals with digital tools. Backed by the national trade agency (AICEP), Portugal focuses heavily on attracting sustainable Centers of Excellence (CoE). The country now hosts around 270 business centers employing over 93,000 professionals [@ozBusinessServiceCentres2025]. Crucially, **ABSL Portugal** reports that 84% of these centers are actively training their workers to handle advanced AI and ESG demands [@abslportugalHowAIAutomation2026]. This high concentration of green-certified skills confirms our **Policy-Compliance** theory, proving that advanced GBS hubs protect global firms from regulatory penalties by running highly accurate eco-tracking systems [@Liao-2026-ICE-GBS].
+
+### 🇲🇾 Malaysia: The Digital-Green Gateway for Semiconductors
+
+As a major hub for the Asia-Pacific region, Malaysia provides the ultimate real-world proof of this new industry model. Led by the Malaysia Digital Economy Corporation (**MDEC**), the national **"GBS 5.0" strategy** builds a human-centric, AI-driven, and green-focused business ecosystem [@pikomGBSMalaysiaStrategy2025]. Managing over 750 centers with more than 250,000 workers, Malaysia has successfully moved past old, low-wage business models [@Liao-2026-ICE-GBS].
+
+We see this clearly in Penang, where projects like **GBS@Technoplex** are built to capture global AI growth and anchor digital innovation [@investpenangPenangUnveilsDevelopment2025]. Because Penang is a vital physical link in the global chip-making and testing supply chain, its digital-first infrastructure [@Liao-2026-ICE-GBS] perfectly demonstrates our **[Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS)](https://scvcs.footprints.cv/)** model. It shows how software orchestration and shared data spaces can transform strict green rules into competitive advantages by tracking material lifecycles and recycling efficiency in real time.
+
+## 4. Key Lessons for Global Strategy
+
+* **You Can Skip Steps:** The old idea that a company must slowly climb from Level 1 to Level 5 is outdated. Modern business hubs can leapfrog over middle stages by using cloud-native software, reliable AI agents, and strict green rules from day one.
+* **Maturity is a Necessity, Not a Luxury:** Achieving a highly integrated, automated, and compliant business hub is no longer just an expensive option. With global trade separating into rival political blocs, having a secure "operational airlock" is a basic requirement to keep your business running safely.
+* **Humans and AI Need Each Other:** The data from Poland, Portugal, and Malaysia shows that automation will not wipe out human jobs [@abslBusinessServicesSector2025; @abslportugalHowAIAutomation2026; @pikomGBSMalaysiaStrategy2025]. Instead, trust-based hybrid workplaces, data-driven talent development, and continuous retraining form the essential foundation that makes sustainable AI tools work.
+
+Ultimately, designing your global business services for SSbD moves the entire field away from boring, backward-looking administrative tasks. It creates a proactive strategy focused on smart technology and planetary health. By linking global talent with industrial data hubs, these synchronized business centers protect global production networks, creating a resilient, sustainable future for global supply chains.
 
 ---
 
