@@ -1,8 +1,17 @@
 /*-- scss:rules --*/
 
 /* Completely hide the auto-generated title slide */
-#title-slide {
-  display: none !important;
+//#title-slide {
+//  display: none !important;
+//}
+
+/* ==========================================================================
+   GLOBAL REVEAL.JS CORE VARIABLE OVERRIDES
+   ========================================================================== */
+
+.reveal {
+  /* Force the master baseline font size down to your preferred size */
+  --r-main-font-size: 32px !important; 
 }
 
 .slide-background-content {
@@ -13,6 +22,42 @@
 .title-slide-section.slide-background {
   .slide-background-content {
     opacity: 0.15 !important; /* Dims the image asset cleanly to 50% transparency */
+  }
+}
+
+
+/* ==========================================================================
+   COMPONENT: Table Typography Customization
+   ========================================================================== */
+
+.reveal table {
+  /* Global table text sizing (Body rows) */
+  font-size: 1em !important;     // Scales relative to your main baseline
+  line-height: 0.95em !important;
+  thead {
+    /* Specific styling for the Table Header row */
+    tr {
+      th {
+        font-size: 1.15em !important; 
+        font-weight: 800 !important;  // Bold header distinction
+        color: #002147 !important;    // Matches your presentation's primary navy tint
+        border-bottom: 2px solid #3a3a3a !important;
+        padding-bottom: 0.1rem !important;
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td {
+        padding: 0.4rem 0.6rem !important; // Tighter padding for dense data layouts
+      }
+      
+      /* Optional: Zebra striping for high-density academic/technical data grids */
+      &:nth-child(even) {
+        background-color: rgba(0, 0, 0, 0.03); 
+      }
+    }
   }
 }
 
@@ -42,8 +87,8 @@
     color: #002147;   
     font-weight: 800;
     text-align: center;
-    font-size: 1.25em; 
-    line-height: 1.25em;
+    font-size: 1.75em; 
+    line-height: 1.5em;
     @extend .text-outline-protection; 
   }
 
@@ -51,7 +96,7 @@
     color: #002147;
     font-weight: 700;
     text-align: center;
-    font-size: 0.9em !important; 
+    font-size: 1.25em !important; 
     line-height: 1em !important;
     @extend .text-outline-protection; 
   }
@@ -85,7 +130,7 @@
   /* Structural Content Container for Authorship & Venue Meta */
   .presentation-meta {
     margin-top: auto;
-    font-size: 0.5em; 
+    font-size: 0.75em; 
     line-height: 1.5;
     
     .session-info {
@@ -119,12 +164,12 @@
         
         .name {
           font-weight: 900;
-          font-size: 1.5em;
+          font-size: 1.25em;
           display: inline-block;
         }
 
         .orcid-num {
-          font-size: 0.85em;         
+          font-size: 0.75em;         
           font-weight: 900;          
           font-family: monospace;    
           color: #002147 !important; 
@@ -154,7 +199,7 @@
 
         .affiliation {
           font-weight: 800;
-          font-size: 1.5em; 
+          font-size: 1.25em; 
         }
       } /* Ends .author-avatar-group */
 

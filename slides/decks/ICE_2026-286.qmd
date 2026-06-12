@@ -38,7 +38,6 @@ Implications for Safe and Sustainable by Design (SSbD)
 :::
 
 ::: {.session-info}
- \
 2026 IEEE ICE/ITMC, Porto — Session: Technology
 ::: 
 
