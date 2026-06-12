@@ -1,10 +1,10 @@
 ---
-title: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
-subtitle: "Implications for Safe and Sustainable by Design (SSbD)"
-author: "Karen Ang & Han-Teng Liao"
+pagetitle: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
 date: "2026-06-11"
 format:
   revealjs:
+    title-slide-attributes:
+      data-visibility: "unrendered"
     theme:
       - sky
       - ../../custom.scss
