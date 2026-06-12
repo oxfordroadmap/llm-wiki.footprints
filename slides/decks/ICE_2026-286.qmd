@@ -7,6 +7,8 @@ categories: ["Semiconductors", "AI", "ESG", "SSbD"]
 pagetitle: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
 format:
   revealjs:
+    zoom: true
+    navigation-mode: grid 
     title-slide: false
     # --- NAVIGATION CONTROL CONTROLS ---
     controls: true           # Forces the navigation arrows to display in the corner
@@ -30,7 +32,7 @@ format:
 image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 ---
 
-##  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+#  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 Scoping Review of AI, Metrology, and \
@@ -117,9 +119,7 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data.
 </aside>
 
----
-
-## 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+# 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ### Ecosystem Gaps & The SoS Challenge
 
@@ -131,11 +131,11 @@ As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext a
 Our literature review highlights a massive architectural gap. While models for phased industrial migrations exist, process-level data does not propagate down to regulatory platforms. We argue that metrology, AI analytics, and ESG compliance must be treated as interdependent services within a unified System of Systems framework.
 </aside>
 
----
+# 🧩 Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-## 🧩 Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
-
-### Scoping Review & Query Design
+::: {.subtitle}
+🧩 III-A.B.C: Query Design & Roadmapping
+:::
 
 | Domain | Rationale | Records (WoS/Scopus) |
 | :--- | :--- | :--- |
@@ -154,7 +154,7 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 
 ---
 
-## 🧩 III: Dataset Overview & Comparative Metrics
+## 🧩 III-D.E: Dataset & Metrics
 
 | Category / Metric | Web of Science | Scopus |
 | :--- | :--- | :--- |
@@ -171,18 +171,12 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science provided a highly curated academic sample with strong keyword depth. Scopus captured active, industrial knowledge cycles, contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity.
 </aside>
 
----
 
-## 👩‍🏫 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+# 👩‍🏫 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-
-<aside class="notes">
-Any questions, before going into the Findings? We will now synthesize the key insights from our scoping review, starting with institutional affiliation gaps, then moving to collaboration networks, funding distributions, and finally conceptual structures.
-</aside>
-
----
-
-## 👩‍🏫 IV: Findings Institutional Affiliation Gaps
+::: {.subtitle}
+👩‍🏫 IV-A: Institutional Affiliation
+:::
 
 | Web of Science (Academic Focus) | Scopus (Industrial Focus) |
 | :--- | :--- |
@@ -200,7 +194,7 @@ Our institutional mapping in Table 4 exposed a severe structural hole. Academic 
 
 ---
 
-## 👩‍🏫 IV: Global Collaboration Networks
+## 👩‍🏫 IV-B: Global Collaboration Networks
 
 ![Fig 1: International Co-authorship Networks](/assets/_ID-286_Fig.1A.png){width=100%} 
 
@@ -216,7 +210,7 @@ When looking at national collaboration in Figure 1, the networks reveal dense tr
 
 ---
 
-## 👩‍🏫 IV: Regional Funding Distributions
+## 👩‍🏫 IV-C: Regional Funding Distributions
 
 | Region / Funder Hub | Key Contributing Agencies | Shares (%) |
 | :--- | :--- | :--- |
@@ -233,7 +227,7 @@ Funding agency distributions in Table 5 show that East Asian agencies back over 
 
 ---
 
-## 👩‍🏫 IV: Conceptual Structure: Relational Mapping
+## 👩‍🏫 IV-D: Conceptual Structure - Factorial
 
 ![Fig 2: Relational Factorial MCA Map](/assets/_ID-286_Fig.2.png) 
 
@@ -247,7 +241,7 @@ Figure 2 shows our Factorial Multiple Correspondence Analysis. It maps a clear d
 
 ---
 
-## 👩‍🏫 IV: Keyword Co-occurrence Topology
+## 👩‍🏫 IV-E: Conceptual Structure - Keyword Co-occurrence Topology
 
 ![Fig 3: Keyword Co-occurrence Network](/assets/_ID-286_Fig.3.png) 
 
@@ -259,15 +253,15 @@ Figure 2 shows our Factorial Multiple Correspondence Analysis. It maps a clear d
 The network topology in Figure 3 confirms this fragmentation. Mainstream semiconductor fabrication terms form a tight, central hub, while standards and energy efficiency sit at the absolute periphery. To fix this, we must build a grid-to-core pathway that feeds real-time power metrics directly into compliance loops.
 </aside>
 
----
+# 🗪 Section V: Discussion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-## 🗪 Section V: Discussion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+* **RQ1: Data Interoperability**: 
+* **RQ2: Scarcity Adaptation**: 
+* **RQ3: Eco-Efficiency**: 
 
-### Integrating the Research Questions
-
-* **RQ1: Data Interoperability**: Solved via federated data spaces.
-* **RQ2: Scarcity Adaptation**: Addressed through virtual metrology soft-sensors.
-* **RQ3: Eco-Efficiency**: Balancing local yields with global Scope 3 mandates.
+:::{.subtitle}
+Integrating the Research Questions
+:::
 
 <aside class="notes">
 We can now synthesize our three core research questions. Data interoperability, scarcity adaptation, and eco-efficiency cannot be treated as separate issues. They represent an interdependent System of Systems challenge that requires structural integration across the entire manufacturing lifecycle.
@@ -275,7 +269,11 @@ We can now synthesize our three core research questions. Data interoperability, 
 
 ---
 
-## 🗪 V: Proposed 6-Layer SSbD Architecture
+## 🗪 V.A: Research Questions Revisited
+
+* **RQ1: Data Interoperability**: Solved via federated data spaces.
+* **RQ2: Scarcity Adaptation**: Addressed through virtual metrology soft-sensors.
+* **RQ3: Eco-Efficiency**: Balancing local yields with global Scope 3 mandates.
 
 ![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
 
@@ -283,12 +281,14 @@ We can now synthesize our three core research questions. Data interoperability, 
 
 <aside class="notes">
 
-To close these structural holes, we propose this 6-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
+Answering all research questions, we propose this six-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
 </aside>
 
 ---
 
 ## 🗪 V: Base-Substitution & RegTech Layers
+
+![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
 
 * **SSbD Substitution**: Targeting PFAS, PFCs, and scarce mineral abatement.
 * **RegTech Layer**: Deploying digital product passports for clear provenance.
@@ -301,6 +301,8 @@ At the foundation, the substitution layer drives chemical safety and mineral aba
 ---
 
 ## 🗪 V: Core-Federated Spaces & Metrology
+
+![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
 
 * **Federated Data Fabrics**: Preserving cross-border data sovereignty.
 * **Metrology Optimization**: Real-time closed-loop Statistical Process Control.
@@ -322,11 +324,9 @@ The middle layers solve the data sharing dilemma. Federated data fabrics allow s
 The top layers complete the ecosystem. Digital twins simulate manufacturing changes to verify energy and yield trade-offs before physical wafers are ever processed. This turns regulatory demands into an automated, self-correcting driver of actual industrial innovation.
 </aside>
 
----
+# 🎁 Section VI: Conclusion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-## 🎁 Section VI: Conclusion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
-
-### Key Architectural Insights
+## 🎁 VI: Key Architectural Insights
 
 * **Silo Elimination**: Merging factory analytics with ESG reporting.
 * **System of Systems Paradigm**: Local process optimization must serve global limits.
@@ -372,8 +372,7 @@ The semiconductor sector has always thrived on rigorous, standardized knowledge 
 Thank you for your time. Moving forward, we call for industrial pilots to test these federated data spaces in active cross-border fabs. This will ensure that process-level metrology truly validates regulatory reporting, driving a secure, climate-neutral transition.
 </aside>
 
----
-## Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+# Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 Scoping Review of AI, Metrology, and \
