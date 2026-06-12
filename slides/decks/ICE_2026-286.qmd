@@ -31,7 +31,7 @@ Implications for Safe and Sustainable by Design (SSbD)
 
 ::: {.session-info}
  \
-Presented at ICE 2026 — Main Session: Technology
+2026 IEEE ICE/ITMC, Porto — Session: Technology
 ::: 
 
 ::::: {.presentation-meta}
@@ -40,7 +40,7 @@ Presented at ICE 2026 — Main Session: Technology
 
 ::: {.author-card}
 ::: {.author-avatar-group}
-[Karen Ang]{.name} \
+[Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
 [Infineon Technologies]{.affiliation}
 :::
 
@@ -49,7 +49,7 @@ Presented at ICE 2026 — Main Session: Technology
 
 ::: {.author-card}
 ::: {.author-avatar-group}
-[Han-Teng Liao]{.name} \
+[Han-Teng Liao]{.name} [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599){.orcid-num}\
 [Independent Researcher]{.affiliation}
 :::
 

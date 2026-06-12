@@ -1,20 +1,48 @@
 /*-- scss:rules --*/
-.title, .subtitle {
-/* Smooth 360-degree white barrier to separate text from background artwork */
-    text-shadow: 
-      -2px -2px 0 #ffffff,  
-       2px -2px 0 #ffffff,
-      -2px  2px 0 #ffffff,
-       2px  2px 0 #ffffff,
-      -3px  0px 4px #ffffff,
-       3px  0px 4px #ffffff,
-       0px  3px 4px #ffffff,
-       0px -3px 4px #ffffff;
+
+/* ==========================================================================
+   GLOBAL UTILITIES & MIXINS
+   ========================================================================== */
+
+/* 1. Extract text-shadow into a global utility class */
+.text-outline-protection {
+  text-shadow: 
+    -2px -2px 0 #ffffff,  
+     2px -2px 0 #ffffff,
+    -2px  2px 0 #ffffff,
+     2px  2px 0 #ffffff,
+    -3px  0px 4px #ffffff,
+     3px  0px 4px #ffffff,
+     0px  3px 4px #ffffff,
+     0px -3px 4px #ffffff;
+}
+
+/* ==========================================================================
+   GLOBAL REVEAL.JS ELEMENT OVERRIDES
+   ========================================================================== */
+
+.reveal .slides {
+  h2 {
+    font-size: 1.6em; 
+    line-height: 1.25;
+    color: #002147;   
+    font-weight: 800;
+    text-align: left;
+    @extend .text-outline-protection; 
+  }
+
+  h3 {
+    font-size: 1.1em;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #002147;
+    text-align: left;
+    @extend .text-outline-protection; 
+  }
 }
 
 /* ==========================================================================
    COMPONENT: Title Slide with Custom Micro-Metadata Grid
-   Quarto uses a multi-pass compiler. It looks for -- scss:defaults -- to grab configuration variables (like custom brand colors or fonts) before loading the main theme, and it looks for -- scss:rules -- to append layout structures and overrides after the main theme loads.
    ========================================================================== */
 
 .title-slide-custom {
@@ -25,33 +53,29 @@
   box-sizing: border-box;
   text-align: left !important;
   
-  /* Slide Title Scaling */
   h2, .title {
     font-size: 1.25em !important; 
-    line-height: 1.25 !important;
-    color: #002147 !important; /* Oxford Blue for maximum contrast and brand consistency */
-    font-weight: 800;
-    margin-top: 1em !important; /* Spacing clear of the top banner image */
+    line-height: 1.25em !important;
+    margin-top: 1em !important; 
     margin-bottom: 0.5em !important;
-    text-align: left !important;
+    @extend .text-outline-protection;
   }
 
   h3, .subtitle {
     font-size: 0.9em !important; 
-    line-height: 1 !important;
-    font-weight: 700;
+    line-height: 1em !important;
     margin-top: 1em !important; 
     margin-bottom: 1em !important;
-    text-align: left !important;
+    @extend .text-outline-protection;
   }
 
   /* Structural Content Container for Authorship & Venue Meta */
   .presentation-meta {
     margin-top: auto;
-    font-size: 0.5em; /* Controls base scale of the entire lower block */
+    font-size: 0.5em; 
     line-height: 1.5;
     
-  .session-info {
+    .session-info {
       display: block;
       font-style: italic;
       color: #002147;
@@ -59,45 +83,76 @@
     }
   }
 
-/* Two-column Author/Logo Grid Configuration */
+  /* Two-column Author/Logo Grid Configuration */
   .author-cluster {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 4rem;                    /* INCREASED gap to stop names from bleeding across columns */
+    gap: 4rem;                    
     border-top: 1px solid #3a3a3a;
     padding-top: 1.5rem;
-    align-items: flex-end;        /* CHANGED: Aligns both columns perfectly to the bottom baseline */
-    font-size: 1em;             /* Scales text up for better readability */
+    align-items: flex-start;    
+    font-size: 1em;             
 
     .author-card {
       display: flex;
-      flex-direction: column;     /* Natural top-to-bottom stack flow */
-      align-items: flex-start;    /* Clean left-alignment for all elements */
-      gap: 1rem;                      /* Spacing between text block and logo */
+      flex-direction: column;     
+      align-items: flex-start;    
+      gap: 1rem;                  
       
       .author-avatar-group {
         display: flex;
         flex-direction: column;
-        gap: 0.2rem;                  /* Spacing between Line 1 (Name) and Line 2 (Affiliation) */
+        gap: 0.2rem;                  
         
         .name {
           font-weight: 900;
           font-size: 1.5em;
+          display: inline-block;
         }
+
+        /* Fixed: Moved to be a sibling of .name, matching your clean Markdown */
+        .orcid-num {
+          font-size: 0.85em;         
+          font-weight: 900;          
+          font-family: monospace;    
+          color: #002147 !important; 
+          margin-left: 0.5rem;       
+          display: inline-flex;
+          align-items: center;
+          text-decoration: none;     
+
+          /* Embed the official ORCID green SVG structure natively */
+          &::before {
+            content: "";
+            display: inline-block;
+            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><circle cx="128" cy="128" r="128" fill="%23a6ce39"/><path fill="%23fff" d="M86.8 54.6H70.5v146.9h16.3V54.6zm32 0h-16.3v146.9h16.3V54.6zm58.5 0h-34.9v146.9h34.9c37.5 0 54.3-22.1 54.3-73.4-.1-52.9-19-73.5-54.3-73.5zm-.5 130.6h-18.1V70.9h18.1c25.4 0 37.1 13.5 37.1 57.1 0 44-11.4 57.2-37.1 57.2z"/></svg>');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;            
+            width: 1.1em;
+            height: 1.1em;
+            margin-right: 0.3rem;     
+          }
+
+          &:hover {
+            color: #a6ce39 !important; 
+            text-decoration: underline;
+          }
+        }
+
         .affiliation {
           font-weight: 800;
           font-size: 1.5em; 
         }
-      }
+      } /* Ends .author-avatar-group */
 
-      /* Uniform Logo Sizing Bounds */
       img.brand-logo {
-        width: 2.2em;            /* Line 3: Perfectly proportioned brand logo height */
+        width: 7.2em;            
         height: auto;
         object-fit: contain;
-        margin-top: 0.4rem;       /* Drops the logo cleanly below the affiliation line */
-        filter: none !important;  /* Strip out shadows to keep the brand assets clean */
+        margin-top: 0.4rem;       
+        filter: none !important;  
       }
-    }
-  }
-}
+    } /* Ends .author-card */
+  } /* Ends .author-cluster */
+} /* Ends .title-slide-custom */
