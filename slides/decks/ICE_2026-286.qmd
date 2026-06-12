@@ -50,9 +50,7 @@ Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Te
 
 ---
 
-## 🌱 Section I: Introduction
-
-### The Semiconductor Twin Transition
+## 🌱 Section I: The Semiconductor Twin Transition
 
 * **Precision Scaling**: Rapidly advancing sub-5 nm processing nodes.
 * **Sustainability Mandates**: Regulatory pressure from EU CBAM and CSDDD.
@@ -64,9 +62,7 @@ Today, with the SSbD both as EU policy and emerging design concept, we look at t
 
 ---
 
-## 🌱 Section I: Introduction
-
-### Evolving GRC Landscapes & SSbD
+## 🌱 I. Evolving GRC Landscapes & SSbD
 
 * **GRC**: Governance, Risk, and Compliance alignment strategies.
 * **SSbD Framework**: Safe and Sustainable by Design material lifecycle safety.
@@ -78,9 +74,7 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 
 ---
 
-## 🌱 Section I: Introduction
-
-### Current RegTech Service Ecosystem
+## 🌱 I. Current RegTech Service Ecosystem
 
 | Platform | Core Functionality | Standards Alignment | CBAM Relevance |
 | :--- | :--- | :--- | :--- |
@@ -98,7 +92,7 @@ As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext a
 
 ---
 
-## Section II: Literature Review
+## 📚 Section II: Literature Review
 
 ### Ecosystem Gaps & The SoS Challenge
 
@@ -133,9 +127,7 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 
 ---
 
-## 🧩 Section III: Methodology
-
-### Dataset Overview & Comparative Metrics
+## 🧩 III: Dataset Overview & Comparative Metrics
 
 | Category / Metric | Web of Science | Scopus |
 | :--- | :--- | :--- |
@@ -150,6 +142,15 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 
 <aside class="notes">
 Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science provided a highly curated academic sample with strong keyword depth. Scopus captured active, industrial knowledge cycles, contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity.
+</aside>
+
+---
+
+## 👩‍🏫 Section IV: Findings 
+
+
+<aside class="notes">
+Any questions, before going into the Findings? We will now synthesize the key insights from our scoping review, starting with institutional affiliation gaps, then moving to collaboration networks, funding distributions, and finally conceptual structures.
 </aside>
 
 ---
@@ -172,9 +173,7 @@ Our institutional mapping in Table 4 exposed a severe structural hole. Academic 
 
 ---
 
-## 👩‍🏫 Section IV: Findings
-
-### Global Collaboration Networks
+## 👩‍🏫 IV: Global Collaboration Networks
 
 ![Fig 1: International Co-authorship Networks](/assets/_ID-286_Fig.1A.png){width=100%} 
 
@@ -190,9 +189,7 @@ When looking at national collaboration in Figure 1, the networks reveal dense tr
 
 ---
 
-## 👩‍🏫 Section IV: Findings
-
-### Regional Funding Distributions
+## 👩‍🏫 IV: Regional Funding Distributions
 
 | Region / Funder Hub | Key Contributing Agencies | Shares (%) |
 | :--- | :--- | :--- |
@@ -209,9 +206,7 @@ Funding agency distributions in Table 5 show that East Asian agencies back over 
 
 ---
 
-## 👩‍🏫 Section IV: Findings
-
-### Conceptual Structure: Relational Mapping
+## 👩‍🏫 IV: Conceptual Structure: Relational Mapping
 
 ![Fig 2: Relational Factorial MCA Map](/assets/_ID-286_Fig.2.png) 
 
@@ -225,9 +220,7 @@ Figure 2 shows our Factorial Multiple Correspondence Analysis. It maps a clear d
 
 ---
 
-## 👩‍🏫 Section IV: Findings
-
-### Keyword Co-occurrence Topology
+## 👩‍🏫 IV: Keyword Co-occurrence Topology
 
 ![Fig 3: Keyword Co-occurrence Network](/assets/_ID-286_Fig.3.png) 
 
@@ -255,9 +248,7 @@ We can now synthesize our three core research questions. Data interoperability, 
 
 ---
 
-## 🗪 Section V: Discussion
-
-### Proposed 6-Layer SSbD Architecture
+## 🗪 V: Proposed 6-Layer SSbD Architecture
 
 ![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
 
@@ -266,69 +257,47 @@ We can now synthesize our three core research questions. Data interoperability, 
 <aside class="notes">
 
 To close these structural holes, we propose this 6-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
-+-------------------------------------------------------+
-|        Socio-Technical Transitions Layer              |
-+-------------------------------------------------------+
-|             Industry 4.0 Digital Twin Layer           |
-+-------------------------------------------------------+
-|          Metrology-Based Optimization Layer           |
-+-------------------------------------------------------+
-|          Federated Industrial Data Spaces             |
-+-------------------------------------------------------+
-|         RegTech & CBAM Compliance Layer               |
-+-------------------------------------------------------+
-|             SSbD Substitution Base Layer              |
-+-------------------------------------------------------+
-
-```
-
-*Note: Conceptual outline of Fig. 4.*
+</aside>
 
 ---
 
-## 🗪 Section V: Discussion
-
-### The Base: Substitution & RegTech Layers
+## 🗪 V: Base-Substitution & RegTech Layers
 
 * **SSbD Substitution**: Targeting PFAS, PFCs, and scarce mineral abatement.
 * **RegTech Layer**: Deploying digital product passports for clear provenance.
 * **Defensive Prompting**: Preventing compliance gaming in automated reporting.
 
-::: {.notes}
+<aside class="notes">
 At the foundation, the substitution layer drives chemical safety and mineral abatement based on the IRDS roadmap. Directly above it, the RegTech layer uses digital product passports to automate compliance. Crucially, it includes defensive prompt structures to stop vendors from gaming automated screening tools.
-:::
+</aside>
 
 ---
 
-## 🗪 Section V: Discussion
-
-### The Core: Federated Spaces & Metrology
+## 🗪 V: Core-Federated Spaces & Metrology
 
 * **Federated Data Fabrics**: Preserving cross-border data sovereignty.
 * **Metrology Optimization**: Real-time closed-loop Statistical Process Control.
 * **Grid-to-Core Pathway**: Connecting sensor power metrics to CBAM logs.
 
-::: {.notes}
+<aside class="notes">
 The middle layers solve the data sharing dilemma. Federated data fabrics allow secure information exchange across different countries without losing data sovereignty. This enables inline sensors and virtual metrology models to pipe verified energy and emissions data directly into compliance applications.
-:::
+</aside>
 
 ---
 
-## 🗪 Section V: Discussion
-
-### The Capstone: Twins & Transitions
+## 🗪 V: Twins & Transitions
 
 * **Digital Twins**: Simulating sustainability trade-offs before physical scaling.
 * **Industry 5.0 Vision**: Prioritizing human-machine synergy and resilience.
 * **Socio-Technical Ecosystem**: Multipolar diversification and automated compliance.
 
-::: {.notes}
+<aside class="notes">
 The top layers complete the ecosystem. Digital twins simulate manufacturing changes to verify energy and yield trade-offs before physical wafers are ever processed. This turns regulatory demands into an automated, self-correcting driver of actual industrial innovation.
-:::
+</aside>
 
 ---
 
-## Section VI: Conclusion
+## 🎁 Section VI: Conclusion
 
 ### Key Architectural Insights
 
@@ -336,43 +305,37 @@ The top layers complete the ecosystem. Digital twins simulate manufacturing chan
 * **System of Systems Paradigm**: Local process optimization must serve global limits.
 * **Interdependence**: Global research links remain intact despite policy friction.
 
-::: {.notes}
+<aside class="notes">
 In conclusion, our scoping review shows that we must eliminate the silos separating factory floor analytics from ESG compliance. Moving forward, the semiconductor industry must adopt a System of Systems paradigm where local manufacturing optimizations actively support global ecological constraints.
-:::
+</aside>
 
 ---
 
-## Section VI: Conclusion
-
-### Industrial Relevance & Use Cases
+## 🎁 VI: Industrial Relevance & Use Cases
 
 * **IMEC.netzero**: Virtual fab modeling of chemical and energy footprints.
 * **ESMC Dresden Fab**: Embedding EU sustainability mandates into production.
 * **Infineon Smart Power Fab**: Designing circularity directly into operations.
 
-::: {.notes}
+<aside class="notes">
 This architecture is grounded in pioneering 2026 initiatives. For instance, the IMEC netzero platform models process footprints, while the new ESMC fab in Dresden and Infineon’s Smart Power Fab are embedding these exact circular design and compliance flows directly into advanced-node fabs.
-:::
+</aside>
 
 ---
 
-## Section VI: Conclusion
-
-### Standardized Knowledge Transfer
+## 🎁 VI: Standardized Knowledge Transfer
 
 * **Historical Precedent**: Leveraging "Copy Exactly!" and SEMI frameworks.
 * **Modern Expansion**: Extending technical standards to cover sustainability.
 * **Global Value Chain**: Expanding IRDS and ISRS multi-stakeholder workshops.
 
-::: {.notes}
+<aside class="notes">
 The semiconductor sector has always thrived on rigorous, standardized knowledge transfer models like Intel's "Copy Exactly." We must now extend this historical capability to sustainability by expanding multi-stakeholder workshops to build an open, standardized net-zero value chain.
-:::
+</aside>
 
 ---
 
-## Section VI: Conclusion
-
-### Future Research Directions
+## 🎁 VI: Future Research Directions
 
 * **Industrial Pilots**: Testing federated data spaces in cross-border fabs.
 * **Metrology Validation**: Substantiating CBAM disclosures with sensor data.
