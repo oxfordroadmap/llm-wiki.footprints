@@ -1,5 +1,8 @@
+/*-- scss:rules --*/
+
 /* ==========================================================================
    COMPONENT: Title Slide with Custom Micro-Metadata Grid
+   Quarto uses a multi-pass compiler. It looks for -- scss:defaults -- to grab configuration variables (like custom brand colors or fonts) before loading the main theme, and it looks for -- scss:rules -- to append layout structures and overrides after the main theme loads.
    ========================================================================== */
 
 .title-slide-custom {
@@ -11,17 +14,21 @@
   text-align: left !important;
   
   /* Slide Title Scaling */
-  h2 {
-    /*
-    font-size: 1.65em !important; 
+  h2, .title {
+    font-size: 1.25em !important; 
     line-height: 1.25 !important;
-    */
+    font-weight: 800;
+    margin-top: 1.5em !important; /* Spacing clear of the top banner image */
+    margin-bottom: 0.5em !important;
+    text-align: left !important;
+  }
+
+  h3, .subtitle {
+    font-size: 0.9em !important; 
+    line-height: 1 !important;
     font-weight: 700;
-    /*
-    margin-top: 1.5em !important; 
-    */
-    /* Spacing clear of the top banner image */
-    margin-bottom: auto !important;
+    margin-top: 0.5em !important; 
+    margin-bottom: 0.25em !important;
     text-align: left !important;
   }
 
@@ -31,46 +38,52 @@
     font-size: 0.5em; /* Controls base scale of the entire lower block */
     line-height: 1.5;
     
-    .session-info {
+  .session-info {
       display: block;
       font-style: italic;
-      color: #a0a0a0;
+      color: #002147;
       margin-bottom: 1.5rem;
     }
   }
 
-  /* Two-column Author/Logo Grid Configuration */
+/* Two-column Author/Logo Grid Configuration */
   .author-cluster {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 2.5rem;
+    gap: 4rem;                    /* INCREASED gap to stop names from bleeding across columns */
     border-top: 1px solid #3a3a3a;
     padding-top: 1.5rem;
-    align-items: center;
+    align-items: flex-end;        /* CHANGED: Aligns both columns perfectly to the bottom baseline */
+    font-size: 1em;             /* Scales text up for better readability */
 
     .author-card {
       display: flex;
-      align-items: center;
-      gap: 1rem;
+      flex-direction: column;     /* Natural top-to-bottom stack flow */
+      align-items: flex-start;    /* Clean left-alignment for all elements */
+      gap: 1rem;                      /* Spacing between text block and logo */
       
       .author-avatar-group {
         display: flex;
         flex-direction: column;
+        gap: 0.2rem;                  /* Spacing between Line 1 (Name) and Line 2 (Affiliation) */
         
         .name {
-          font-weight: 700;
+          font-weight: 900;
+          font-size: 1.5em;
         }
         .affiliation {
-          font-size: 0.85em;
+          font-weight: 800;
+          font-size: 1.5em; 
         }
       }
 
       /* Uniform Logo Sizing Bounds */
       img.brand-logo {
-        height: 2.2em; 
+        height: 2.2em;            /* Line 3: Perfectly proportioned brand logo height */
         width: auto;
         object-fit: contain;
-        filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.15));
+        margin-top: 0.4rem;       /* Drops the logo cleanly below the affiliation line */
+        filter: none !important;  /* Strip out shadows to keep the brand assets clean */
       }
     }
   }

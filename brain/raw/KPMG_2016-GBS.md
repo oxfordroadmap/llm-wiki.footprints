@@ -195,5 +195,4 @@ kpmg.com/socialmedia
 
 ---
 
-© 2016 KPMG International Cooperative (“KPMG International”), a Swiss entity. Member firms of the KPMG network of independent firms are affiliated with KPMG International. KPMG International provides no client services. No member firm has any authority to obligate or bind KPMG International or any other member firm vis-à-vis third parties, nor does KPMG International have any such authority to obligate or bind any member firm. All rights reserved. The KPMG name and logo are 
-registered trademarks or trademarks of KPMG International. NDPPS 534041
+© 2016 KPMG International Cooperative (“KPMG International”), a Swiss entity. Member firms of the KPMG network of independent firms are affiliated with KPMG International. KPMG International provides no client services. No member firm has any authority to obligate or bind KPMG International or any other member firm vis-à-vis third parties, nor does KPMG International have any such authority to obligate or bind any member firm. All rights reserved. The KPMG name and logo are registered trademarks or trademarks of KPMG International. NDPPS 534041
