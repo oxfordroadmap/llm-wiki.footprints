@@ -5,6 +5,17 @@
   display: none !important;
 }
 
+.slide-background-content {
+    opacity: 0.75 !important;
+}
+
+/* Target the generated background layer specifically for this custom slide class */
+.title-slide-section.slide-background {
+  .slide-background-content {
+    opacity: 0.15 !important; /* Dims the image asset cleanly to 50% transparency */
+  }
+}
+
 /* ==========================================================================
    GLOBAL UTILITIES & MIXINS
    ========================================================================== */
@@ -191,18 +202,13 @@
 /* NEW: Unique constraints for Section Titles with Left-hand images */
 /* FIXED SECTION CONFIGURATION: Shifts layout completely to the right half */
 .title-slide-section {
-  padding-left: 32% !important;   /* Pushes text right to perfectly clear the background graphic */
-  width: 100% !important;         /* Forces layout block to consume full viewport grid width */
   justify-content: center;        /* Centers heading cleanly along vertical axis */
-  
   h2, .title {
-    font-size: 1.25em !important; /* Section titles usually need to be bigger */
-    margin-top: 0 !important;
+    margin-top: 0.5em !important; 
     margin-bottom: 0.2em !important;
   }
-
   h3, .subtitle {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-top: 0.2em !important; 
+    margin-bottom: 0.5em !important;
   }
 }
