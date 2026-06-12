@@ -1,4 +1,16 @@
 /*-- scss:rules --*/
+.title, .subtitle {
+/* Smooth 360-degree white barrier to separate text from background artwork */
+    text-shadow: 
+      -2px -2px 0 #ffffff,  
+       2px -2px 0 #ffffff,
+      -2px  2px 0 #ffffff,
+       2px  2px 0 #ffffff,
+      -3px  0px 4px #ffffff,
+       3px  0px 4px #ffffff,
+       0px  3px 4px #ffffff,
+       0px -3px 4px #ffffff;
+}
 
 /* ==========================================================================
    COMPONENT: Title Slide with Custom Micro-Metadata Grid
@@ -17,8 +29,9 @@
   h2, .title {
     font-size: 1.25em !important; 
     line-height: 1.25 !important;
+    color: #002147 !important; /* Oxford Blue for maximum contrast and brand consistency */
     font-weight: 800;
-    margin-top: 1.5em !important; /* Spacing clear of the top banner image */
+    margin-top: 1em !important; /* Spacing clear of the top banner image */
     margin-bottom: 0.5em !important;
     text-align: left !important;
   }
@@ -27,8 +40,8 @@
     font-size: 0.9em !important; 
     line-height: 1 !important;
     font-weight: 700;
-    margin-top: 0.5em !important; 
-    margin-bottom: 0.25em !important;
+    margin-top: 1em !important; 
+    margin-bottom: 1em !important;
     text-align: left !important;
   }
 
@@ -79,8 +92,8 @@
 
       /* Uniform Logo Sizing Bounds */
       img.brand-logo {
-        height: 2.2em;            /* Line 3: Perfectly proportioned brand logo height */
-        width: auto;
+        width: 2.2em;            /* Line 3: Perfectly proportioned brand logo height */
+        height: auto;
         object-fit: contain;
         margin-top: 0.4rem;       /* Drops the logo cleanly below the affiliation line */
         filter: none !important;  /* Strip out shadows to keep the brand assets clean */
