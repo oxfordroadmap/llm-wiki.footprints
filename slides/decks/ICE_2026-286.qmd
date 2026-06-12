@@ -5,7 +5,9 @@ author: "Karen Ang & Han-Teng Liao"
 date: "2026-06-11"
 format:
   revealjs:
-    theme: beige
+    theme: [sky, custom.scss]
+    width: 1050
+    height: 700
     css: ICE_2026-286.css
     transition: slide
     slide-number: true
@@ -14,19 +16,37 @@ format:
 image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 ---
 
-## Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector
+## Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector {style="font-size: 1.15em; white-space: nowrap;"}{.title-slide-custom background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
-::: {.subtitle style="font-size: 0.45em; line-height: 1.4; margin-top: 2em; color: #a0a0a0;"}
-*Presented at ICE 2026 — Main Session: Technology (TEC 3)*
+::: {.presentation-meta}
+[Presented at ICE 2026 — Main Session: Technology (TEC 3)]{.session-info}
 
-**Karen Ang** (Infineon Technologies) & **Han-Teng Liao** (Independent Researcher)
+::: {.author-cluster}
+
+<!-- Author 1 Block -->
+::: {.author-card}
+<img src="/assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+::: {.author-avatar-group}
+[Karen Ang]{.name}
+[Infineon Technologies]{.affiliation}
 :::
-![logo](/assets/brand/Infineon-Logo.png)
+:::
+
+<!-- Author 2 Block -->
+::: {.author-card}
+<!--<img src="/assets/brand/IEEE-Logo.png" class="brand-logo" alt="IEEE Logo">-->
+::: {.author-avatar-group}
+[Han-Teng Liao]{.name}
+[Independent Researcher]{.affiliation}
+:::
+:::
+
+:::
+:::
 
 <aside class="notes">
-Welcome everyone. My name is Karen Ang, and I am a Senior Researcher at Infineon Technologies. Joining me is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing. Today we will present our scoping review on the intersection of AI, metrology, and ESG in the semiconductor industry, with a focus on implications for Safe and Sustainable by Design.
+Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Technologies based in Malaysia. Joining me is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing. Today we will present our scoping review on the intersection of AI, metrology, and ESG in the semiconductor industry, with a focus on implications for **Safe and Sustainable by Design**, or SSbD. 
 </aside>
-
 
 ---
 
@@ -39,7 +59,7 @@ Welcome everyone. My name is Karen Ang, and I am a Senior Researcher at Infineon
 * **Systemic Volatility**: Geopolitical friction and historical supply chain disruptions.
 
 <aside class="notes">
-Today we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
+Today, with the SSbD both as EU policy and emerging design concept, we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
 </aside>
 
 ---

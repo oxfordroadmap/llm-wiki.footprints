@@ -2,6 +2,9 @@
 # Repository Core Glue: Git File Exclusions
 # ==============================================================================
 
+# --- Reveal.js exports ---
+slides/decks/export/*
+
 # --- System & IDE Glues ---
 .obsidian
 .DS_Store
