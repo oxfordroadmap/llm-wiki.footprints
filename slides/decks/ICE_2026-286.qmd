@@ -23,6 +23,10 @@ format:
     slide-number: true
     chalkboard: true
     show-slide-number: speaker
+    parallax-background-image: "/assets/bg/wide-background-lighter-green.jpg"
+    parallax-background-size: "2400px 1250px"
+    parallax-background-horizontal: 35
+    parallax-background-vertical: 0  
 image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 ---
 
