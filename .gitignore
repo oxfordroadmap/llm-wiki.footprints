@@ -2,6 +2,9 @@
 # Repository Core Glue: Git File Exclusions
 # ==============================================================================
 
+# --- assets ---
+assets/brand/*-original*
+
 # --- Reveal.js exports ---
 slides/decks/export/*
 

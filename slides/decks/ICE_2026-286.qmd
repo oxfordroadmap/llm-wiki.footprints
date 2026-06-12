@@ -1,10 +1,18 @@
 ---
-pagetitle: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
+title: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
+subtitle: "Implications for Safe and Sustainable by Design (SSbD)"
+author: "Karen Ang & Han-Teng Liao"
 date: "2026-06-11"
+categories: ["Semiconductors", "AI", "ESG", "SSbD"]
+pagetitle: "Scoping Review of AI, Metrology, and ESG in the Semiconductor Sector"
 format:
   revealjs:
-    title-slide-attributes:
-      data-visibility: "unrendered"
+    title-slide: false
+    # --- NAVIGATION CONTROL CONTROLS ---
+    controls: true           # Forces the navigation arrows to display in the corner
+    controls-layout: bottom-right # Options: 'bottom-right' (default cluster) or 'edges' (split across viewport)
+    controls-tutorial: true   # Briefly flashes the arrows on load to teach the user 2D vertical navigation
+    controls-back-arrows: faded # Options: 'fader' (dims spent paths), 'hidden', or 'visible'
     theme:
       - sky
       - ../../custom.scss
@@ -18,7 +26,7 @@ format:
 image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 ---
 
-##  {.title-slide-custom background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+##  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 Scoping Review of AI, Metrology, and \
@@ -66,7 +74,7 @@ Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Te
 
 ---
 
-## 🌱 Section I: The Semiconductor Twin Transition
+## 🌱 Section I: The Semiconductor Twin Transition {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 * **Precision Scaling**: Rapidly advancing sub-5 nm processing nodes.
 * **Sustainability Mandates**: Regulatory pressure from EU CBAM and CSDDD.
@@ -108,7 +116,7 @@ As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext a
 
 ---
 
-## 📚 Section II: Literature Review
+## 📚 Section II: Literature Review {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 ### Ecosystem Gaps & The SoS Challenge
 
@@ -122,7 +130,7 @@ Our literature review highlights a massive architectural gap. While models for p
 
 ---
 
-## 🧩 Section III: Methodology
+## 🧩 Section III: Methodology {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 ### Scoping Review & Query Design
 
@@ -162,7 +170,7 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 
 ---
 
-## 👩‍🏫 Section IV: Findings 
+## 👩‍🏫 Section IV: Findings {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 
 <aside class="notes">
@@ -250,7 +258,7 @@ The network topology in Figure 3 confirms this fragmentation. Mainstream semicon
 
 ---
 
-## 🗪 Section V: Discussion
+## 🗪 Section V: Discussion {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 ### Integrating the Research Questions
 
@@ -313,7 +321,7 @@ The top layers complete the ecosystem. Digital twins simulate manufacturing chan
 
 ---
 
-## 🎁 Section VI: Conclusion
+## 🎁 Section VI: Conclusion {.title-slide-section background-image="../../assets/brand/Infineon-Left.png" background-size="100% auto" background-position="left bottom" background-repeat="no-repeat"}
 
 ### Key Architectural Insights
 
@@ -362,7 +370,44 @@ Thank you for your time. Moving forward, we call for industrial pilots to test t
 </aside>
 
 ---
+## Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
-## Thank you
+::: {.title}
+Scoping Review of AI, Metrology, and \
+ESG in the Semiconductor Sector 
+:::
 
-![logo](/assets/brand/Infineon-Logo.png)
+::: {.subtitle}
+Implications for Safe and Sustainable by Design (SSbD)
+:::
+
+::: {.session-info}
+ \
+2026 IEEE ICE/ITMC, Porto — Session: Technology
+::: 
+
+::::: {.presentation-meta}
+
+:::: {.author-cluster}
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
+[Infineon Technologies]{.affiliation}
+:::
+
+<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+:::
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Han-Teng Liao]{.name} [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599){.orcid-num}\
+[Independent Researcher]{.affiliation}
+:::
+
+<img src="../../assets/brand/scvcs-logo.png" class="brand-logo" alt="SCVCS Logo">
+:::
+
+::::
+
+:::::

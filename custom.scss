@@ -1,5 +1,10 @@
 /*-- scss:rules --*/
 
+/* Completely hide the auto-generated title slide */
+#title-slide {
+  display: none !important;
+}
+
 /* ==========================================================================
    GLOBAL UTILITIES & MIXINS
    ========================================================================== */
@@ -22,30 +27,33 @@
    ========================================================================== */
 
 .reveal .slides {
-  h2 {
-    font-size: 1.6em; 
-    line-height: 1.25;
+  h2, .title  {
     color: #002147;   
     font-weight: 800;
-    text-align: left;
+    text-align: center;
+    font-size: 1.25em; 
+    line-height: 1.25em;
     @extend .text-outline-protection; 
   }
 
-  h3 {
-    font-size: 1.1em;
-    line-height: 1.2;
-    font-weight: 700;
+  h3, .subtitle {
     color: #002147;
-    text-align: left;
+    font-weight: 700;
+    text-align: center;
+    font-size: 0.9em !important; 
+    line-height: 1em !important;
     @extend .text-outline-protection; 
   }
 }
 
 /* ==========================================================================
-   COMPONENT: Title Slide with Custom Micro-Metadata Grid
+   COMPONENT: Shared Structural Layout (First, Custom, and Last Slides)
    ========================================================================== */
 
-.title-slide-custom {
+.title-slide-custom, 
+.title-slide-first, 
+.title-slide-last,
+.title-slide-section {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -54,18 +62,12 @@
   text-align: left !important;
   
   h2, .title {
-    font-size: 1.25em !important; 
-    line-height: 1.25em !important;
-    margin-top: 1em !important; 
-    margin-bottom: 0.5em !important;
+    text-align: left !important;
     @extend .text-outline-protection;
   }
 
   h3, .subtitle {
-    font-size: 0.9em !important; 
-    line-height: 1em !important;
-    margin-top: 1em !important; 
-    margin-bottom: 1em !important;
+    text-align: left !important;
     @extend .text-outline-protection;
   }
 
@@ -110,7 +112,6 @@
           display: inline-block;
         }
 
-        /* Fixed: Moved to be a sibling of .name, matching your clean Markdown */
         .orcid-num {
           font-size: 0.85em;         
           font-weight: 900;          
@@ -155,4 +156,53 @@
       }
     } /* Ends .author-card */
   } /* Ends .author-cluster */
-} /* Ends .title-slide-custom */
+} 
+
+
+/* ==========================================================================
+   COMPONENT INDIVIDUAL VARIATIONS (Clean Margin Allocations)
+   ========================================================================== */
+
+/* Spacing rules applied cleanly to your Title variations */
+.title-slide-custom,
+.title-slide-first {
+  h2, .title {
+    margin-top: 1em !important; 
+    margin-bottom: 0.5em !important;
+  }
+  h3, .subtitle {
+    margin-top: 1em !important; 
+    margin-bottom: 1em !important;
+  }
+}
+
+/* Compressed spacing rules applied cleanly to your Concluding slide variation */
+.title-slide-last {
+  h2, .title {
+    margin-top: 0.2em !important; 
+    margin-bottom: 0.2em !important;
+  }
+  h3, .subtitle {
+    margin-top: 0.2em !important; 
+    margin-bottom: 0.2em !important;
+  }
+}
+
+/* NEW: Unique constraints for Section Titles with Left-hand images */
+/* FIXED SECTION CONFIGURATION: Shifts layout completely to the right half */
+.title-slide-section {
+  padding-left: 32% !important;   /* Pushes text right to perfectly clear the background graphic */
+  width: 100% !important;         /* Forces layout block to consume full viewport grid width */
+  justify-content: center;        /* Centers heading cleanly along vertical axis */
+  
+  h2, .title {
+    font-size: 1.25em !important; /* Section titles usually need to be bigger */
+    margin-top: 0 !important;
+    margin-bottom: 0.2em !important;
+  }
+
+  h3, .subtitle {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+}
