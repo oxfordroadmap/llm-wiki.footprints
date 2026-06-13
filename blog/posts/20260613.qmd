@@ -9,7 +9,7 @@ tags: [Semiconductor_Value_Chain, Governance, Computing_Infrastructure]
 bibliography: references.bib
 csl: apa-single-spaced.csl
 image: "/assets/2026_ICE-DCE/Fig.1.png"
-image-alt: `The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber`
+image-alt: "The \"Atom-to-Values\" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber"
 ---
 > The rapid growth of artificial intelligence and advanced chipmaking is driving unprecedented demand for specialized computing infrastructure. Although often viewed as invisible digital services, these technologies rely on complex physical networks of silicon, intensive chemical supply chains, and power grids that strain regional resource thresholds. 
  
