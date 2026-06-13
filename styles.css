@@ -1,8 +1,8 @@
-/* --- Safely Swap Search & Toggle on the Far Right Edge --- */
+* --- Safely Swap Search & Toggle on the Far Right Edge --- */
 /* 1. Target Quarto's navbar logo element */
 .navbar-brand-logo, .navbar-logo {
   /* Force the browser to render the SVG dynamically via content injection */
-  content: url("assets/brand/footprints.cv.svg") !important;
+  content: url("/assets/brand/footprints.cv.svg") !important;
   display: inline-block;
   width: auto;
   height: 80px; /* Adjust this height to match your navbar design */
@@ -17,7 +17,7 @@
   opacity: 0.66 !important;
   
   transition: opacity 0.2s ease-in-out;
-}
+}/
 
 /* Target the paths inside your navbar logo and force them to white */
 .navbar-logo paths, 
