@@ -1,4 +1,37 @@
 /* --- Safely Swap Search & Toggle on the Far Right Edge --- */
+/* 1. Target Quarto's navbar logo element */
+.navbar-brand-logo, .navbar-logo {
+  /* Force the browser to render the SVG dynamically via content injection */
+  content: url("assets/brand/footprints.cv.svg") !important;
+  display: inline-block;
+  width: auto;
+  height: 80px; /* Adjust this height to match your navbar design */
+}
+
+.navbar-logo,
+.navbar-brand-logo img {
+  /* This forcefully flips black to pure white instantly at the browser rendering layer */
+  filter: invert(1) brightness(2) !important;
+  
+  /* Your 66% alpha layer */
+  opacity: 0.66 !important;
+  
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Target the paths inside your navbar logo and force them to white */
+.navbar-logo paths, 
+.navbar-brand-logo svg * {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}
+
+/* 2. Safety fallback to ensure the box has dimensions */
+img.navbar-logo {
+  min-width: 80px; 
+}
+
 
 /* 3. Make the Search icon second-to-last */
 #quarto-search {
