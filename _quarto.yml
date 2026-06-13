@@ -19,6 +19,7 @@ website:
 
   # This section generates targeted navbar styles
   navbar:
+    logo: /assets/brand/footprints.cv.svg
     background: dark        # Injects the "bg-dark" class
     type: dark              # Injects the "data-bs-theme=dark" context
     search: true            # Compiles the "d-flex" search box on the right side

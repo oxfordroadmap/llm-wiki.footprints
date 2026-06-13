@@ -14,6 +14,39 @@ By keeping sensitive datasets, raw research notes, and intellectual properties d
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+## Knowledge Bases for SCVCS 
+
+Knowledge Bases for [SSbD Chips Value Chain Services (SCVCS)](https://scvcs.footprints.cv/):
+
+::: {#pillarCarousel2 .carousel .slide data-bs-ride="carousel" data-bs-interval="3000"}
+
+::: {.carousel-indicators style="margin-bottom: -1rem;"}
+<button type="button" data-bs-target="#pillarCarousel2" data-bs-slide-to="0" class="active" aria-current="true" style="background-color: #0078D4;"></button>
+<button type="button" data-bs-target="#pillarCarousel2" data-bs-slide-to="1" style="background-color: #F0AD4E;"></button>
+<button type="button" data-bs-target="#pillarCarousel2" data-bs-slide-to="2" style="background-color: #28A745;"></button>
+:::
+
+::: {.carousel-inner .border .rounded .shadow-sm .text-center}
+
+::: {.carousel-item .active style="min-height: 160px; padding: 1.25rem 6rem; background-color: #E8F4F8; border-left: 6px solid #0078D4;"}
+LLM-wiki.footprints.cv **explores the management of water, energy, and material footprints** across the entire lifecycle of advanced computing infrastructure, from raw material extraction to end-of-life disposal, with [wiki](https://llm-wiki.footprints.cv/knowledge/), [blog posts](https://llm-wiki.footprints.cv/blog/), and [slides](https://llm-wiki.footprints.cv/slides/).
+:::
+
+::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #FFF4E6; border-left: 6px solid #F0AD4E;"}
+LLM-wiki.footprints.cv **supports the development of SSbD Chips Value Chain Services (SCVCS)** as emerging [Global Business Services (GBS)](https://GBS.today) domain. 
+:::
+
+::: {.carousel-item style="min-height: 160px; padding: 1.25rem 6rem; background-color: #E8F5E9; border-left: 6px solid #28A745;"}
+LLM-wiki.footprints.cv covers the knowledge bases, while **[SCVCS.footprints.cv](https://SCVCS.footprints.cv)** documents the service offerings, use cases, and client engagements.
+:::
+
+:::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#pillarCarousel2" data-bs-slide="prev" style="width: 5%;"><span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(1); opacity: 0.4;"></span></button>
+<button class="carousel-control-next" type="button" data-bs-target="#pillarCarousel2" data-bs-slide-to="next" style="width: 5%;"><span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(1); opacity: 0.4;"></span></button>
+
+:::
+
 ## Mission: Experimental & Academic Validation
 
 The core mission of this repository is to experimentally evaluate advanced personal knowledge management (PKM) frameworks and make these tools accessible to the general public. 
