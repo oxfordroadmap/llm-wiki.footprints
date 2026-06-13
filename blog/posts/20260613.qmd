@@ -1,0 +1,128 @@
+---
+title: "Orchestrating Chips and Compute: A System-of-Systems Challenge for SSbD Petrochemical Supply Chains for AI and Semiconductor Sectors"
+subtitle: "Anticipating the Human-Agentic Opportunities for Sustainable Semiconductor and AI Sectors"
+author: "Han-Teng Liao"
+date: "2026-06-13"
+categories: [Ideation, Investment]
+keywords: [SSbD, Semiconductor, Industry 5.0, Twin Transition, System of Systems, Circular Economy, RegTech, Digital Product Passports, Regenerative AI, Chips and Compute]
+tags: [Semiconductor_Value_Chain, Governance, Computing_Infrastructure]
+bibliography: references.bib
+csl: apa-single-spaced.csl
+image: "/assets/2026_ICE-DCE/Fig.1.png"
+image-alt: `The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber`
+---
+> The rapid growth of artificial intelligence and advanced chipmaking is driving unprecedented demand for specialized computing infrastructure. Although often viewed as invisible digital services, these technologies rely on complex physical networks of silicon, intensive chemical supply chains, and power grids that strain regional resource thresholds. 
+ 
+The proposed project reviews recent breakthrough research to explain how the coordination of chips, high-performance compute clusters, and utility networks can be governed as a unified system of systems. It argues that the computing sector must adopt "Safe and Sustainable by Design" (SSbD) frameworks that leverage automated tracking and digital product passports to ensure active transparency and planetary accountability as digital demand continues to expand.
+
+This ongoing project presents its preliminary research outcomes [@Liao-2026-ICE-DCE] and seeks to expand them into a systematic review of 15–20 recent core studies alongside a foundational Regenerative Socio-Technical (RST) roadmap. Ultimately, it aims to build an Industry 5.0 RegTech and FinTech roadmap toward a modern nervous system using a **System of Systems (SoS)** approach.
+
+Building upon the material perspectives of the ever-expanding, **carbon-hungry cloud** [@Monserrate_2022-Cloud-is-Material], this project examines how the latest research **raises** and **answers** questions regarding how **autonomous data center** power infrastructure supports smart, sustainable power distribution [@Parikh_2025-Power_Distri_Opti_Hyperscale; @Ahrabi_2025-SusTech-energy_management_survey], and how the use of local resources poses challenges for local governments [@Young_2026-Clouds_Horizon]. Furthermore, it explores how these infrastructures** intensify geopolitical tensions with implications for the **political economy of communications and platforms** [@Hoskins_2026-Compute_Geopolitics_Hyperscale], how **operational computational performance (FLOPS) and economic costs** can be framed and assessed [@Jones_2026-Megawatts-Zetta-flops-TechnoEconomic], and how their **lifecycle carbon emissions and energy consumption** are quantified and measured [@Guidi_2026-US_hyperscale_data_centers].
+
+---
+
+## 🤝 For Research Collaborators:
+
+We invite academic and industrial partners specializing in **computers and society**, **circular digital economy**, **green manufacturing** and **cyber-physical systems** to co-author and expand this systematic review, while exploring funding opportunities.
+
+### Manuscript Submission Proposal
+
+- Title: **Cooler (and greener) chips and computes**
+- Subtitle: **Challenges and opportunities toward a digital circular economy**
+
+#### Abstract
+
+The unconstrained scaling trajectories of frontier Artificial Intelligence (AI) and advanced chipmaking, dominated by linear supply-side "stacks," prioritize raw computational throughput and rapid tokenomics while externalizing compounding thermodynamic liabilities, intensive water depletion, and severe electronic waste (e-waste) accumulation. This systematic review evaluates a foundational Regenerative Socio-Technical (RST) roadmap alongside 15 recent breakthrough papers to bridge the expanding sustainability-scaling gap within the digital circular economy.
+
+This paper synthesizes current research across three vital dimensions of metabolic infrastructure and asset governance. First, it investigates the complex System of Systems (SoS) challenge of orchestrating advanced hardware, high-throughput compute clusters, regional energy networks, and multi-tier chemical supply chains. Second, it examines the development of automated metabolic governance frameworks engineered to dynamically align computational workloads with real-time regional utility capacities and material constraints. Third, it analyzes the deployment of Regulatory Technology (RegTech) and Digital Product Passports (DPPs) to establish end-to-end transparency, actual emissions logging, and material traceability across fragmented global value chains.
+
+By transforming infrastructure management from retroactive corporate social responsibility reporting into proactive compliance with strict global mandates—such as the EU Carbon Border Adjustment Mechanism (CBAM), Corporate Sustainability Due Diligence Directive (CSDDD), and Safe-and-Sustainable-by-Design (SSbD) guidelines—this review demonstrates how human-agentic industrial frameworks can foster global supply chain resilience, resource parsimony, and planetary accountability.
+
+#### Keywords
+
+Safe-and-Sustainable-by-Design (SSbD), Semiconductor Value Chain, System of Systems (SoS), Digital Circular Economy, Metabolic Governance, RegTech, Digital Product Passports (DPPs)
+
+#### Core Research Highlights
+
+* This review synthesizes 15–20 core studies to transition AI infrastructure and advanced computing from extractive **"electrons-to-tokens" pipelines to circular "atoms-to-values" circuits**.
+* The unified orchestration of chips, high-performance compute architectures, energy micro-grids supporting **"cores-to-grids,"** and chemical **resources within green global value chains** is reframed as a critical, multi-scalar System of Systems (SoS) challenge.
+* Automated **metabolic governance frameworks** are evaluated for their capacity to dynamically balance high-throughput computing demand with localized utility thresholds and multi-tier material streams.
+* **Digital Product Passports (DPPs) and RegTech integration** enable verified, line-by-line actual emissions and material lifecycle tracking across semiconductor value chains, offering a pathway to **bridge European and Asian economies** while addressing **cross-regional and cross-lingual challenges and opportunities**.
+* Actionable socio-technical blueprints **align** advanced digital **infrastructure scaling** with  **global regulatory mandates**, including CBAM, CSDDD, and Safe-and-Sustainable-by-Design (SSbD) guidelines.
+
+
+::: {.callout-info}
+
+## 🌟 Journal Candidates
+
+- [Green Energy & Environment](https://www.keaipublishing.com/en/journals/green-energy-and-environment/)
+- [Internet of Things and Cyber-Physical Systems](https://www.sciencedirect.com/journal/internet-of-things-and-cyber-physical-systems)
+- [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)
+
+:::
+
+---
+
+## 💼 Investment Implications for Global Leaders
+
+Timely investments in metabolic compute architectures offer a strategic pathway to mitigate localized resource gridlock while securing proactive compliance with emerging global sustainability mandates. To transition these socio-technical insights into institutional execution, corporate executives and engineering managers must navigate serious financial and structural tradeoffs. 
+
+Moving from static corporate social responsibility reporting to live, bounded utility management requires addressing several critical budget and deployment questions:
+
+* **Legacy Integration vs. Sovereign Data Connectors:** What percentage of our capital expenditure (CapEx) should be allocated to retrofitting automated data connectors into deeply siloed, legacy manufacturing systems versus building agile, interoperable AI compliance agents from scratch? 
+* **Managing Regional Grid Ceilings:** How will our infrastructure budget absorb localized grid enforcement caps, and what is the financial payback period for investing in localized energy communities and automated metabolic governors to buffer compute-driven load profiles?
+* **The Double-Reporting Trap for Upstream Suppliers:** How can we best fund and support specialized compliance personnel for tier-1 chemical and petrochemical suppliers to ensure a smooth transition from default carbon values to verified, line-by-line actual data profiles without disrupting high manufacturing yields? 
+* **Amortizing Embodied Footprints:** Are our asset lifecycle accounting models properly structured to amortize the massive embodied carbon and e-waste footprint of advanced hardware over realistic, extended operational lifespans, or are short replacement cycles turning our rapid model deployments into severe unmitigated ecological liabilities? 
+* **Supply Chain Ethics and Material Integrity:** What mechanisms are funded within our procurement systems to audit higher-order socio-economic externalized costs, including rare-earth mineral extraction networks and human-agentic validation teams, ensuring total alignment with regional and global sustainable governance frameworks?
+
+## ✅ Status
+
+-  [x] Extended Abstract: This blog post.
+-  [x] Conference Paper:  [@Liao-2026-ICE-DCE][10.48550/arXiv.2606.10544](https://doi.org/10.48550/arXiv.2606.10544) | slides [From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries](https://llm-wiki.footprints.cv/slides/decks/ICE_2026-401.html#/title-slide)
+-  [x] LLM-Wiki: [regenerative-socio-technical-framework – LLM-wiki Footprints](https://llm-wiki.footprints.cv/knowledge/concepts/regenerative-socio-technical-framework.html) 
+-  [ ] Online Bibliography
+-  [ ] Systematic Review
+-  [ ] Scientometric Horizon Scanning Report
+
+```{mermaid}
+flowchart LR
+    %% Node Definitions
+    A[Extended Abstract]
+    B[Conference Paper]
+    C[LLM-Wiki]
+    D[Online Bibliography]
+    E[Systematic Review]
+    F[Scientometric Horizon Scanning Report]
+
+    %% Progression Pipeline
+    A -->|Collaboration and Expansion| B
+    B -->|Knowledge Ingestion & Peer Review| C
+    C -->|Metadata & Citation Curation| D
+    D -->|Synthesis & Qualitative Evaluation| E
+    E -->|Quantitative Mapping & Frontier Tracking| F
+
+    %% Stylings for Scannability
+    style A fill:#f4f4f6,stroke:#718096,stroke-width:1px
+    style B fill:#edf2f7,stroke:#4a5568,stroke-width:1.5px
+    style C fill:#ebf8ff,stroke:#2b6cb0,stroke-width:1.5px
+    style D fill:#e6fffa,stroke:#2c7a7b,stroke-width:1.5px
+    style E fill:#feebc8,stroke:#c05621,stroke-width:2px
+    style F fill:#ebf8ff,stroke:#2b6cb0,stroke-width:2.5px,stroke-dasharray: 5 5
+```
+
+---
+
+## 📌 References
+
+The foundational frameworks for this analysis are derived from ongoing roadmap developments within the semiconductor sustainability community [@Liao-2026-ICE-DCE].
+
+<!--
+
+@misc{liao2026electrons,
+  author       = {SCVCS},
+  title        = {From "Electrons-to-Tokens" Stacks to "Atoms-to-Values" Circuits},
+  howpublished = {Safe-and-Sustainable-by-Design (SSbD) Chips Value Chain Services (SCVCS) Initiative Press Release},
+  year         = {2026},
+  month        = {June}
+}
+-->
