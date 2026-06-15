@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-11
 updated: 2026-06-11
-sources: ["[[brain/raw/_IDS_Agentic_Current_Version|_IDS_Agentic_Current_Version]]"]
+sources: ["[[sources/_IDS_Agentic_Current_Version]]"]
 tags: [organization]
 aliases:
   - "LCY"

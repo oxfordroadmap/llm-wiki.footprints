@@ -5,7 +5,7 @@ updated: 2026-06-11
 sources:
   - "[[sources/_id-372_current_version]]"
   - "[[sources/_ID-372_Current_Version]]"
-  - "[[brain/raw/_IDS_Agentic_Current_Version.md]]"
+  - "[[sources/_IDS_Agentic_Current_Version]]"
 tags:
   - "technology"
 aliases:

@@ -4,8 +4,8 @@ created: 2026-06-10
 updated: 2026-06-11
 sources:
   - "[[sources/_ID-306_Current_Version]]"
-  - "[[brain/raw/_IDS_Agentic_Current_Version.md]]"
-  - "[[brain/raw/KPMG_2016-GBS.md]]"
+  - "[[sources/_IDS_Agentic_Current_Version]]"
+  - "[[sources/KPMG_2016-GBS]]"
 tags:
   - "organization"
 aliases:

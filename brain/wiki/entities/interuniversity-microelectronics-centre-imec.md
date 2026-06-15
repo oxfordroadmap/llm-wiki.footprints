@@ -4,7 +4,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources:
   - "[[sources/_id-286_current_version]]"
-  - "[[concepts/statistical-process-control|Metrology]]"
+  - "[[concepts/statistical-process-control]]"
   - "[[sources/and ESG in Semiconductors]]"
   - "[[sources/SSbD Semiconductor Scoping Review]]]]"
   - "[[sources/_ID-286_Current_Version]]"

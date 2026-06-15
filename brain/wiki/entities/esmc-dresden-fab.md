@@ -6,7 +6,7 @@ sources:
   - "[[sources/_id-286_current_version]]"
   - "[[sources/_ID-372_Current_Version]]"
   - "[[sources/_ID-286_Current_Version]]"
-  - "[[brain/raw/_IDS_Agentic_Current_Version.md]]"
+  - "[[sources/_IDS_Agentic_Current_Version]]"
 tags:
   - "organization"
 aliases:

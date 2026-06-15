@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-11
 updated: 2026-06-11
-sources: ["[[brain/raw/KPMG_2016-GBS.md]]"]
+sources: ["[[sources/KPMG_2016-GBS]]"]
 tags: [organization]
 aliases:
   - "KPMG International"

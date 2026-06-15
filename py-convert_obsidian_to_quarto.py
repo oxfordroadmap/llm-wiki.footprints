@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-convert_obsidian_to_quarto.py
+py-convert_obsidian_to_quarto.py
 
 Copies an Obsidian .md vault to a Quarto output folder,
 rewriting [[wiki links]] to [label](path.qmd) along the way.

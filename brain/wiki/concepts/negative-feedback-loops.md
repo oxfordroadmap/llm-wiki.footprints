@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-11
 updated: 2026-06-11
-sources: ["[[sources/_ids_agentic_current_version|_ids_agentic_current_version]]"]
+sources: ["[[sources/_ids_agentic_current_version]]"]
 tags: [theory]
 aliases:
   - "Control loops"

@@ -2,7 +2,7 @@
 type: entity
 created: 2026-06-10
 updated: 2026-06-10
-sources: ["[[sources/_id-286_current_version]]", "[[sources/_id-286_current_version|_id-286_current_version]]]]"]
+sources: ["[[sources/_id-286_current_version]]"]
 tags: [project]
 aliases:
   - "Cross-domain Architecture for Data Exchange"

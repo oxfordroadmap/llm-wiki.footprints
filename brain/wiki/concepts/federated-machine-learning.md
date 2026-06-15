@@ -4,9 +4,8 @@ created: 2026-06-10
 updated: 2026-06-10
 sources:
   - "[[sources/_id-286_current_version]]"
-  - "[[concepts/virtual-metrology|Metrology]]"
-  - "[[concepts/esg-compliance|ESG in Semiconductors]]"
-  - "[[sources/_id-286_current_version|SSbD Semiconductor Scoping Review]]]]"
+  - "[[concepts/virtual-metrology]]"
+  - "[[concepts/esg-compliance]]"
   - "[[sources/_ID-286_Current_Version]]"
   - "[[sources/_ID-372_Current_Version]]"
 tags:

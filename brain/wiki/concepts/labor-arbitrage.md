@@ -2,7 +2,7 @@
 type: concept
 created: 2026-06-11
 updated: 2026-06-11
-sources: ["[[sources/kpmg_2016-gbs|kpmg_2016-gbs]]"]
+sources: ["[[sources/kpmg_2016-gbs]]"]
 tags: [method]
 aliases:
   - "Labor Arbitrage"

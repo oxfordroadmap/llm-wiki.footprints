@@ -4,7 +4,7 @@ created: 2026-06-10
 updated: 2026-06-11
 sources:
   - "[[sources/_ID-306_Current_Version]]"
-  - "[[brain/raw/KPMG_2016-GBS.md]]"
+  - "[[sources/KPMG_2016-GBS]]"
 tags:
   - "technology"
 aliases:

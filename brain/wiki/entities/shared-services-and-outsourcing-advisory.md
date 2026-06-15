@@ -3,8 +3,8 @@ type: entity
 created: 2026-06-11
 updated: 2026-06-11
 sources:
-  - "[[sources/kpmg_2016-gbs|kpmg_2016-gbs]]"
-  - "[[brain/raw/KPMG_2016-GBS.md]]"
+  - "[[sources/kpmg_2016-gbs]]"
+  - "[[sources/KPMG_2016-GBS]]"
 tags:
   - "organization"
 aliases:
