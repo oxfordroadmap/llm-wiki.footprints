@@ -77,8 +77,6 @@ Implications for Safe and Sustainable by Design (SSbD)
 Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Technologies based in Malaysia. Joining me is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing. Today we will present our scoping review on the intersection of AI, metrology, and ESG in the semiconductor industry, with a focus on implications for **Safe and Sustainable by Design**, or SSbD. 
 </aside>
 
----
-
 # 🌱 Section I: The Semiconductor Twin Transition {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 * **Precision Scaling**: Rapidly advancing sub-5 nm processing nodes.
@@ -132,7 +130,6 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data. This motivates our research with objectives outlined for real-time manufacturing processes. 
 </aside>
 
----
 
 # 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
@@ -148,7 +145,6 @@ Ecosystem Gaps & The SoS Challenge
 Our literature review highlights a massive architectural gap. While models for phased industrial migrations exist, process-level data does not propagate down to regulatory platforms. We argue that metrology, AI analytics, and ESG compliance must be treated as interdependent services within a unified System of Systems framework.
 </aside>
 
----
 
 # 🧩 Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
