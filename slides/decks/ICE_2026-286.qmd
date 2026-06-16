@@ -201,23 +201,7 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 :::
 
 > Table IV. Top Affiliations: WoS vs Scopus
-
-|   |   |   |   |   |
-|Web of Science|   |Scopus|   |   |
-|---|---|---|---|---|
-|Affiliation|N|Affiliation|N||
-|National Tsing Hua University|13|Infineon Technologies Ag|26||
-|Chinese Academy of Sciences|12|Interuniversity Microelectronics Centre (IMEC)|24||
-|University of Texas System|10|Chinese Academy of Sciences|16||
-|National Taipei University of Technology|9|Samsung Electronics Co., Ltd.|15||
-|State University System of Florida|8|Arizona State University|15||
-|Arizona State University|6|National Tsing Hua University|14||
-|Arizona State University Tempe|6|ASML Netherlands Bv|14||
-|Myongji University|6|Intel Corporation|13||
-|National Taiwan University|6|Centre National De La Recherche Scientifique (CNRC)|12||
-|Samsung|6|Stmicroelectronics Sa, France|12||
-|Seoul National University|6|Siemens Eda|11||
-|University of Florida|6|Nova Measuring Instruments|11||
+![](/assets/2026_ICE-SSbD/Table-IV.jpeg)
 
 <aside class="notes">
 Table IV outlines major industry stakeholders in Scopus. Affiliations such as Infineon Technologies, ASML Netherlands, Intel, Samsung Electronics, STMicroelectronics, Siemens EDA, and Nova Measuring Instruments dominate
