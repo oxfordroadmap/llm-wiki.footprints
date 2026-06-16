@@ -191,37 +191,17 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science provided a highly curated academic sample with strong keyword depth. Scopus captured active, industrial knowledge cycles, contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity.
 </aside>
 
----
+
+
+# 👩‍🏫 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ::: {.subtitle}
-🧩 III-E: Metrics
+👩‍🏫 IV.A: Institutional Affiliation
 :::
 
 > Table IV. Top Affiliations: WoS vs Scopus
 
 ![Fig 5](/assets/2026_ICE-SSbD/Table-IV.jpeg){width="75%" fig-align="center"}
-
-<aside class="notes">
-Table IV outlines major industry stakeholders in Scopus. Affiliations such as Infineon Technologies, ASML Netherlands, Intel, Samsung Electronics, STMicroelectronics, Siemens EDA, and Nova Measuring Instruments dominate
-</aside>
-
----
-
-# 👩‍🏫 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
-
-::: {.subtitle}
-👩‍🏫 IV-A: Institutional Affiliation
-:::
-
-| Web of Science (Academic Focus) | Scopus (Industrial Focus) |
-| :--- | :--- |
-| National Tsing Hua University ($N=13$) | Infineon Technologies Ag ($N=26$) |
-| Chinese Academy of Sciences ($N=12$) | IMEC ($N=24$) |
-| University of Texas System ($N=10$) | Chinese Academy of Sciences ($N=16$) |
-| National Taipei University ($N=9$) | Samsung Electronics ($N=15$) |
-| State University of Florida ($N=8$) | ASML Netherlands Bv ($N=14$) |
-
-*Note: Data from Table IV.*
 
 <aside class="notes">
 Our institutional mapping in Table 4 exposed a severe structural hole. Academic networks in Web of Science focus heavily on fundamental modeling. Meanwhile, Scopus is dominated by corporate heavyweights like Infineon, IMEC, and ASML. There is an absence of formal mechanisms translating university research into industrial practice.
