@@ -135,6 +135,8 @@ Ecosystem Gaps & The SoS Challenge
 Our literature review highlights a massive architectural gap. While models for phased industrial migrations exist, process-level data does not propagate down to regulatory platforms. We argue that metrology, AI analytics, and ESG compliance must be treated as interdependent services within a unified System of Systems framework.
 </aside>
 
+---
+
 # 🧩 Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ::: {.subtitle}
@@ -158,7 +160,9 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 
 ---
 
-## 🧩 III-D.E: Dataset & Metrics
+::: {.subtitle}
+🧩 III-D.E: Dataset & Metrics
+:::
 
 | Category / Metric | Web of Science | Scopus |
 | :--- | :--- | :--- |
@@ -168,13 +172,46 @@ To find a solution, we executed a scoping review in March 2026 across Web of Sci
 | Document Average Age | 4.86 years | 8.19 years |
 | Conference Papers | 6 | 540 |
 | Articles | 318 | 452 |
-
 *Note: Data from Table III.*
+
+1,465 total documents analyzed. 
+- Web of Science: academic sample with strong keyword depth
+- Scopus: active, industrial knowledge cycles contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity
 
 <aside class="notes">
 Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science provided a highly curated academic sample with strong keyword depth. Scopus captured active, industrial knowledge cycles, contributing a substantial volume of 540 conference papers highlighting real-world, corporate R&D activity.
 </aside>
 
+---
+
+::: {.subtitle}
+🧩 III-E: Metrics
+:::
+
+> Table IV. Top Affiliations: WoS vs Scopus
+
+|   |   |   |   |   |
+|Web of Science|   |Scopus|   |   |
+|---|---|---|---|---|
+|Affiliation|N|Affiliation|N||
+|National Tsing Hua University|13|Infineon Technologies Ag|26||
+|Chinese Academy of Sciences|12|Interuniversity Microelectronics Centre (IMEC)|24||
+|University of Texas System|10|Chinese Academy of Sciences|16||
+|National Taipei University of Technology|9|Samsung Electronics Co., Ltd.|15||
+|State University System of Florida|8|Arizona State University|15||
+|Arizona State University|6|National Tsing Hua University|14||
+|Arizona State University Tempe|6|ASML Netherlands Bv|14||
+|Myongji University|6|Intel Corporation|13||
+|National Taiwan University|6|Centre National De La Recherche Scientifique (CNRC)|12||
+|Samsung|6|Stmicroelectronics Sa, France|12||
+|Seoul National University|6|Siemens Eda|11||
+|University of Florida|6|Nova Measuring Instruments|11||
+
+<aside class="notes">
+Table IV outlines major industry stakeholders in Scopus. Affiliations such as Infineon Technologies, ASML Netherlands, Intel, Samsung Electronics, STMicroelectronics, Siemens EDA, and Nova Measuring Instruments dominate
+</aside>
+
+---
 
 # 👩‍🏫 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
