@@ -119,9 +119,13 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data.
 </aside>
 
+---
+
 # 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### Ecosystem Gaps & The SoS Challenge
+::: {.title}
+Ecosystem Gaps & The SoS Challenge
+:::
 
 * **Industry 3.5 to 4.0**: Phased migrations over abrupt transitions.
 * **Green Digital Transformation**: Linking natural, business, and digital assets.
