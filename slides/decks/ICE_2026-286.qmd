@@ -16,7 +16,7 @@ format:
     controls-tutorial: true   # Briefly flashes the arrows on load to teach the user 2D vertical navigation
     controls-back-arrows: faded # Options: 'fader' (dims spent paths), 'hidden', or 'visible'
     theme:
-      - sky
+      - simple
       - ../../custom.scss
     width: 1050
     height: 700
