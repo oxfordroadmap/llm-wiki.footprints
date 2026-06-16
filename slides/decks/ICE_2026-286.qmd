@@ -94,6 +94,7 @@ Today, with the SSbD both as EU policy and emerging design concept, we look at t
 ## 🌱 I.A Motivation: GRC Landscapes & SSbD
 
 ![JRC SSbD framework](https://joint-research-centre.ec.europa.eu/sites/default/files/styles/embed_large_2x/public/2024-07/fig1.png?itok=Itu4Yb4Z)
+
 > Note. The above image is not in the paper but [sourced directly from the EC JRC site](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/designing-safer-and-more-sustainable-chemicals-and-materials-methodological-guidance-2024-07-11_en).
 
 * **GRC**: Governance, Risk, and Compliance alignment strategies.
@@ -201,7 +202,8 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 :::
 
 > Table IV. Top Affiliations: WoS vs Scopus
-![](/assets/2026_ICE-SSbD/Table-IV.jpeg)
+
+![Fig 5](/assets/2026_ICE-SSbD/Table-IV.jpeg){width="75%" fig-align="center"}
 
 <aside class="notes">
 Table IV outlines major industry stakeholders in Scopus. Affiliations such as Infineon Technologies, ASML Netherlands, Intel, Samsung Electronics, STMicroelectronics, Siemens EDA, and Nova Measuring Instruments dominate
