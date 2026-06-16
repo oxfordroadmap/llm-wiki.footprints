@@ -79,7 +79,7 @@ Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Te
 
 ---
 
-## 🌱 Section I: The Semiconductor Twin Transition {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+# 🌱 Section I: The Semiconductor Twin Transition {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 * **Precision Scaling**: Rapidly advancing sub-5 nm processing nodes.
 * **Sustainability Mandates**: Regulatory pressure from EU CBAM and CSDDD.
@@ -91,7 +91,10 @@ Today, with the SSbD both as EU policy and emerging design concept, we look at t
 
 ---
 
-## 🌱 I. Evolving GRC Landscapes & SSbD
+## 🌱 I.A Motivation: GRC Landscapes & SSbD
+
+![JRC SSbD framework](https://joint-research-centre.ec.europa.eu/sites/default/files/styles/embed_large_2x/public/2024-07/fig1.png?itok=Itu4Yb4Z)
+> Note. The above image is not in the paper but [sourced directly from the EC JRC site](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/designing-safer-and-more-sustainable-chemicals-and-materials-methodological-guidance-2024-07-11_en).
 
 * **GRC**: Governance, Risk, and Compliance alignment strategies.
 * **SSbD Framework**: Safe and Sustainable by Design material lifecycle safety.
@@ -103,7 +106,7 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 
 ---
 
-## 🌱 I. Current RegTech Service Ecosystem
+## 🌱 I.B Objective. Current RegTech Service Ecosystem
 
 | Platform | Core Functionality | Standards Alignment | CBAM Relevance |
 | :--- | :--- | :--- | :--- |
@@ -115,8 +118,17 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 
 *Note: Data from Table I.*
 
+> How can a scoping review inform the SSbD-aligned architectures integrating AI, metrology, and ESG compliance in semiconductor manufacturing? 
+
+**Objectives**:
+
+- 1 – Integration
+- 2 – Constraints and Gaps
+- 3 - System-Level Efficiency and Assurance
+
+
 <aside class="notes">
-As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data.
+As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data. This motivates our research with objectives outlined for real-time manufacturing processes. 
 </aside>
 
 ---
