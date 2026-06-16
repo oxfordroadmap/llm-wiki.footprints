@@ -363,7 +363,9 @@ The top layers complete the ecosystem. Digital twins simulate manufacturing chan
 
 # 🎁 Section VI: Conclusion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-## 🎁 VI: Key Architectural Insights
+::: {.subtitle}
+Toward Intelligent, Sustainable, and Scalable manufacturing
+::: 
 
 * **Silo Elimination**: Merging factory analytics with ESG reporting.
 * **System of Systems Paradigm**: Local process optimization must serve global limits.
