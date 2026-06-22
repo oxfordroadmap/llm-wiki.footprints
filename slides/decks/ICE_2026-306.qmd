@@ -256,13 +256,13 @@ Thematic Evolution Materialization
 ::: {.panel-tabset}
 
 ### Fig 4a
-![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpg){fig-alt="Fig 4a" width="100%"}
+![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpeg){fig-alt="Fig 4a" width="100%"}
 
 ### Fig 4b
-![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpg){fig-alt="Fig 4b" width="100%"}
+![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpeg){fig-alt="Fig 4b" width="100%"}
 
 ###  Fig 4c
-![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpg){fig-alt="Fig 4c" width="100%"}
+![Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpeg){fig-alt="Fig 4c" width="100%"}
 
 :::
 
@@ -282,7 +282,7 @@ Tracing evolutionary pathways across three periods reveals a clear mutation. The
 ## 👩‍🏫 Section IV: Findings
 
 ::: {.subtitle}
-Strategic Map: Niche Trajectories
+Strategic Map: Niche Trajectories: Fig 4a-c
 :::
 
 ::: {.r-stack .thematic-carousel}
@@ -304,7 +304,7 @@ Our strategic map visualizes current niche trajectories across the regime quadra
 ## 👩‍🏫 Section IV: Findings
 
 ::: {.subtitle}
- Global Research Network & Nodes
+ Global Research Network & Nodes: Fig 5a-c
 :::
 
 ::: {.r-stack .thematic-carousel}
