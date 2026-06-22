@@ -30,16 +30,83 @@ format:
 image: /assets/2026_ICE-Porto_GBS/Fig.6.png
 ---
 
-## 🌱 Section I: Introduction
+#  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
-### Structural Realignment & Digital Resonance
+::: {.title}
+Orchestrating the Twin Transition in Multinational Corporations
+:::
 
-* **Digital Resonance**: Transitioning from traditional labor arbitrage to high-tech capability.
-* **Living Laboratories**: GBS units as testing hubs for green and digital transformation.
-* **Beyond Cost Centers**: Strategic upgrading to navigate a volatile multipolar economy.
+::: {.subtitle}
+Technology Roadmapping for Green and Digital Global Business Services
+:::
+
+::: {.session-info}
+RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed.
+::: 
+
+::::: {.presentation-meta}
+
+:::: {.author-cluster}
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Han-Teng Liao]{.name} [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599){.orcid-num}\
+[Independent Researcher]{.affiliation}
+:::
+
+<img src="../../assets/brand/scvcs-logo.png" class="brand-logo" alt="SCVCS Logo">
+:::
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
+[Infineon Technologies]{.affiliation}
+:::
+
+<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+:::
+
+::::
+
+:::::
 
 <aside class="notes">
-Welcome everyone. Today we examine the orchestration of the Twin Transition through Global Business Services. GBS units are no longer merely transactional outsourcing operations; they have emerged as vital living laboratories that bridge the technical execution of AI and sustainability initiatives inside multinational corporations.
+Welcome everyone. My name is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing services. Today on behalf my co-author, I will present our Technology Roadmapping for Green and Digital Global Business Services (or GBS for short), with a focus on the global semiconductor value chains. Today we examine the orchestration of the Twin Transition through Global Business Services.
+</aside>
+
+---
+
+## 🌱 Section I: Introduction
+
+### Context: Structural Realignment & Digital Resonance
+
+::: {.subtitle}
+2026 GBS Landscape: Ecosystem Maturity
+:::
+
+![Table.I](/assets/2026_ICE-Porto_GBS/Table.I.jpg)
+
+*   **Digital Resonance:** Realignment toward high-tech automation and cybersecurity, superseding labor arbitrage.
+*   **Twin Transition:** GBS hubs as "living laboratories" harmonizing technical execution with sustainability.
+*   **Innovation Ecosystems:** Poland, Portugal, and Malaysia operationalizing transitions at scale.
+
+<aside class="notes">
+Global service delivery is undergoing a structural realignment toward "digital resonance," superseding traditional labor arbitrage. Hubs in Poland, Portugal, and Malaysia now act as "living laboratories" for the Twin Transition, employing nearly one million professionals. These nations have upgraded into national innovation ecosystems, functioning as the Silicon Valleys of Central Europe and the East.
+</aside>
+
+---
+
+## 🌱 Section I: Introduction
+
+### I.B Motivation & I.C Objectives
+
+*   **Inflection Point:** Obsolescence of "lift and shift" models in favor of "lean orchestration" and process normalization.
+*   **The Leadership Gap:** Transition is governed by the "human factor," where executive ROI expectations often clash with organizational inertia.
+*   **Operational Airlocks:** Hubs insulate global value chains from U.S.-China bifurcation while mitigating middle-income traps through high-value talent.
+*   **Systematic Roadmapping:** Determining if academic discourse reflects the shift to high-value orchestration or remains tethered to cost-centric paradigms.
+
+<aside class="notes">
+2026 marks a pivot toward "lean orchestration," where process normalization is mandatory for AI integration. However, this transition is throttled by a "leadership gap" where executive expectations clash with inertia. These emerging hubs now function as "operational airlocks," insulating global value chains from geopolitical bifurcation while shifting the GBS value proposition from transactional execution to strategic insourcing.
 </aside>
 
 ---
