@@ -285,9 +285,14 @@ Tracing evolutionary pathways across three periods reveals a clear mutation. The
 Strategic Map: Niche Trajectories: Fig 4a-c
 :::
 
-::: {.r-stack .thematic-carousel}
+::: {.panel-tabset}
+### Fig 4a
 ![Fig 4a: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.a.jpeg){.img-1 width=100%}
+
+### Fig 4b
 ![Fig 4b: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.b.jpeg){.img-2 width=100%}
+
+### Fig 4c
 ![Fig 4c: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.c.jpeg){.img-3 width=100%}
 :::
 
@@ -306,10 +311,14 @@ Our strategic map visualizes current niche trajectories across the regime quadra
 ::: {.subtitle}
  Global Research Network & Nodes: Fig 5a-c
 :::
-
-::: {.r-stack .thematic-carousel}
+::: {.panel-tabset}
+### Fig 5a
 ![Fig 5a: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.a.png){.img-1 width=100%}
+
+### Fig 5b
 ![Fig 5b: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.b.svg){.img-2 width=100%}
+
+### Fig 5c
 ![Fig 5c: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.c.svg){.img-3 width=100%}
 :::
 
