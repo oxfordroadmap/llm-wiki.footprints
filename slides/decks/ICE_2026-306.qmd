@@ -78,7 +78,19 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher in the soc
 
 ---
 
-## 🌱 Section I: Introduction
+## 🌱 Personal Background and Angle
+
+### Huang's vision under scrutiny
+
+::: {.subtitle}
+[AI & Net-Zero Dual Transformation Forum](https://www.semi.org/zh/ai-netzero/transforum#agenda)
+:::
+
+![](/assets/2026_ICE-Porto_GBS/Semi-AI-Taiwan.jpg)
+
+---
+
+# 🌱 Section I: Introduction
 
 ### Context: Structural Realignment & Digital Resonance
 
@@ -311,6 +323,7 @@ Our strategic map visualizes current niche trajectories across the regime quadra
 ::: {.subtitle}
  Global Research Network & Nodes: Fig 5a-c
 :::
+
 ::: {.panel-tabset}
 ### Fig. 5a
 ![Fig 5a: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.a.png){.img-1 width=100%}
