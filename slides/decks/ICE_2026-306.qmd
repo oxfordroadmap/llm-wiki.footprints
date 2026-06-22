@@ -479,7 +479,9 @@ Technology Roadmapping for Green and Digital Global Business Services
 :::
 
 ::: {.session-info}
-RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed.
+RS-PO-1B: Innovation Policy, Regulation & Standards, 
+
+ICE 32nd Ed.
 ::: 
 
 ::::: {.presentation-meta}
