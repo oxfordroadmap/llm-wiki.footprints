@@ -62,7 +62,7 @@ Technology Roadmapping for Green and Digital Global Business Services
 ::: {.author-card}
 ::: {.author-avatar-group}
 [Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
-[Infineon Technologies]{.affiliation}
+[Independent Researcher / Infineon Technologies]{.affiliation}
 :::
 
 <img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
@@ -501,7 +501,7 @@ ICE 32nd Ed.
 ::: {.author-card}
 ::: {.author-avatar-group}
 [Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
-[Infineon Technologies]{.affiliation}
+[Independent Researcher / Infineon Technologies]{.affiliation}
 :::
 
 <img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
