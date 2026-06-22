@@ -99,16 +99,15 @@ Global service delivery is undergoing a structural realignment toward "digital r
 ## 🌱 Section I: Introduction
 
 ### I.B Motivation & I.C Objectives
-
 *   **Inflection Point:** Obsolescence of "lift and shift" models in favor of "lean orchestration" and process normalization.
 *   **The Leadership Gap:** Transition is governed by the "human factor," where executive ROI expectations often clash with organizational inertia.
 *   **Operational Airlocks:** Hubs insulate global value chains from U.S.-China bifurcation while mitigating middle-income traps through high-value talent.
 *   **Systematic Roadmapping:** Determining if academic discourse reflects the shift to high-value orchestration or remains tethered to cost-centric paradigms.
+*   **Research Objective:** How has the GBS domain evolved globally in academic outputs?
 
 <aside class="notes">
-2026 marks a pivot toward "lean orchestration," where process normalization is mandatory for AI integration. However, this transition is throttled by a "leadership gap" where executive expectations clash with inertia. These emerging hubs now function as "operational airlocks," insulating global value chains from geopolitical bifurcation while shifting the GBS value proposition from transactional execution to strategic insourcing.
+2026 marks a pivot toward "lean orchestration," where process normalization is mandatory for AI integration. However, this transition is throttled by a "leadership gap" where executive expectations clash with inertia. These emerging hubs now function as "operational airlocks," insulating global value chains from geopolitical bifurcation while shifting the GBS value proposition from transactional execution to strategic insourcing. How has the GBS domain evolved globally in academic outputs?
 </aside>
-
 ---
 
 ## 📚 Section II: Literature Review
