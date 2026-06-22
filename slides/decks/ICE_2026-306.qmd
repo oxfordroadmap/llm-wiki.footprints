@@ -312,13 +312,13 @@ Our strategic map visualizes current niche trajectories across the regime quadra
  Global Research Network & Nodes: Fig 5a-c
 :::
 ::: {.panel-tabset}
-### Fig 5a
+### Fig. 5a
 ![Fig 5a: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.a.png){.img-1 width=100%}
 
-### Fig 5b
+### Fig. 5b
 ![Fig 5b: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.b.svg){.img-2 width=100%}
 
-### Fig 5c
+### Fig. 5c
 ![Fig 5c: Global Research Network & Nodes](/assets/2026_ICE-Porto_GBS/Fig.5.c.svg){.img-3 width=100%}
 :::
 
