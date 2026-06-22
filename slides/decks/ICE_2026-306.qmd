@@ -73,7 +73,7 @@ Technology Roadmapping for Green and Digital Global Business Services
 :::::
 
 <aside class="notes">
-Welcome everyone. My name is Han-Teng Liao, an independent researcher specializing in sustainable manufacturing services. Today on behalf my co-author, I will present our Technology Roadmapping for Green and Digital Global Business Services (or GBS for short), with a focus on the global semiconductor value chains. Today we examine the orchestration of the Twin Transition through Global Business Services.
+Welcome everyone. My name is Han-Teng Liao, an independent researcher specializing in the socio-technical transition of digital and green services. Today on behalf my co-author, I will present our Technology Roadmapping for Green and Digital Global Business Services (or GBS for short), with a focus on the global semiconductor value chains. Today we examine the orchestration of the Twin Transition through Global Business Services.
 </aside>
 
 ---
@@ -86,7 +86,7 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher specializi
 2026 GBS Landscape: Ecosystem Maturity
 :::
 
-![Table.I](/assets/2026_ICE-Porto_GBS/Table.I.jpg)
+![Table.I](/assets/2026_ICE-Porto_GBS/Table.I.jpg){width=100%}
 
 *   **Digital Resonance:** Realignment toward high-tech automation and cybersecurity, superseding labor arbitrage.
 *   **Twin Transition:** GBS hubs as "living laboratories" harmonizing technical execution with sustainability.
@@ -172,17 +172,17 @@ We deploy a mixed-methods design that connects retrospective science mapping wit
 ## 🧩 Section III: Methodology
 
 ::: {.subtitle}
-The [ITU innovation toolkit])https://www.itu.int/en/ITU-D/Innovation/Documents/Publications/Policy_Toolkit-Innovation_D012A0000D13301PDFE.pdf) Ecosystem Canvas Alignment
+The [ITU ICT-Centric Innovation Ecosystem Toolkit](https://www.itu.int/.../Policy_Toolkit-...pdf) Ecosystem Canvas Alignment
 :::
 
 | Tool Components | Goals in Twin Transition Governance |
 | :--- | :--- |
-| **Stakeholder Engagement** | Capture common regime needs and value positions. |
-| **Ecosystem Canvas** | Align niche actors around shared operational manifestos. |
-| **Sector Development** | Monitor cross-sectoral supply chain and talent flows. |
+| Stakeholder Engagement (operationalized) | Capture common regime needs and value positions. |
+| Ecosystem Canvas (future work) | Align niche actors around shared operational manifestos. |
+| Sector Development (future work) | Monitor cross-sectoral supply chain and talent flows. |
 
 <aside class="notes">
-The ITU innovation toolkit provides the structured diagnostic canvases required for this study. By treating GBS hubs as socio-technical interfaces, we track how policy goals, clean tech scale-ups, and workforce development progress from isolated niches into permanent, consolidated industry regulations.
+The ITU innovation toolkit provides the structured diagnostic canvases required for this study. By treating GBS hubs as socio-technical interfaces, we track how policy goals, clean tech scale-ups, and workforce development progress from isolated niches into permanent, consolidated industry regulations. This study operationalizes the Stakeholder Engagement Tool; the remaining canvases — Ecosystem Canvas and Sector Development — are flagged as future research.
 </aside>
 
 ---
@@ -211,13 +211,13 @@ Our database baseline of 979 documents confirms a mature, highly collaborative f
 ::: {.subtitle}
 Conceptual Network Topology
 :::
-
 ![Fig 1: Conceptual network: keyword co-occurrence visualization](/assets/2026_ICE-Porto_GBS/Fig.1.png){width=100%}
 
 ::: {.small}
-* **Red Cluster**: Legacy BPO operations, labor offshoring, and transaction risk.
-* **Green & Yellow Clusters**: Central connectors for ICT and digital economy.
-* **Peripheral Anchors**: CSR and governance metrics showing initial connections.
+* **Red Cluster**: Legacy BPO/offshoring, anchored in risk and performance.
+* **Green Cluster**: Technical "engine room" — process engineering and optimization.
+* **Blue Cluster**: Structural maturation — SSCs and accounting maturing into integrated GBS frameworks.
+* **Yellow & Purple Clusters**: Macro-strategic shift toward digital economy and AI-driven supply chains.
 :::
 
 <aside class="notes">
@@ -259,9 +259,10 @@ Thematic Evolution Materialization
 :::
 
 ::: {.small}
-* **Early Era (1993–2010)**: Task centralization and basic cost-cutting focus.
-* **Middle Era (2011–2020)**: Maturation into global shared services structures.
-* **Modern Horizon (2021–2026)**: Transformation toward Sustainable Intelligence models.
+* Early Era (1993–2015): BPO, Business Process Optimization, and SSC dominate — efficiency, cost reduction, task centralization.
+* Middle Era (2016–2020): RPA, performance metrics, and ICT emerge as bridging themes.
+* Modern Horizon (2021–2026): Diversification into Digital Transformation, CSR, process automation, and the digital economy.
+
 :::
 
 <aside class="notes">
@@ -361,6 +362,8 @@ Stakeholder Engagement Alignment
 * **Reward Thread**: Linking green financial systems to audit checks.
 :::
 
+![Fig. 6. Stakeholder Engagement Tool Canvas](/assets/2026_ICE-Porto_GBS/Fig.6.png){width=100%}
+
 <aside class="notes">
 By organizing our bibliometric clusters using the ITU toolkit, we mapped four core stakeholder engagement threads. This setup moves teams away from static reporting, establishing shared design models where governments, tech companies, and universities cooperate smoothly.
 </aside>
@@ -370,12 +373,15 @@ By organizing our bibliometric clusters using the ITU toolkit, we mapped four co
 ## 💡 Section V: Discussion
 
 ::: {.subtitle}
-Deep-Dive: Policy & Talent Threads
+Deep-Dive: Reward-Orchestration & Living Lab Threads
 :::
 
-* **Compliance Integration**: Connecting carbon tax rules directly to global corporate accounting.
-* **Ecosystem Sourcing**: Replacing simple headcount hiring with capability development.
-* **High-Value Functions**: Shifting regional roles to advanced research and engineering.
+* **Reward-Orchestration**: Evolves SSC-Finance into Supply Chain Finance via green FinTech, RegTech, and automated auditing.
+* **Living Lab: AI worflows**: Gives entrepreneurs a sandbox to test AI-native workflows before company-wide rollout.
+* **Living Lab: regime-niche game**: Alleviates MNCs' historical information asymmetries, reframing reskilling as a regime-niche strategy.
+* **Talent-Innovation**: Bridges entrepreneurial demand with academic research; D&I strategies and hybrid work models enable "Middle Power" hubs to capture higher-value delivery.
+
+![Fig. 6. Stakeholder Engagement Tool Canvas](/assets/2026_ICE-Porto_GBS/Fig.6.png){width=100%}
 
 <aside class="notes">
 The policy and talent threads show that tracking compliance parameters is becoming an essential part of daily operations. GBS networks exploit this change to capture high-value work, moving local workforces into complex engineering and product design spaces.
@@ -392,6 +398,8 @@ Deep-Dive: Reward & Experimentation
 * **Green RegTech Integration**: Using automated checks to guide sustainable supply actions.
 * **Democratizing Innovation**: Creating sandbox spaces for AI process tests.
 * **Cultural Resilience**: Protecting employee well-being amid technical transitions.
+
+![Fig. 6. Stakeholder Engagement Tool Canvas](/assets/2026_ICE-Porto_GBS/Fig.6.png){width=100%}
 
 <aside class="notes">
 The reward and experimentation threads focus on continuous improvement. By integrating automated regulatory tools with shared spaces for testing AI workflows, organizations can experiment safely, protecting baseline operational stability while upgrading workflows.
@@ -439,10 +447,10 @@ Future Research Frameworks
 
 * **Supply Chain Control Towers**: Expanding GBS roles into material tracing.
 * **Product Digital Passports**: Integrating automated lifecycle audits.
-* **Ecosystem Metrology Verification**: Testing data spaces across cross-border nodes.
+* **Trustworthy AI & Industrial Data Spaces**: Testing federated data networks as regulatory proxies for RegTech innovation.
 
 <aside class="notes">
-Our future research will explore expanding GBS control towers into advanced manufacturing supply chains. We plan to test how federated data networks can connect factory-floor metrology with high-level reporting platforms, establishing clear tracking verification.
+Our future research will explore expanding GBS control towers into advanced manufacturing supply chains. We plan to test how federated data networks can connect explore GBS as the core socio-technical control tower for advanced digital economies, including digital product passports for material lifecycle tracking.
 </aside>
 
 ---
