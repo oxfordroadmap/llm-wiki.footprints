@@ -110,12 +110,13 @@ Global service delivery is undergoing a structural realignment toward "digital r
 <aside class="notes">
 2026 marks a pivot toward "lean orchestration," where process normalization is mandatory for AI integration. However, this transition is throttled by a "leadership gap" where executive expectations clash with inertia. These emerging hubs now function as "operational airlocks," insulating global value chains from geopolitical bifurcation while shifting the GBS value proposition from transactional execution to strategic insourcing. How has the GBS domain evolved globally in academic outputs?
 </aside>
----
+
+<!-- --- -->
 
 # 📚 Section II: Literature Review
 
 ::: {.subtitle}
-Ecosystem Gaps & The Maturity Trap
+II.A-B Ecosystem Gaps & The Maturity Trap
 :::
 
 * **Data Integration**: Evolving from localized data hubs to distributed networks.
@@ -152,7 +153,7 @@ Modern GBS hubs are complex Socio-Technical Systems where AI must harmonize with
 The Multi-Level Perspective analyzes GBS across niches, regimes, and global landscapes. Current corporate regimes are being destabilized by exogenous pressures like the EU’s Twin Transition mandates. By integrating agentic workflows and AI, GBS centers can transition from simple cost-centers to sustainability drivers, serving as a living laboratory for the socio-technical transition of AI.
 </aside>
 
----
+<!-- --- -->
 
 # 🧩 Section III: Methodology
 ::: {.subtitle}
@@ -185,7 +186,7 @@ The [ITU ICT-Centric Innovation Ecosystem Toolkit](https://www.itu.int/.../Polic
 The ITU innovation toolkit provides the structured diagnostic canvases required for this study. By treating GBS hubs as socio-technical interfaces, we track how policy goals, clean tech scale-ups, and workforce development progress from isolated niches into permanent, consolidated industry regulations. This study operationalizes the Stakeholder Engagement Tool; the remaining canvases — Ecosystem Canvas and Sector Development — are flagged as future research.
 </aside>
 
----
+<!-- --- -->
 
 # 👩‍🏫 Section IV: Findings
 
@@ -330,7 +331,7 @@ The "Middle Power" Airlock Gateways
 These regional hubs act as critical middle-power airlocks. By supplying high-value technical services, they protect corporate value chains from geopolitical cloud fractures, showing that location competitiveness relies on local ecosystem readiness rather than cheap labor.
 </aside>
 
----
+<!-- --- -->
 
 # 💡 Section V: Discussion
 
@@ -405,7 +406,7 @@ Deep-Dive: Reward & Experimentation
 The reward and experimentation threads focus on continuous improvement. By integrating automated regulatory tools with shared spaces for testing AI workflows, organizations can experiment safely, protecting baseline operational stability while upgrading workflows.
 </aside>
 
----
+<!-- --- -->
 
 # 🏁 Section VI: Conclusion
 
