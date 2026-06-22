@@ -5,12 +5,29 @@ author: "Han-Teng Liao & Karen Ang"
 date: "2026-06-11"
 format:
   revealjs:
-    theme: beige
-    css: ICE_2026-306.css
+    zoom: true
+    navigation-mode: grid 
+    title-slide: false
+    # --- NAVIGATION CONTROL CONTROLS ---
+    controls: true           # Forces the navigation arrows to display in the corner
+    controls-layout: bottom-right # Options: 'bottom-right' (default cluster) or 'edges' (split across viewport)
+    controls-tutorial: true   # Briefly flashes the arrows on load to teach the user 2D vertical navigation
+    controls-back-arrows: faded # Options: 'fader' (dims spent paths), 'hidden', or 'visible'
+    theme:
+      - simple
+      - ../../custom.scss
+    width: 1050
+    height: 700
+    css: ICE_2026-286.css
     transition: slide
     slide-number: true
     chalkboard: true
     show-slide-number: speaker
+    parallax-background-image: "/assets/bg/wide-background-lighter-green.jpg"
+    parallax-background-size: "2400px 1250px"
+    parallax-background-horizontal: 35
+    parallax-background-vertical: 0  
+image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
 image: /assets/2026_ICE-Porto_GBS/Fig.6.png
 ---
 
