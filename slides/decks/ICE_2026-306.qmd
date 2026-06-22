@@ -279,9 +279,9 @@ Strategic Map: Niche Trajectories
 :::
 
 ::: {.r-stack .thematic-carousel}
-![Fig 4a: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.a.jpeg){.img-1 width=100%}
-![Fig 4b: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.b.jpeg){.img-2 width=100%}
-![Fig 4c: Longitudinal Thematic Evolution Map](/assets/2026_ICE-Porto_GBS/Fig.4.c.jpeg){.img-3 width=100%}
+![Fig 4a: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.a.jpeg){.img-1 width=100%}
+![Fig 4b: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.b.jpeg){.img-2 width=100%}
+![Fig 4c: Longitudinal Thematic Evolution Map](https://llm-wiki.footprints.cv/assets/2026_ICE-Porto_GBS/Fig.4.c.jpeg){.img-3 width=100%}
 :::
 
 * **Motor Themes**: Capability-driven GBS, lean orchestration models.
