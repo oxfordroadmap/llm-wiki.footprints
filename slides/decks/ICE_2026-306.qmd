@@ -1,8 +1,8 @@
 ---
-title: "Orchestrating the Twin Transition in Multinational Corporations"
-subtitle: "Technology Roadmapping for Green and Digital Global Business Services"
+title: "Orchestrating the Twin Transition in Multinational Corporations: Technology Roadmapping for Green and Digital Global Business Services"
+subtitle: "RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed."
 author: "Han-Teng Liao & Karen Ang"
-date: "2026-06-11"
+date: "Monday, 22/June/2026: 3:00pm - 4:20pm"
 format:
   revealjs:
     zoom: true
