@@ -208,11 +208,7 @@ The social network analysis proves that international collaboration has remained
 
 ### 2026 GBS Landscape: Ecosystem Maturity
 
-| Country Hub | Centers | Workforce | Strategic Core Specialization (2026) |
-| :--- | :--- | :--- | :--- |
-| **Poland** | ~2,000 | 488,700+ | AI-Native Workflows, Fintech platforms |
-| **Portugal** | ~270 | 93,000+ | Green Tech; Software Centers of Excellence |
-| **Malaysia** | ~750+ | 250,000+ | GBS 5.0; high-value APAC digital gateway |
+![Table.I](/assets/2026_ICE-Porto_GBS/Table.I.jpg)
 
 <aside class="notes">
 As detailed in Table 1, the 2026 landscape highlights specific national pathways. Poland, Portugal, and Malaysia collectively employ nearly one million professionals. Each country uses tailored digital status frameworks to elevate their hubs from simple transactional processing centers.
