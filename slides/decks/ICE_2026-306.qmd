@@ -2,7 +2,7 @@
 title: "Orchestrating the Twin Transition in Multinational Corporations: Technology Roadmapping for Green and Digital Global Business Services"
 subtitle: "RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed."
 author: "Han-Teng Liao & Karen Ang"
-date: "Monday, 22/June/2026: 3:00pm - 4:20pm"
+date: "2026-06-22"
 format:
   revealjs:
     zoom: true
@@ -41,7 +41,9 @@ Technology Roadmapping for Green and Digital Global Business Services
 :::
 
 ::: {.session-info}
-RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed.
+- RS-PO-1B: Innovation Policy, Regulation & Standards, ICE 32nd Ed.
+
+- Monday, 22/June/2026: 3:00pm - 4:20pm; Location: Room Porto
 ::: 
 
 ::::: {.presentation-meta}
