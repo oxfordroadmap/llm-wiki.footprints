@@ -351,7 +351,7 @@ Toward Intelligent, Sustainable, and Scalable manufacturing
 * **Interdependence**: Global research links remain intact despite policy friction.
 
 ![Semiconductor Business Connect 2026](/assets/2026_ICE-SSbD/ssia.org.sg-20260416.jpeg)
-Figure (not in the paper): https://ssia.org.sg/business-connect/
+Screenshot (not in the paper): https://ssia.org.sg/business-connect/
 
 <aside class="notes">
 In conclusion, our scoping review shows that we must eliminate the silos separating factory floor analytics from ESG compliance. Moving forward, the semiconductor industry must adopt a System of Systems paradigm where local manufacturing optimizations actively support global ecological constraints.
@@ -364,6 +364,10 @@ In conclusion, our scoping review shows that we must eliminate the silos separat
 * **IMEC.netzero**: Virtual fab modeling of chemical and energy footprints.
 * **ESMC Dresden Fab**: Embedding EU sustainability mandates into production.
 * **Infineon Smart Power Fab**: Designing circularity directly into operations.
+
+Web Page (not in the paper): European Semiconductor Manufacturing Company (ESMC)
+
+<iframe src="https://www.esmc.eu/en/index.html" width="100%" height="500px" style="border:none;"></iframe>
 
 <aside class="notes">
 This architecture is grounded in pioneering 2026 initiatives. For instance, the IMEC netzero platform models process footprints, while the new ESMC fab in Dresden and Infineon’s Smart Power Fab are embedding these exact circular design and compliance flows directly into advanced-node fabs.
