@@ -81,6 +81,15 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On 
 
 ## 🌱 Personal Background and Angle
 
+```{mermaid}
+pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
+    "Semiconductors" : 2200
+    "Electricity Supply" : 635
+    "Steel" : 400
+    "Concrete" : 130
+    "Others (Remaining Sectors)" : 1605
+```
+
 ### Huang's vision under scrutiny
 
 ::: {.subtitle}
