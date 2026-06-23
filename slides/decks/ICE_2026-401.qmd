@@ -2,6 +2,8 @@
 title: "From Stacks to Circuits: A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries"
 subtitle: "Digital Circular Economy for Deep Tech AI Presentation"
 author: "Han-Teng Liao & Karen Ang"
+categories: ["Semiconductors", "regenerative governance"]
+pagetitle: "From Stacks to Circuits"
 date: "2026-06-11"
 format:
   revealjs:
@@ -64,7 +66,7 @@ A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Bo
 [Independent Researcher / Infineon]{.affiliation}
 :::
 
-<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+<!--<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">-->
 :::
 
 ::::
@@ -89,7 +91,7 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On 
 
 <!-- --- -->
 
-# 🧭 Section I: Introduction
+# 🧭 Section I: Introduction {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ### The Unprecedented Scaling of Generative AI
 * **Linear Efficiency Focus:** "Electrons to Tokens" optimization
@@ -117,7 +119,7 @@ This intensive scaling creates a massive collision with physical reality. In pla
 
 <!-- --- -->
 
-# 📚 Section II: Literature Review
+# 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ### II.A Electrons to Tokens: Scaling Through Orchestration
 
@@ -157,7 +159,7 @@ To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. I
 
 <!-- --- -->
 
-# 🛠️ Section III: Methodology
+# 🛠️ Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 ### Repurposing Sustainable Production & Consumption (SPaC)
 
 ![Fig 1: The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber in [18]](/assets/2026_ICE-DCE/Fig.1.svg){width=100%}
@@ -186,7 +188,7 @@ We apply design science research principles to build a circular reference archit
 
 <!-- --- -->
 
-# 📊 Section IV: Findings
+# 📊 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ### IV.A Boundary Inputs for Metabolic Governance
 
@@ -305,7 +307,8 @@ The SVI formalizes two operational states. State A is maximum volatility: under-
 
 <!-- --- -->
 
-# 💬 Section V: Discussion
+# 💬 Section V: Discussion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+
 ### Restoring the Atom-to-Values Closed Loop
 
 * **Reframing the Paradigm:** Shifting from extractive to regenerative governance
@@ -359,7 +362,7 @@ For technology strategists and engineering managers, we translate these insights
 
 <!-- --- -->
 
-# 🏁 Section VI: Conclusion
+# 🏁 Section VI: Conclusion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
 ### Framework Limitations & TRL Status
 
@@ -448,7 +451,7 @@ A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Bo
 [Independent Researcher / Infineon]{.affiliation}
 :::
 
-<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+<!--<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">-->
 :::
 
 ::::

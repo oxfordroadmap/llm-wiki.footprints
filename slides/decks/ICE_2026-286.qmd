@@ -29,7 +29,7 @@ format:
     parallax-background-size: "2400px 1250px"
     parallax-background-horizontal: 35
     parallax-background-vertical: 0  
-image: https://llm-wiki.footprints.cv/assets/_ID-286_Fig.4.png
+image: https://llm-wiki.footprints.cv/assets/2026_ICE-SSbD/SSbD-Semi.drawio.svg
 ---
 
 #  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
