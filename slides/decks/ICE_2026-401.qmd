@@ -108,7 +108,7 @@ The Unprecedented Scaling of Generative AI
 * **Externalized Liabilities:** Material and thermodynamic costs
 * **Socio-Technical Tension:** Disconnection from regional carrying capacities
 
-![](https://blogs.nvidia.com/wp-content/uploads/2026/02/JHH-CES2026-FullStack-scaled.jpg){width="100%""}
+![](https://blogs.nvidia.com/wp-content/uploads/2026/02/JHH-CES2026-FullStack-scaled.jpg){width="100%"}
 
 
 <aside class="notes">
