@@ -20,7 +20,7 @@ format:
       - ../../custom.scss
     width: 1050
     height: 700
-    css: ICE_2026-306.css
+    css: ICE_2026-401.css
     transition: slide
     slide-number: true
     chalkboard: true
@@ -166,6 +166,8 @@ II.E-F Semiconductor Facilities & The IEEE IRDS Lens
 * **Key Pillars:** Water intensity, energy efficiency, and chemical safety
 * **SSbD Framework:** Safe and Sustainable by Design electronics
 * **The Knowledge Gap:** Merging real-time AI operation with static facility roadmaps
+
+![IRDS/ISRDS Workshop in Granada](https://sinano.eu/wp-content/uploads/2026/01/SiNANO-Social-media-posts-4.png){fig-alt="SiNANo" width="100%"}
 
 <aside class="notes">
 To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. It details quantitative targets for water and chemical safety. However, a major knowledge gap persists: the industry lacks a way to bridge these static manufacturing parameters with live, operational AI workloads.
