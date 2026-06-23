@@ -350,8 +350,11 @@ Toward Intelligent, Sustainable, and Scalable manufacturing
 * **System of Systems Paradigm**: Local process optimization must serve global limits.
 * **Interdependence**: Global research links remain intact despite policy friction.
 
+::: {.callout-caution}
+Screenshot (not in the paper): [Source](https://ssia.org.sg/business-connect/)
+:::
+
 ![Semiconductor Business Connect 2026](/assets/2026_ICE-SSbD/ssia.org.sg-20260416.jpeg)
-Screenshot (not in the paper): https://ssia.org.sg/business-connect/
 
 <aside class="notes">
 In conclusion, our scoping review shows that we must eliminate the silos separating factory floor analytics from ESG compliance. Moving forward, the semiconductor industry must adopt a System of Systems paradigm where local manufacturing optimizations actively support global ecological constraints.
