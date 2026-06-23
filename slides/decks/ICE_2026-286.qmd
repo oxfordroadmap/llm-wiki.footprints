@@ -85,6 +85,12 @@ Welcome everyone. My name is Karen Ang, and I am a Senior Manager at Infineon Te
 * **Sustainability Mandates**: Regulatory pressure from EU CBAM and CSDDD.
 * **Systemic Volatility**: Geopolitical friction and historical supply chain disruptions.
 
+::: {.callout-caution}
+Screenshot (not in the paper): [Source](https://ssia.org.sg/business-connect/)
+:::
+
+![Semiconductor Business Connect 2026](/assets/2026_ICE-SSbD/ssia.org.sg-20260416.jpeg){fig-alt="SSIA" width="100%"}
+
 <aside class="notes">
 Today, with the SSbD both as EU policy and emerging design concept, we look at the semiconductor industry's Twin Transition. Manufacturers must scale advanced processing nodes using AI while simultaneously meeting strict environmental mandates like the EU's Carbon Border Adjustment Mechanism. This tension unfolds inside a highly volatile geopolitical and supply chain landscape.
 </aside>
@@ -93,13 +99,13 @@ Today, with the SSbD both as EU policy and emerging design concept, we look at t
 
 ## 🌱 I.A Motivation: GRC Landscapes & SSbD
 
-![JRC SSbD framework](https://joint-research-centre.ec.europa.eu/sites/default/files/styles/embed_large_2x/public/2024-07/fig1.png?itok=Itu4Yb4Z)
-
-> Note. The above image is not in the paper but [sourced directly from the EC JRC site](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/designing-safer-and-more-sustainable-chemicals-and-materials-methodological-guidance-2024-07-11_en).
-
-* **GRC**: Governance, Risk, and Compliance alignment strategies.
-* **SSbD Framework**: Safe and Sustainable by Design material lifecycle safety.
+* **GRC**: **Governance, Risk, and Compliance** alignment strategies.
+* **SSbD** Framework: **Safe and Sustainable by Design** material lifecycle safety.
 * **UN SDGs**: Integrating Goal 9 (Innovation) and Goal 12 (Responsible Production).
+
+![JRC SSbD framework](https://joint-research-centre.ec.europa.eu/sites/default/files/styles/embed_large_2x/public/2024-07/fig1.png?itok=Itu4Yb4Z){fig-alt="SSbD" width="100%"}
+
+<small>Note. The above image is not in the paper but [sourced directly from the EC JRC site](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/designing-safer-and-more-sustainable-chemicals-and-materials-methodological-guidance-2024-07-11_en).</small>
 
 <aside class="notes">
 To navigate this volatility, firms are turning to Governance, Risk, and Compliance strategies. The European Union's Safe and Sustainable by Design framework is driving this shift. It forces companies to move from basic administrative accounting to science-based, empirical proof of sustainability throughout the product lifecycle.
@@ -127,7 +133,6 @@ To navigate this volatility, firms are turning to Governance, Risk, and Complian
 - 2 – Constraints and Gaps
 - 3 - System-Level Efficiency and Assurance
 
-
 <aside class="notes">
 As shown in Table 1, current RegTech platforms like EcoVadis and IntegrityNext automate supplier compliance. However, these tools operate as discrete silos. They are focused heavily on corporate procurement and reporting, but remain completely disconnected from actual semiconductor factory-floor metrology and manufacturing process data. This motivates our research with objectives outlined for real-time manufacturing processes. 
 </aside>
@@ -149,6 +154,16 @@ Our literature review highlights a massive architectural gap. While models for p
 
 
 # 🧩 Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
+
+::: {.subtitle}
+🧩 III-A: Research Questions
+:::
+
+* **RQ1: Data Interoperability**: How can semiconductor analytics and measurement systems integrate heterogeneous data and generalize across customers and process nodes while remaining interoperable with ESG frameworks, including through federated data space architecture integration?
+* **RQ2: Scarcity Adaptation**: How can analytics and measurement platforms be designed and tuned for scarce or imbalanced data while maintaining reliability for critical defect classes, leveraging soft-sensing, VM, and outsourced pipelines for better resource allocation, risk management, and lifecycle assurance?
+* **RQ3: Eco-Efficiency**: How can industrial analytics improve yield and throughput while preserving performance for underrepresented classes and aligning with AI safety and sustainability mandates (e.g., Scope 3, CBAM) -- framing optimization as a SoS challenge rather than a purely algorithmic one? This SoS approach underscores the necessity for integrated data architectures to achieve safe, climate-neutral, and circular innovation.
+
+---
 
 ::: {.subtitle}
 🧩 III-A.B.C: Query Design & Roadmapping
@@ -272,9 +287,9 @@ The network topology in Figure 3 confirms this fragmentation. Mainstream semicon
 
 # 🗪 Section V: Discussion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-* **RQ1: Data Interoperability**: 
-* **RQ2: Scarcity Adaptation**: 
-* **RQ3: Eco-Efficiency**: 
+* **RQ1: Data Interoperability**: How can semiconductor analytics and measurement systems integrate heterogeneous data and generalize across customers and process nodes while remaining interoperable with ESG frameworks, including through federated data space architecture integration?
+* **RQ2: Scarcity Adaptation**: How can analytics and measurement platforms be designed and tuned for scarce or imbalanced data while maintaining reliability for critical defect classes, leveraging soft-sensing, VM, and outsourced pipelines for better resource allocation, risk management, and lifecycle assurance?
+* **RQ3: Eco-Efficiency**: How can industrial analytics improve yield and throughput while preserving performance for underrepresented classes and aligning with AI safety and sustainability mandates (e.g., Scope 3, CBAM) -- framing optimization as a SoS challenge rather than a purely algorithmic one? This SoS approach underscores the necessity for integrated data architectures to achieve safe, climate-neutral, and circular innovation.
 
 :::{.subtitle}
 Integrating the Research Questions
@@ -354,7 +369,7 @@ Toward Intelligent, Sustainable, and Scalable manufacturing
 Screenshot (not in the paper): [Source](https://ssia.org.sg/business-connect/)
 :::
 
-![Semiconductor Business Connect 2026](/assets/2026_ICE-SSbD/ssia.org.sg-20260416.jpeg)
+![Semiconductor Business Connect 2026](/assets/2026_ICE-SSbD/ssia.org.sg-20260416.jpeg){fig-alt="SSIA" width="100%"}
 
 <aside class="notes">
 In conclusion, our scoping review shows that we must eliminate the silos separating factory floor analytics from ESG compliance. Moving forward, the semiconductor industry must adopt a System of Systems paradigm where local manufacturing optimizations actively support global ecological constraints.
@@ -368,12 +383,12 @@ In conclusion, our scoping review shows that we must eliminate the silos separat
 * **ESMC Dresden Fab**: Embedding EU sustainability mandates into production.
 * **Infineon Smart Power Fab**: Designing circularity directly into operations.
 
-Web Page (not in the paper): European Semiconductor Manufacturing Company (ESMC)
+<a href="https://www.esmc.eu/en/index.html" data-preview-link>European Semiconductor Manufacturing Company (ESMC)</a>
 
-<iframe src="https://www.esmc.eu/en/index.html" width="100%" height="500px" style="border:none;"></iframe>
+![](https://www.nxp.com/assets/images/en/photography/NW-ESMC-BREAKS-GROUND-ON-DRESDEN-FAB-IMG.jpg){fig-alt="ESMC" width="100%"}
 
 <aside class="notes">
-This architecture is grounded in pioneering 2026 initiatives. For instance, the IMEC netzero platform models process footprints, while the new ESMC fab in Dresden and Infineon’s Smart Power Fab are embedding these exact circular design and compliance flows directly into advanced-node fabs.
+This architecture is grounded in pioneering 2026 initiatives. For instance, the IMEC netzero platform models process footprints, while the new ESMC fab in Dresden and Infineon’s Smart Power Fab are embedding these exact circular design and compliance data flows directly into advanced-node fabs.
 </aside>
 
 ---
@@ -383,6 +398,8 @@ This architecture is grounded in pioneering 2026 initiatives. For instance, the 
 * **Historical Precedent**: Leveraging "Copy Exactly!" and SEMI frameworks.
 * **Modern Expansion**: Extending technical standards to cover sustainability.
 * **Global Value Chain**: Expanding IRDS and ISRS multi-stakeholder workshops.
+
+![IRDS/ISRDS Workshop in Granada](https://sinano.eu/wp-content/uploads/2026/01/SiNANO-Social-media-posts-4.png){fig-alt="SiNANo" width="100%"}
 
 <aside class="notes">
 The semiconductor sector has always thrived on rigorous, standardized knowledge transfer models like Intel's "Copy Exactly." We must now extend this historical capability to sustainability by expanding multi-stakeholder workshops to build an open, standardized net-zero value chain.
