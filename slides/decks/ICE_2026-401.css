@@ -1,4 +1,30 @@
 .reveal ul, .reveal ol {
-  font-size: 0.5em;   /* shrink list text */
-  line-height: 0.8;   /* tighter spacing */
+  font-size: 0.6em;   /* shrink list text */
+  line-height: 1.05;   /* tighter spacing */
+}
+.thematic-carousel {
+  position: relative;
+  width: 100%;
+  min-height: 450px; /* Gives the container an explicit bounding box area */
+  margin-top: 20px;
+}
+
+.thematic-carousel img {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  display: block !important;
+  opacity: 0;
+  animation: cycleImages 6s infinite ease-in-out !important;
+}
+
+/* Maintain your exact timing offsets */
+.thematic-carousel .img-1 { animation-delay: 0s; }
+.thematic-carousel .img-2 { animation-delay: 2s; }
+.thematic-carousel .img-3 { animation-delay: 4s; }
+
+@keyframes cycleImages {
+  0%, 33.33% { opacity: 1; }  
+  38.33%, 95% { opacity: 0; } 
+  100% { opacity: 1; }        
 }

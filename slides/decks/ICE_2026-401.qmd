@@ -20,7 +20,7 @@ format:
       - ../../custom.scss
     width: 1050
     height: 700
-    css: ICE_2026-286.css
+    css: ICE_2026-306.css
     transition: slide
     slide-number: true
     chalkboard: true
@@ -155,6 +155,7 @@ Nvidia's five-layer cake — Energy, Chips, Infrastructure, Models, Applications
 ---
 
 ## 📚 Section II: Literature Review
+
 ### Semiconductor Facilities & The IEEE IRDS Lens
 
 * **IEEE IRDS ESSF Guidelines:** Facility-level resource parameters
