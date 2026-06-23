@@ -44,7 +44,9 @@ Implications for Safe and Sustainable by Design (SSbD)
 :::
 
 ::: {.session-info}
-2026 IEEE ICE/ITMC, Porto — Session: Technology
+- RS-MI-2B: **AI, Generative AI & Digital Transformation**, ICE 32nd Ed.
+
+- Tuesday, 23/June/2026: 3:00pm - 4:20pm; Location: Room **Miragaia**
 ::: 
 
 ::::: {.presentation-meta}
@@ -401,9 +403,10 @@ Implications for Safe and Sustainable by Design (SSbD)
 :::
 
 ::: {.session-info}
- \
-2026 IEEE ICE/ITMC, Porto — Session: Technology
-::: 
+- RS-MI-2B: **AI, Generative AI & Digital Transformation**, ICE 32nd Ed.
+
+- Tuesday, 23/June/2026: 3:00pm - 4:20pm; Location: Room **Miragaia**
+:::
 
 ::::: {.presentation-meta}
 

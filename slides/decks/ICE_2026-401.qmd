@@ -5,21 +5,93 @@ author: "Han-Teng Liao & Karen Ang"
 date: "2026-06-11"
 format:
   revealjs:
-    theme: beige
-    css: ICE_2026-401.css
+    zoom: true
+    navigation-mode: grid 
+    title-slide: false
+    # --- NAVIGATION CONTROL CONTROLS ---
+    controls: true           # Forces the navigation arrows to display in the corner
+    controls-layout: bottom-right # Options: 'bottom-right' (default cluster) or 'edges' (split across viewport)
+    controls-tutorial: true   # Briefly flashes the arrows on load to teach the user 2D vertical navigation
+    controls-back-arrows: faded # Options: 'fader' (dims spent paths), 'hidden', or 'visible'
+    theme:
+      - simple
+      - ../../custom.scss
+    width: 1050
+    height: 700
+    css: ICE_2026-286.css
     transition: slide
     slide-number: true
     chalkboard: true
     show-slide-number: speaker
+    parallax-background-image: "/assets/bg/wide-background-lighter-green.jpg"
+    parallax-background-size: "2400px 1250px"
+    parallax-background-horizontal: 35
+    parallax-background-vertical: 0  
 image: /assets/2026_ICE-DCE/Fig.1.png
 ---
 
-Han-Teng Liao & Karen Ang  
-*ICE 2026 / Special Session 08: Digital Circular Economy*
+#  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+
+::: {.title}
+From Stacks to Circuits
+:::
+
+::: {.subtitle}
+A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries
+:::
+
+::: {.session-info}
+- RS-MI-2B: **AI, Generative AI & Digital Transformation**, ICE 32nd Ed.
+
+- Tuesday, 23/June/2026: 3:00pm - 4:20pm; Location: Room **Miragaia**
+::: 
+
+::::: {.presentation-meta}
+
+:::: {.author-cluster}
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Han-Teng Liao]{.name} [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599){.orcid-num}\
+[Independent Researcher]{.affiliation}
+:::
+
+<img src="../../assets/brand/scvcs-logo.png" class="brand-logo" alt="SCVCS Logo">
+:::
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
+[Independent Researcher / Infineon]{.affiliation}
+:::
+
+<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+:::
+
+::::
+
+:::::
+
+<aside class="notes">
+Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On behalf of my co-author Karen Ang, I will present our Technology Roadmapping study for Green and Digital Global Business Services. Today we examine how GBS hubs orchestrate the Twin Transition across multinational corporations.
+</aside>
 
 ---
 
-## 🧭 Section I: Introduction
+## 🌱 Personal Background and Angle
+
+### Huang's vision under scrutiny
+
+::: {.subtitle}
+[AI & Net-Zero Dual Transformation Forum](https://www.semi.org/zh/ai-netzero/transforum#agenda)
+:::
+
+![](/assets/2026_ICE-Porto_GBS/Semi-AI-Taiwan.jpg)
+
+---
+
+# 🧭 Section I: Introduction
+
 ### The Unprecedented Scaling of Generative AI
 
 * **Linear Efficiency Focus:** "Electrons to Tokens" optimization
@@ -276,7 +348,7 @@ The real-world urgency of this research is highly visible. Right now, utilities 
 
 ---
 
-## 🏁 Section VI: Conclusion
+## 🌱 Section VI: Conclusion
 ### Strategic Roadmap for Future Alliances
 
 * **IEEE Integration:** Linking HIR manufacturing tracks with systemic environmental accounting
