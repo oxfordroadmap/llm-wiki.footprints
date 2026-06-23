@@ -307,9 +307,9 @@ We can now synthesize our three core research questions. Data interoperability, 
 * **RQ2: Scarcity Adaptation**: Addressed through virtual metrology soft-sensors.
 * **RQ3: Eco-Efficiency**: Balancing local yields with global Scope 3 mandates.
 
-![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
+![Fig 4: Safe and Sustainable by Design architecture](/assets/2026_ICE-SSbD/SSbD-Semi.drawio.svg){fig-alt="SSbD-Semi" width="100%"}
 
-*Note: Conceptual outline of Fig. 4.*
+<small>*Note: Conceptual outline of Fig. 4.*</small>
 
 <aside class="notes">
 Answering all research questions, we propose this six-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
@@ -319,7 +319,7 @@ Answering all research questions, we propose this six-layer Safe and Sustainable
 
 ## 🗪 V: Base-Substitution & RegTech Layers
 
-![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
+![Fig 4: Safe and Sustainable by Design architecture](/assets/2026_ICE-SSbD/SSbD-Semi.drawio.svg){fig-alt="SSbD-Semi" width="100%"}
 
 * **SSbD Substitution**: Targeting PFAS, PFCs, and scarce mineral abatement.
 * **RegTech Layer**: Deploying digital product passports for clear provenance.
@@ -333,7 +333,7 @@ At the foundation, the substitution layer drives chemical safety and mineral aba
 
 ## 🗪 V: Core-Federated Spaces & Metrology
 
-![Fig 4: Safe and Sustainable by Design architecture](/assets/_ID-286_Fig.4.png) 
+![Fig 4: Safe and Sustainable by Design architecture](/assets/2026_ICE-SSbD/SSbD-Semi.drawio.svg){fig-alt="SSbD-Semi" width="100%"}
 
 * **Federated Data Fabrics**: Preserving cross-border data sovereignty.
 * **Metrology Optimization**: Real-time closed-loop Statistical Process Control.
