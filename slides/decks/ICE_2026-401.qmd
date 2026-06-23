@@ -437,7 +437,7 @@ Our future work calls for an integrated roadmap across global standards bodies, 
 
 <!-- --- -->
 
-# 🙏 for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+# 🙏 Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 From Stacks to Circuits
