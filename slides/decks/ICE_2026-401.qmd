@@ -87,12 +87,11 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On 
 
 ![](/assets/2026_ICE-Porto_GBS/Semi-AI-Taiwan.jpg)
 
----
+<!-- --- -->
 
 # 🧭 Section I: Introduction
 
 ### The Unprecedented Scaling of Generative AI
-
 * **Linear Efficiency Focus:** "Electrons to Tokens" optimization
 * **Performance Density:** Prioritizing computational speed
 * **Externalized Liabilities:** Material and thermodynamic costs
@@ -101,6 +100,7 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On 
 <aside class="notes">
 Welcome everyone. Today we look at the rapid scaling of Generative AI. The current industry standard is a linear, performance-at-all-costs paradigm. This approach focuses strictly on optimizing from electrons to tokens, but it completely externalizes major physical and ecological liabilities.
 </aside>
+
 ---
 
 ## 🧭 Section I: Introduction
@@ -114,9 +114,10 @@ Welcome everyone. Today we look at the rapid scaling of Generative AI. The curre
 <aside class="notes">
 This intensive scaling creates a massive collision with physical reality. In places like Taiwan, regional power distribution grids are already capping data center power expansions due to severe supply imbalances. Our study explores how a Regenerative Socio-Technical framework can prevent these sudden infrastructure crashes.
 </aside>
----
 
-## 📚 Section II: Literature Review
+<!-- --- -->
+
+# 📚 Section II: Literature Review
 
 ### II.A Electrons to Tokens: Scaling Through Orchestration
 
@@ -153,9 +154,10 @@ Nvidia's five-layer cake — Energy, Chips, Infrastructure, Models, Applications
 <aside class="notes">
 To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. It details quantitative targets for water and chemical safety. However, a major knowledge gap persists: the industry lacks a way to bridge these static manufacturing parameters with live, operational AI workloads.
 </aside>
----
 
-## 🛠️ Section III: Methodology
+<!-- --- -->
+
+# 🛠️ Section III: Methodology
 ### Repurposing Sustainable Production & Consumption (SPaC)
 
 ![Fig 1: The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber in [18]](/assets/2026_ICE-DCE/Fig.1.svg){width=100%}
@@ -181,9 +183,10 @@ Our methodology bridges this gap by repurposing the Sustainable Production and C
 <aside class="notes">
 We apply design science research principles to build a circular reference architecture. By analyzing the structural limits of high-performance hardware, we transform sustainability requirements into real-world engineering constraints rather than treating them as standard, retroactive corporate social responsibility checklists.
 </aside>
----
 
-## 📊 Section IV: Findings
+<!-- --- -->
+
+# 📊 Section IV: Findings
 
 ### IV.A Boundary Inputs for Metabolic Governance
 
@@ -300,9 +303,9 @@ To resolve the structural contradiction between batch efficiency and memory safe
 The SVI formalizes two operational states. State A is maximum volatility: under-batched workloads run while regional grid stress is already at its peak, so the indicator approaches one and signals heavy eco-debt accumulation for very little computational throughput. State B is architectural homeostasis: the system reaches full batch saturation, or it shifts non-latent work to off-peak windows, and the indicator resolves to zero — computation is then safely buffered by the biophysical capacity of the surrounding ecosystem. The broader lesson here is that local optimization for client-side latency, pursued in isolation, quietly enforces an aggregate energy penalty across the macro-grid — which is exactly the blind spot the linear electrons-to-tokens model cannot see.
 </aside>
 
----
+<!-- --- -->
 
-## 💬 Section V: Discussion
+# 💬 Section V: Discussion
 ### Restoring the Atom-to-Values Closed Loop
 
 * **Reframing the Paradigm:** Shifting from extractive to regenerative governance
@@ -313,11 +316,11 @@ The SVI formalizes two operational states. State A is maximum volatility: under-
 <aside class="notes">
 Our reference architecture directly answers our primary research question by shifting the AI infrastructure paradigm from an extractive linear stack to an atom-to-values closed loop. Rather than treating waste heat and thermal entropy as ignored externalities, they are tracked as active balance-sheet liabilities.
 </aside>
+
 ---
 
 ## 💬 Section V: Discussion
 ### Digital Product Passports (DPP) & Material Circularity
-
 * **Tracking Lifecycles:** Managing the rapid obsolescence of advanced accelerators
 * **Reverse Supply Chains:** Auditing e-waste streams and material recovery
 * **Regulatory Compliance:** Automating adherence to EU CSDDD and CBAM mandates
@@ -326,6 +329,7 @@ Our reference architecture directly answers our primary research question by shi
 <aside class="notes">
 By deploying Digital Product Passports and regulatory technology, the reference architecture tracks the entire lifecycle of high-performance components. This allows operators to audit e-waste streams and automate compliance with strict international environmental laws like the EU's Corporate Sustainability Due Diligence Directive.
 </aside>
+
 ---
 
 ## 💬 Section V: Discussion
@@ -352,9 +356,11 @@ Crucially, our framework centers value creation around real human needs. This al
 <aside class="notes">
 For technology strategists and engineering managers, we translate these insights into a highly practical compliance checklist. Managers must actively align their workloads with local energy community capacities, structurally route facility waste heat, and utilize digital passports to extend accelerator lifecycles.
 </aside>
----
 
-## 🏁 Section VI: Conclusion
+<!-- --- -->
+
+# 🏁 Section VI: Conclusion
+
 ### Framework Limitations & TRL Status
 
 * **Conceptual Stage (TRL 1–2):** Pending formal adoption by official IEEE roadmapping bodies
@@ -365,6 +371,7 @@ For technology strategists and engineering managers, we translate these insights
 <aside class="notes">
 We acknowledge certain limitations in our current work. The framework sits at an early technology readiness level and needs formal integration into standard global industry roadmaps. Future testing must include extensive field validation to ensure metadata integrity across real-world, global supply chains.
 </aside>
+
 ---
 
 ## 🏁 Section VI: Conclusion
@@ -404,7 +411,9 @@ The real-world urgency of this research is highly visible. Right now, utilities 
 Our future work calls for an integrated roadmap across global standards bodies, expanding smart city frameworks into smart intelligence networks. Ultimately, advanced digital technologies require deep systems thinking. To make generative AI truly sustainable, we must govern it within the finite limits of our planet. Thank you.
 </aside>
 
-# Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+<!-- --- -->
+
+# 🙏 for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 From Stacks to Circuits

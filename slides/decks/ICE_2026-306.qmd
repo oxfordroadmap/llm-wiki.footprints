@@ -498,7 +498,7 @@ Strategic Resilience Architecture
 Redefining GBS as a primary governance mechanism is essential for maintaining global resilience in a volatile, multipolar digital economy. By aligning technical talent with sustainable intelligence, organizations can safely navigate multi-polar strains and bifurcated supply chains. Thank you, and I look forward to your questions and partnerships.
 </aside>
 
-# Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+# 🙏 Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
 Orchestrating the Twin Transition in Multinational Corporations
