@@ -161,7 +161,9 @@ Our literature review highlights a massive architectural gap. While models for p
 
 * **RQ1: Data Interoperability**: How can semiconductor analytics and measurement systems integrate heterogeneous data and generalize across customers and process nodes while remaining interoperable with ESG frameworks, including through federated data space architecture integration?
 * **RQ2: Scarcity Adaptation**: How can analytics and measurement platforms be designed and tuned for scarce or imbalanced data while maintaining reliability for critical defect classes, leveraging soft-sensing, VM, and outsourced pipelines for better resource allocation, risk management, and lifecycle assurance?
-* **RQ3: Eco-Efficiency**: How can industrial analytics improve yield and throughput while preserving performance for underrepresented classes and aligning with AI safety and sustainability mandates (e.g., Scope 3, CBAM) -- framing optimization as a SoS challenge rather than a purely algorithmic one? This SoS approach underscores the necessity for integrated data architectures to achieve safe, climate-neutral, and circular innovation.
+* **RQ3: Eco-Efficiency**: How can industrial analytics improve yield and throughput while preserving performance for underrepresented classes and aligning with AI safety and sustainability mandates (e.g., Scope 3, CBAM) -- framing optimization as a SoS challenge rather than a purely algorithmic one? 
+
+This SoS approach underscores the necessity for integrated data architectures to achieve safe, climate-neutral, and circular innovation.
 
 ---
 
@@ -216,9 +218,9 @@ Table 3 outlines our dataset. We analyzed 1,465 total documents. Web of Science 
 👩‍🏫 IV.A: Institutional Affiliation
 :::
 
-> Table IV. Top Affiliations: WoS vs Scopus
+*Table IV. Top Affiliations: WoS vs Scopus*
 
-![Fig 5](/assets/2026_ICE-SSbD/Table-IV.jpeg){width="75%" fig-align="center"}
+![](/assets/2026_ICE-SSbD/Table-IV.jpeg){width="75%" fig-align="center"}
 
 <aside class="notes">
 Our institutional mapping in Table 4 exposed a severe structural hole. Academic networks in Web of Science focus heavily on fundamental modeling. Meanwhile, Scopus is dominated by corporate heavyweights like Infineon, IMEC, and ASML. There is an absence of formal mechanisms translating university research into industrial practice.
