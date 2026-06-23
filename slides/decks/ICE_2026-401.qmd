@@ -81,7 +81,7 @@ Welcome everyone. My name is Han-Teng Liao. Allow me to start with a personal pe
 ## 🌱 Personal Background and Angle 1
 
 ```{mermaid}
-pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
+pie title Taiwan First Carbon Fee Revenue 
     "Semiconductors" : 2200
     "Electricity Supply" : 635
     "Steel" : 400
