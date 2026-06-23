@@ -42,9 +42,9 @@ A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Bo
 :::
 
 ::: {.session-info}
-- RS-MI-2B: **AI, Generative AI & Digital Transformation**, ICE 32nd Ed.
+- SS08-SJ-2C: **Digital Circular Economy III**, ICE 32nd Ed.
 
-- Tuesday, 23/June/2026: 3:00pm - 4:20pm; Location: Room **Miragaia**
+- Tuesday, 23/June/2026: 4:40pm - 6:00pm; Location: Room **João**
 ::: 
 
 ::::: {.presentation-meta}
@@ -63,7 +63,7 @@ A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Bo
 ::: {.author-card}
 ::: {.author-avatar-group}
 [Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
-[Independent Researcher / Infineon]{.affiliation}
+[Independent Researcher]{.affiliation}
 :::
 
 <!--<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">-->
