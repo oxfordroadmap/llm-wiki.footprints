@@ -297,7 +297,6 @@ We can now synthesize our three core research questions. Data interoperability, 
 *Note: Conceptual outline of Fig. 4.*
 
 <aside class="notes">
-
 Answering all research questions, we propose this six-layer Safe and Sustainable by Design architecture. This framework acts as a conceptual scaffold to integrate factory floor metrology directly with high-level regulatory compliance, mapping data flows from molecule to market.
 </aside>
 

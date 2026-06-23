@@ -29,7 +29,6 @@ format:
     parallax-background-vertical: 0  
 image: /assets/2026_ICE-DCE/Fig.1.png
 ---
-
 #  {.title-slide-first background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
 
 ::: {.title}
@@ -99,9 +98,9 @@ Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On 
 * **Externalized Liabilities:** Material and thermodynamic costs
 * **Socio-Technical Tension:** Disconnection from regional carrying capacities
 
-Note:
+<aside class="notes">
 Welcome everyone. Today we look at the rapid scaling of Generative AI. The current industry standard is a linear, performance-at-all-costs paradigm. This approach focuses strictly on optimizing from electrons to tokens, but it completely externalizes major physical and ecological liabilities.
-
+</aside>
 ---
 
 ## 🧭 Section I: Introduction
@@ -112,21 +111,34 @@ Welcome everyone. Today we look at the rapid scaling of Generative AI. The curre
 * **The Twin Transition:** Merging digital innovation with material circularity
 * **Core Hypothesis:** RST frameworks can reconcile compute growth with environmental boundaries
 
-Note:
+<aside class="notes">
 This intensive scaling creates a massive collision with physical reality. In places like Taiwan, regional power distribution grids are already capping data center power expansions due to severe supply imbalances. Our study explores how a Regenerative Socio-Technical framework can prevent these sudden infrastructure crashes.
-
+</aside>
 ---
 
 ## 📚 Section II: Literature Review
-### Deconstructing the 5-Layer Production Stack
 
-* **L1 to L3:** Energy, Chips, and Infrastructure layers
-* **L4 to L5:** AI Models and Application ecosystems
-* **The Commoditization Trap:** Treating power as a static utility input
-* **The Jevons Paradox:** Efficiency gains triggering non-linear demand spikes
+### II.A Electrons to Tokens: Scaling Through Orchestration
 
-Note:
-The dominant industry model treats the data center as a basic factory line. The problem with this five-layer stack architecture is that it treats energy as a static, infinite utility input. Under Jevons Paradox, making tokens cheaper simply triggers an explosion in total macro energy consumption.
+::: {.subtitle}
+TABLE I: The 5-Layer AI Production Stack (adapted from Nvidia [1])
+:::
+
+| Layer | Functional Domain | Industrial Role |
+|---|---|---|
+| **L5** | Applications | Enterprise agents, robotics, smart apps |
+| **L4** | Models | Cognitive engines (LLMs) |
+| **L3** | Infrastructure | AI / data centers (compute) |
+| **L2** | Chips | GPU / TPU / NPU acceleration |
+| **L1** | Energy | Power generation & cooling |
+
+*   **The Factory Model:** Electricity as raw material, the token as final product — "electrons to tokens."
+*   **The Commoditization Trap:** Energy treated as a static, infinite utility input, decoupled from regenerative limits.
+*   **The Jevons Paradox:** Per ITU-T L.1480, cheaper tokens trigger non-linear, System-of-Systems-level demand rebounds that outrun local grid adaptation.
+
+<aside class="notes">
+Nvidia's five-layer cake — Energy, Chips, Infrastructure, Models, Applications — is the dominant industry blueprint, treating the data center as a factory: electricity goes in as raw material, and the token comes out as the final product. The problem is that this linear "electrons to tokens" model treats energy as a static, commoditized input rather than a finite, regenerative resource. Viewed through a System-of-Systems lens and under ITU-T Recommendation L.1480, this narrow framing fails systemic auditing: as token unit costs fall, the resulting AI agent boom triggers Jevons Paradox rebound effects, expanding aggregate macro-energy demand faster than local power networks can structurally adapt.
+</aside>
 
 ---
 
@@ -138,9 +150,9 @@ The dominant industry model treats the data center as a basic factory line. The 
 * **SSbD Framework:** Safe and Sustainable by Design electronics
 * **The Knowledge Gap:** Merging real-time AI operation with static facility roadmaps
 
-Note:
+<aside class="notes">
 To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. It details quantitative targets for water and chemical safety. However, a major knowledge gap persists: the industry lacks a way to bridge these static manufacturing parameters with live, operational AI workloads.
-
+</aside>
 ---
 
 ## 🛠️ Section III: Methodology
@@ -153,9 +165,9 @@ To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. I
 * **Socio-Technical Governance:** Centering "Values and Needs"
 * **System Dynamics:** Interconnecting operational loops with environmental boundaries
 
-Note:
+<aside class="notes">
 Our methodology bridges this gap by repurposing the Sustainable Production and Consumption framework into a system dynamics model. This maps the lifecycle of compute into a Triple Bottom Line taxonomy, ensuring that the inner economic loops are structurally anchored by socio-technical governance and ecological limits.
-
+</aside>
 ---
 
 ## 🛠️ Section III: Methodology
@@ -166,24 +178,56 @@ Our methodology bridges this gap by repurposing the Sustainable Production and C
 * **Empirical Grounding:** Real-world metrics from regional power dynamics
 * **Analytical Integration:** Linking chip micro-telemetry to macro-systemic impacts
 
-Note:
+<aside class="notes">
 We apply design science research principles to build a circular reference architecture. By analyzing the structural limits of high-performance hardware, we transform sustainability requirements into real-world engineering constraints rather than treating them as standard, retroactive corporate social responsibility checklists.
+</aside>
+---
+
+## 📊 Section IV: Findings
+
+### IV.A Boundary Inputs for Metabolic Governance
+
+::: {.subtitle}
+TABLE II: Three-Tiered System Constraints
+:::
+
+| Layer | Primary Data Source | Homeostatic Threshold Example |
+|---|---|---|
+| **Physical Infrastructure** | IEEE IRDS ESSF Roadmaps | < 0.5 L/kWh compute; PFAS & emission controls |
+| **Operational Compute** | Inference efficiency literature | Thermodynamic efficiency collapse at low concurrency; KV-cache memory sprawl |
+| **Policy & Governance** | EU SSbD/CBAM; *Magnifica Humanitas* | 5 MW grid ceiling north of Taoyuan; zero-exploitation supply chains |
+
+*   **Unified Boundary Matrix:** Physical limits, chip telemetry, and policy mandates synthesized into one real-time governance baseline — not three disjointed layers.
+*   **Operational Closure:** These thresholds define the conditions under which the computing fabric must achieve metabolic balance.
+
+<aside class="notes">
+Our first major result is the formal translation of multi-scalar telemetry into a single, unified boundary matrix for automated system regulation. Rather than treating physical infrastructure limits, chip-level telemetry, and international policy mandates as three disjointed operational layers, the RST architecture synthesizes them into one real-time baseline. Physical infrastructure constraints come from the IEEE IRDS ESSF roadmaps — for example, water intensity under half a liter per kilowatt-hour of compute. Operational compute constraints come from inference-efficiency literature, where thermodynamic efficiency collapses sharply at low concurrency. And policy constraints come from EU SSbD and CBAM regulation, alongside the Papal encyclical's social mandates — concretely instantiated by Taipower's strict five-megawatt grid allocation ceiling north of Taoyuan. Table II shows how these three tiers, taken together, define the homeostatic thresholds the RST architecture must operate within.
+</aside>
 
 ---
 
 ## 📊 Section IV: Findings
-### Upstream & Downstream Externalities
+
+### IV.B Upstream & Downstream Externalities
+
+::: {.subtitle}
+TABLE III: The 5-Layer Stack's Externalized Liabilities
+:::
 
 | Layer | Functional Domain | Key Externalized Liability |
 |---|---|---|
-| **L5** | Applications | Uncapped token demand generation |
-| **L4** | Models | Extreme memory capacity sprawl |
-| **L3** | Infrastructure | Cooling water depletion & grid volatility |
-| **L2** | Chips | Embodied carbon & short e-waste lifecycles |
-| **L1** | Energy | Extractive reliance on municipal grids |
+| **L5** | Applications | Uncapped token demand drives the Jevons Paradox rebound |
+| **L4** | Models | Unmitigated HBM capacity sprawl from context scaling |
+| **L3** | Infrastructure | Cooling water depletion & unbuffered grid volatility |
+| **L2** | Chips | Embodied carbon of advanced lithography & e-waste |
+| **L1** | Energy | Extractive reliance on municipal grids, delaying green transitions |
 
-Note:
-Let's review our architectural findings. When we audit the standard linear stack, we expose massive externalized liabilities across every layer. Application demand drives the Jevons paradox rebound effect, while infrastructure layers trigger severe cooling water depletion and unbuffered regional utility grid strain.
+*   **The Contrast:** Table III is what the linear stack ignores; Table II is what the RST architecture instead enforces.
+*   **The Reframe:** Energy and materials shift from infinite exogenous inputs to localized, accountable boundaries.
+
+<aside class="notes">
+Having established the boundary matrix in Table II, we now contrast it against the prevailing linear stack model, which focuses narrowly on unidirectional electrons-to-tokens conversion. Table III shows what that model overlooks at every layer. Applications drive uncapped token demand and the Jevons Paradox rebound. Models cause unmitigated high-bandwidth-memory sprawl as context windows grow. Infrastructure triggers cooling water depletion and unbuffered regional grid volatility. Chips carry embodied carbon from advanced lithography and short e-waste lifecycles. And energy remains an extractive draw on municipal grids that delays green digital transitions. Instead of treating energy and materials as infinite, exogenous inputs, the RST framework accounts for all of these as localized, socio-technical, and thermodynamic boundaries — directly governed by the thresholds we just saw in Table II.
+</aside>
 
 ---
 
@@ -196,9 +240,9 @@ $$B_{min} \geq \frac{\alpha \cdot N}{L \cdot d_{model}}$$
 * **Arithmetic Underutilization:** Sub-optimal batches draw peak baseline power
 * **Metabolic Entropy:** Idle hardware expending energy on memory-bus transfers
 
-Note:
+<aside class="notes">
 The root of these environmental liabilities is actually found at the micro-architectural silicon layer. The memory wall forcing model weights between high-bandwidth memory and registers creates severe thermodynamic friction. Falling below the minimum operational batch threshold causes the hardware to waste high baseline power while idling.
-
+</aside>
 ---
 
 ## 📊 Section IV: Findings
@@ -210,9 +254,9 @@ $$M_{KV} = 2 \cdot B \cdot L \cdot h \cdot d_{byte}$$
 * **Hardware Fragmentation:** Sharding models across clusters just to pool memory
 * **Capacity Over-Provisioning:** Low-concurrency regimes driving building booms
 
-Note:
+<aside class="notes">
 This issue is amplified by long context windows, where Key-Value cache memory demands scale linearly. To accommodate this memory sprawl, operators are sharding workloads across massive, multi-GPU clusters purely to pool high-bandwidth memory space, resulting in low arithmetic utilization and intense resource consumption.
-
+</aside>
 ---
 
 ## 📊 Section IV: Findings
@@ -223,37 +267,38 @@ This issue is amplified by long context windows, where Key-Value cache memory de
 * **The Cycle of CapEx:** Building redundant facilities that inherit the same flaws
 * **The Ecosystem Ceiling:** The immediate need for an automated metabolic governor
 
-Note:
+<aside class="notes">
 This creates an acute engineering contradiction. Maximizing batch efficiency causes hardware memory faults, while down-batching traps the system in a high-entropy idling state. This drives a cycle of massive capital expenditure to build redundant hyperscale facilities that inherit the exact same operational flaws.
-
+</aside>
 ---
 
 ## 📊 Section IV: Findings
-### Introducing the Systemic Volatility Indicator (SVI)
 
-* **Operational Bounding Tool:**
+### IV.C Introducing the Systemic Volatility Indicator (SVI)
+
+*   **The Automated Metabolic Governor:**
 $$SVI = \max\left(0, \, \frac{B_{roof} - B}{B_{roof}} \cdot \gamma_{grid}\right)$$
-* **$B_{roof}$:** Hardware roofline balance threshold
-* **$\gamma_{grid}$:** Localized grid utilization ratio relative to institutional caps
-* **The Homeostatic Target:** Driving the indicator toward absolute zero
+*   **$B$ vs. $B_{roof}$:** Instantaneous operating batch size against the hardware roofline threshold.
+*   **$\gamma_{grid}$:** Localized grid utilization relative to institutional caps — concretely, Taipower's 5 MW regional allocation ceiling north of Taoyuan.
+*   **The Homeostatic Target:** A cybernetic steering engine driving the indicator toward zero, not a static compliance score.
 
-Note:
-To resolve this tension, our architecture implements an automated metabolic governor driven by the Systemic Volatility Indicator, or SVI. This dimensionless metric monitors both real-time micro-architecture utilization and localized utility grid stress, bounding performance based on regional infrastructure health.
+<aside class="notes">
+To resolve the structural contradiction between batch efficiency and memory safety, the architecture implements an automated metabolic governor: the Systemic Volatility Indicator, or SVI. It is bounded at zero to prevent negative indexing. The first term captures how far the instantaneous operating batch size falls below the hardware roofline threshold — that's the micro-architectural side. The second term, gamma-grid, captures the localized power grid utilization ratio relative to institutional ceilings — concretely, this is Taipower's strict five-megawatt regional allocation cap north of Taoyuan. The SVI acts as a cybernetic steering engine, not a one-off compliance score, dynamically bundling fragmented requests or shifting workloads to off-peak micro-grids whenever it drifts away from zero.
+</aside>
 
 ---
 
 ## 📊 Section IV: Findings
-### SVI Operational States
 
-* **State A: Maximum Volatility ($SVI \to 1$)**
-  * Under-batched workloads run during high regional grid stress
-  * High eco-debt accumulation for low computational throughput
-* **State B: Architectural Homeostasis ($SVI \to 0$)**
-  * Saturated batch processing running on balanced energy grids
-  * Computation safely buffered by the biophysical ecosystem capacity
+### IV.D SVI Operational States
 
-Note:
-The SVI formalizes two core operational states. When under-batched workloads run during peak regional grid stress, the SVI approaches one, signaling severe eco-debt. When the system achieves full batch saturation during off-peak windows, the SVI drops to zero, indicating safe architectural homeostasis.
+*   **State A — Maximum Volatility ($SVI \to 1$):** Under-batched workloads ($B \ll B_{roof}$) run during peak regional grid stress ($\gamma_{grid} \to 1$); high eco-debt accumulates for low computational throughput.
+*   **State B — Architectural Homeostasis ($SVI \to 0$):** Full batch saturation ($B \to B_{roof}$) or off-peak execution; computation is safely buffered by the biophysical capacity of the ecosystem.
+*   **The Lesson:** Local latency optimization, pursued in isolation, can quietly enforce an aggregate energy penalty across the macro-grid.
+
+<aside class="notes">
+The SVI formalizes two operational states. State A is maximum volatility: under-batched workloads run while regional grid stress is already at its peak, so the indicator approaches one and signals heavy eco-debt accumulation for very little computational throughput. State B is architectural homeostasis: the system reaches full batch saturation, or it shifts non-latent work to off-peak windows, and the indicator resolves to zero — computation is then safely buffered by the biophysical capacity of the surrounding ecosystem. The broader lesson here is that local optimization for client-side latency, pursued in isolation, quietly enforces an aggregate energy penalty across the macro-grid — which is exactly the blind spot the linear electrons-to-tokens model cannot see.
+</aside>
 
 ---
 
@@ -265,9 +310,9 @@ The SVI formalizes two core operational states. When under-batched workloads run
 * **From CSR to RegTech:** Real-time engineering metrics replacing static reports
 * **Systemic Realignment:** Forcing tokenomics to respect finite planetary boundaries
 
-Note:
+<aside class="notes">
 Our reference architecture directly answers our primary research question by shifting the AI infrastructure paradigm from an extractive linear stack to an atom-to-values closed loop. Rather than treating waste heat and thermal entropy as ignored externalities, they are tracked as active balance-sheet liabilities.
-
+</aside>
 ---
 
 ## 💬 Section V: Discussion
@@ -278,9 +323,9 @@ Our reference architecture directly answers our primary research question by shi
 * **Regulatory Compliance:** Automating adherence to EU CSDDD and CBAM mandates
 * **Operational Integration:** Linking physical hardware telemetry with policy constraints
 
-Note:
+<aside class="notes">
 By deploying Digital Product Passports and regulatory technology, the reference architecture tracks the entire lifecycle of high-performance components. This allows operators to audit e-waste streams and automate compliance with strict international environmental laws like the EU's Corporate Sustainability Due Diligence Directive.
-
+</aside>
 ---
 
 ## 💬 Section V: Discussion
@@ -291,9 +336,9 @@ By deploying Digital Product Passports and regulatory technology, the reference 
 * **Supply Chain Auditing:** Tracking data labeling, mineral extraction, and labor
 * **Resource Sovereignty:** Protecting regional civil infrastructure from digital strain
 
-Note:
+<aside class="notes">
 Crucially, our framework centers value creation around real human needs. This allows socio-ethical specifications, such as institutional human rights frameworks, to guide compute deployment. By doing so, it protects regional communities from labor exploitation and defends public civil resource sovereignty.
-
+</aside>
 ---
 
 ## 💬 Section V: Discussion
@@ -304,9 +349,9 @@ Crucially, our framework centers value creation around real human needs. This al
 * [ ] **Lifecycle Circularity:** Deploy DPPs to track hardware through reverse supply chains
 * [ ] **Asset Amortization:** Extend operational lifetimes to balance embodied carbon
 
-Note:
+<aside class="notes">
 For technology strategists and engineering managers, we translate these insights into a highly practical compliance checklist. Managers must actively align their workloads with local energy community capacities, structurally route facility waste heat, and utilize digital passports to extend accelerator lifecycles.
-
+</aside>
 ---
 
 ## 🏁 Section VI: Conclusion
@@ -317,9 +362,9 @@ For technology strategists and engineering managers, we translate these insights
 * **Validation Requirements:** Large-scale distributed pilots required to confirm data integrity
 * **Future Path:** Bridging the gap between conceptual reference models and ground-truth physics
 
-Note:
+<aside class="notes">
 We acknowledge certain limitations in our current work. The framework sits at an early technology readiness level and needs formal integration into standard global industry roadmaps. Future testing must include extensive field validation to ensure metadata integrity across real-world, global supply chains.
-
+</aside>
 ---
 
 ## 🏁 Section VI: Conclusion
@@ -330,9 +375,9 @@ We acknowledge certain limitations in our current work. The framework sits at an
 * **Internalized Debt:** Formalized ecological footprints as active software constraints
 * **Paradigmatic Shift:** Moved deep tech thinking from raw compute density to resource parsimony
 
-Note:
+<aside class="notes">
 In conclusion, this study contributes a system-of-systems reference architecture that tethers token generation to planetary boundaries. By introducing the Systemic Volatility Indicator, we prove that ecological debt can be successfully managed as an active software orchestration constraint.
-
+</aside>
 ---
 
 ## 🏁 Section VI: Conclusion
@@ -343,18 +388,60 @@ In conclusion, this study contributes a system-of-systems reference architecture
 * **The Lesson:** Technical efficiency gains cannot bypass biophysical constraints
 * **The Imperative:** Standardizing circular governance before hitting ecological walls
 
-Note:
+<aside class="notes">
 The real-world urgency of this research is highly visible. Right now, utilities are enforcing strict energy ceilings on new data centers due to grid imbalances. This confirms that technical efficiency gains cannot escape local biophysical limits, highlighting the urgent need for standardized circular governance.
-
+</aside>
 ---
 
-## 🌱 Section VI: Conclusion
+## 🏁 Section VI: Conclusion
 ### Strategic Roadmap for Future Alliances
 
 * **IEEE Integration:** Linking HIR manufacturing tracks with systemic environmental accounting
 * **Policy Expansion:** Advancing smart city frameworks into smart intelligence networks
 * **Final Vision:** Deep technologies demand deep systems thinking anchored in planetary realities
 
-Note:
+<aside class="notes">
 Our future work calls for an integrated roadmap across global standards bodies, expanding smart city frameworks into smart intelligence networks. Ultimately, advanced digital technologies require deep systems thinking. To make generative AI truly sustainable, we must govern it within the finite limits of our planet. Thank you.
+</aside>
 
+# Thank You for Your Attention! {.title-slide-last background-image="/assets/brand/Infineon-Top.png" background-size="100% auto" background-position="top" background-repeat="no-repeat"}
+
+::: {.title}
+From Stacks to Circuits
+:::
+
+::: {.subtitle}
+A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Boundaries
+:::
+
+::: {.session-info}
+- RS-MI-2B: **AI, Generative AI & Digital Transformation**, ICE 32nd Ed.
+
+- Tuesday, 23/June/2026: 3:00pm - 4:20pm; Location: Room **Miragaia**
+::: 
+
+::::: {.presentation-meta}
+
+:::: {.author-cluster}
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Han-Teng Liao]{.name} [0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599){.orcid-num}\
+[Independent Researcher]{.affiliation}
+:::
+
+<img src="../../assets/brand/scvcs-logo.png" class="brand-logo" alt="SCVCS Logo">
+:::
+
+::: {.author-card}
+::: {.author-avatar-group}
+[Karen Ang]{.name} [0009-0008-5923-0106](https://orcid.org/0009-0008-5923-0106){.orcid-num}\
+[Independent Researcher / Infineon]{.affiliation}
+:::
+
+<img src="../../assets/brand/Infineon-Logo.png" class="brand-logo" alt="Infineon Logo">
+:::
+
+::::
+
+:::::
