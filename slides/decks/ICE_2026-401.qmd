@@ -90,8 +90,6 @@ pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
     "Others (Remaining Sectors)" : 1605
 ```
 
-### Huang's vision under scrutiny
-
 ::: {.subtitle}
 [AI & Net-Zero Dual Transformation Forum](https://www.semi.org/zh/ai-netzero/transforum#agenda)
 :::
@@ -117,8 +115,7 @@ Welcome everyone. Today we look at the rapid scaling of Generative AI. The curre
 
 ---
 
-## 🧭 Section I: Introduction
-### The Collision with Physical Realities
+## Collision with Physical Realities
 
 * **Resource Strains:** Intense energy and cooling water extraction
 * **The Grid Paradox:** Local infrastructure application caps
@@ -159,9 +156,9 @@ Nvidia's five-layer cake — Energy, Chips, Infrastructure, Models, Applications
 
 ---
 
-## 📚 Section II: Literature Review
-
-### Semiconductor Facilities & The IEEE IRDS Lens
+::: {.subtitle}
+II.E-F Semiconductor Facilities & The IEEE IRDS Lens
+:::
 
 * **IEEE IRDS ESSF Guidelines:** Facility-level resource parameters
 * **Key Pillars:** Water intensity, energy efficiency, and chemical safety
