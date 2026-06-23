@@ -74,8 +74,7 @@ A Regenerative Socio-Technical Roadmap for AI Infrastructure within Planetary Bo
 :::::
 
 <aside class="notes">
-Welcome everyone. My name is Han-Teng Liao, an independent researcher ...... On behalf of my co-author Karen Ang, I will present our Technology Roadmapping study for Green and Digital Global Business Services. Today we examine how GBS hubs orchestrate the Twin Transition across multinational corporations.
-</aside>
+Welcome everyone. My name is Han-Teng Liao. Allow me to start with a personal perspective on the impact of the generative AI on the environment.</aside>
 
 ---
 
@@ -109,8 +108,11 @@ The Unprecedented Scaling of Generative AI
 * **Externalized Liabilities:** Material and thermodynamic costs
 * **Socio-Technical Tension:** Disconnection from regional carrying capacities
 
+![](https://blogs.nvidia.com/wp-content/uploads/2026/02/JHH-CES2026-FullStack-scaled.jpg){width="100%""}
+
+
 <aside class="notes">
-Welcome everyone. Today we look at the rapid scaling of Generative AI. The current industry standard is a linear, performance-at-all-costs paradigm. This approach focuses strictly on optimizing from electrons to tokens, but it completely externalizes major physical and ecological liabilities.
+Today we look at the rapid scaling of Generative AI. The current industry standard is a linear, performance-at-all-costs paradigm. This approach focuses strictly on optimizing from electrons to tokens, but it completely externalizes major physical and ecological liabilities.
 </aside>
 
 ---
