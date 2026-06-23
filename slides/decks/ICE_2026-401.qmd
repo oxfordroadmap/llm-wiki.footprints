@@ -102,7 +102,10 @@ pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
 
 # 🧭 Section I: Introduction {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### The Unprecedented Scaling of Generative AI
+::: {.subtitle}
+The Unprecedented Scaling of Generative AI
+:::
+
 * **Linear Efficiency Focus:** "Electrons to Tokens" optimization
 * **Performance Density:** Prioritizing computational speed
 * **Externalized Liabilities:** Material and thermodynamic costs
@@ -130,7 +133,9 @@ This intensive scaling creates a massive collision with physical reality. In pla
 
 # 📚 Section II: Literature Review {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### II.A Electrons to Tokens: Scaling Through Orchestration
+::: {.subtitle}
+II.A Electrons to Tokens: Scaling Through Orchestration
+:::
 
 ::: {.subtitle}
 TABLE I: The 5-Layer AI Production Stack (adapted from Nvidia [1])
@@ -170,7 +175,10 @@ To address this, we turn to the 2024 IEEE IRDS semiconductor facility roadmap. I
 <!-- --- -->
 
 # 🛠️ Section III: Methodology {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
-### Repurposing Sustainable Production & Consumption (SPaC)
+
+::: {.subtitle}
+Repurposing Sustainable Production & Consumption (SPaC)
+:::
 
 ![Fig 1: The "Atom-to-Values" System of Systems (SoS) loops for AI compute (adapted and expanded from the Sustainable Production and Consumption (SPaC) framework by J. Barber in [18]](/assets/2026_ICE-DCE/Fig.1.svg){width=100%}
 
@@ -200,7 +208,9 @@ We apply design science research principles to build a circular reference archit
 
 # 📊 Section IV: Findings {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### IV.A Boundary Inputs for Metabolic Governance
+::: {.subtitle}
+IV.A Boundary Inputs for Metabolic Governance
+::: 
 
 ::: {.subtitle}
 TABLE II: Three-Tiered System Constraints
@@ -319,7 +329,9 @@ The SVI formalizes two operational states. State A is maximum volatility: under-
 
 # 💬 Section V: Discussion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### Restoring the Atom-to-Values Closed Loop
+::: {.subtitle}
+Restoring the Atom-to-Values Closed Loop
+:::
 
 * **Reframing the Paradigm:** Shifting from extractive to regenerative governance
 * **Internalizing Entropy:** Treating waste heat, water, and carbon as liabilities
@@ -374,7 +386,9 @@ For technology strategists and engineering managers, we translate these insights
 
 # 🏁 Section VI: Conclusion {.title-slide-section background-image="/assets/brand/Infineon-Left.png" background-size="100% auto" background-position="bottom left" background-repeat="no-repeat"}
 
-### Framework Limitations & TRL Status
+::: {.subtitle}
+Framework Limitations & TRL Status
+:::
 
 * **Conceptual Stage (TRL 1–2):** Pending formal adoption by official IEEE roadmapping bodies
 * **Micro-Telemetry Access:** Needs deeper integration with proprietary hardware APIs
