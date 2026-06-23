@@ -78,7 +78,7 @@ Welcome everyone. My name is Han-Teng Liao. Allow me to start with a personal pe
 
 ---
 
-## 🌱 Personal Background and Angle
+## 🌱 Personal Background and Angle 1
 
 ```{mermaid}
 pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
@@ -88,6 +88,10 @@ pie title Taiwan First Carbon Fee Revenue Breakdown (Million NT$)
     "Concrete" : 130
     "Others (Remaining Sectors)" : 1605
 ```
+
+---
+
+## 🌱 Personal Background and Angle 2
 
 ::: {.subtitle}
 [AI & Net-Zero Dual Transformation Forum](https://www.semi.org/zh/ai-netzero/transforum#agenda)
