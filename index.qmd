@@ -2,6 +2,8 @@
 title: "LLM-wiki-quarto"
 ---
 
+## (Please customize this index page for your purpose.)
+
 ## Proof of Concept
 
 > This proof of concept orchestrates a two-tier knowledge repository. 
