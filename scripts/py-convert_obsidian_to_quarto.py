@@ -6,9 +6,9 @@ Copies an Obsidian .md vault to a Quarto output folder,
 rewriting [[wiki links]] to [label](path.qmd) along the way.
 
 Usage:
-    python scripts/convert_obsidian_to_quarto.py
-    python scripts/convert_obsidian_to_quarto.py --src brain/wiki --out site_src
-    python scripts/convert_obsidian_to_quarto.py --dry-run
+    python scripts/py-convert_obsidian_to_quarto.py
+    python scripts/py-convert_obsidian_to_quarto.py --src brain/wiki --out knowledge
+    python scripts/py-convert_obsidian_to_quarto.py --dry-run
 """
 
 import re
